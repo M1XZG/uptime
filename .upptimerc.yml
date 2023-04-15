@@ -9,6 +9,7 @@ sites:
     url: https://www.uk-experience.com
   - name: HA Proxy
     url: http://minecraft.rpmdp.com
+    notifications: [telegram]
   - name: Minecraft Maps
     url: http://minecraft.rpmdp.com:8123
   - name: Swindon Makerspace
