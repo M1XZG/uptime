@@ -11,6 +11,8 @@ sites:
     url: http://minecraft.rpmdp.com
   - name: Minecraft Maps
     url: http://minecraft.rpmdp.com:8123
+  - name: Swindon Makerspace
+    url: http://www.swindon-makerspace.org/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
