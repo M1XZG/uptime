@@ -6,7 +6,7 @@ sites:
   - name: Home
     url: https://home.rpmdp.com
   - name: Blog
-    url: https://www.uk-experience.com
+    url: https://www.uk-experience.com/wp-content/uploads/2022/01/flip-2.png
   - name: HA Proxy
     url: http://minecraft.rpmdp.com
   - name: Minecraft Maps
