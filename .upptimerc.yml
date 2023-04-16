@@ -12,7 +12,7 @@ sites:
   - name: Minecraft Maps
     url: http://minecraft.rpmdp.com:8123
   - name: Swindon Makerspace
-    url: http://www.swindon-makerspace.org/
+    url: https://www.swindon-makerspace.org/wp-content/uploads/2017/12/swindon-makerspace-logo-optimized.png
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
