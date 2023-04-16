@@ -5,16 +5,16 @@ repo: uptime # The name of this repository
 sites:
   - name: Home
     url: https://home.rpmdp.com
-  - name: Blog
-    url: https://www.uk-experience.com/wp-content/uploads/2022/01/flip-2.png
   - name: HA Proxy
     url: http://minecraft.rpmdp.com
   - name: Minecraft Maps
     url: http://minecraft.rpmdp.com:8123
-  - name: Swindon Makerspace
-    url: https://www.swindon-makerspace.org/wp-content/uploads/2017/12/swindon-makerspace-logo-optimized.png
+  - name: Blog
+    url: https://www.uk-experience.com/wp-content/uploads/2022/01/flip-2.png
   - name: Reggie Walks
     url: https://www.reggiewalkswitney.co.uk
+  - name: Swindon Makerspace
+    url: https://www.swindon-makerspace.org/wp-content/uploads/2017/12/swindon-makerspace-logo-optimized.png
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
