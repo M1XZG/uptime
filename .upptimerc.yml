@@ -13,11 +13,6 @@ sites:
     url: https://www.uk-experience.com/wp-content/uploads/2022/01/flip-2.png
   - name: Reggie Walks
     url: https://www.reggiewalkswitney.co.uk
-  - name: Swindon Makerspace
-    url: https://www.swindon-makerspace.org
-
-assignees:
-  - m1xzg
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
