@@ -16,6 +16,9 @@ sites:
   - name: Swindon Makerspace
     url: https://www.swindon-makerspace.org
 
+assignees:
+  - m1xzg
+
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
