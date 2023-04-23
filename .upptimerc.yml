@@ -25,7 +25,7 @@ status-website:
   name: Robs Servers
   introTitle: "Uptime Monitoring"
   introMessage: ""
-  theme: dark
+  theme: ocean
   navbar:
     - title: Status
       href: /
