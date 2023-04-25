@@ -4,18 +4,20 @@
     "url": "https://home.rpmdp.com",
     "icon": "https://icons.duckduckgo.com/ip3/home.rpmdp.com.ico",
     "slug": "home",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 426,
     "timeDay": 343,
-    "timeWeek": 428,
+    "timeWeek": 426,
     "timeMonth": 426,
     "timeYear": 426,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-04-25": 0
+    }
   },
   {
     "name": "HA Proxy",
@@ -40,18 +42,20 @@
     "url": "http://minecraft.rpmdp.com/fa/",
     "icon": "https://icons.duckduckgo.com/ip3/minecraft.rpmdp.com.ico",
     "slug": "flight-tracker",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 297,
-    "timeDay": 282,
-    "timeWeek": 297,
-    "timeMonth": 297,
-    "timeYear": 297,
-    "dailyMinutesDown": {}
+    "time": 273,
+    "timeDay": 157,
+    "timeWeek": 273,
+    "timeMonth": 273,
+    "timeYear": 273,
+    "dailyMinutesDown": {
+      "2023-04-25": 0
+    }
   },
   {
     "name": "Minecraft Maps",
