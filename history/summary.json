@@ -84,9 +84,9 @@
     "url": "https://www.uk-experience.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.uk-experience.com.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -95,16 +95,18 @@
     "timeWeek": 2314,
     "timeMonth": 1702,
     "timeYear": 1702,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-09": 0
+    }
   },
   {
     "name": "Reggie Walks",
     "url": "https://www.reggiewalkswitney.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.reggiewalkswitney.co.uk.ico",
     "slug": "reggie-walks",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -113,6 +115,8 @@
     "timeWeek": 2287,
     "timeMonth": 2089,
     "timeYear": 2089,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-09": 0
+    }
   }
 ]
