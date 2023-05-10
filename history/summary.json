@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/home.rpmdp.com.ico",
     "slug": "home",
     "status": "up",
-    "uptime": "99.61%",
+    "uptime": "99.62%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.30%",
-    "uptimeMonth": "99.61%",
-    "uptimeYear": "99.61%",
+    "uptimeWeek": "99.43%",
+    "uptimeMonth": "99.62%",
+    "uptimeYear": "99.62%",
     "time": 427,
     "timeDay": 420,
-    "timeWeek": 408,
+    "timeWeek": 413,
     "timeMonth": 427,
     "timeYear": 427,
     "dailyMinutesDown": {
@@ -47,12 +47,12 @@
     "status": "up",
     "uptime": "99.50%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.30%",
+    "uptimeWeek": "99.43%",
     "uptimeMonth": "99.50%",
     "uptimeYear": "99.50%",
     "time": 259,
     "timeDay": 302,
-    "timeWeek": 250,
+    "timeWeek": 247,
     "timeMonth": 259,
     "timeYear": 259,
     "dailyMinutesDown": {
@@ -84,9 +84,9 @@
     "url": "https://www.uk-experience.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.uk-experience.com.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "97.61%",
+    "uptimeDay": "97.60%",
     "uptimeWeek": "99.66%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.90%",
@@ -96,6 +96,7 @@
     "timeMonth": 1737,
     "timeYear": 1737,
     "dailyMinutesDown": {
+      "2023-05-10": 0,
       "2023-05-09": 34
     }
   },
@@ -104,7 +105,7 @@
     "url": "https://www.reggiewalkswitney.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.reggiewalkswitney.co.uk.ico",
     "slug": "reggie-walks",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
     "uptimeDay": "97.60%",
     "uptimeWeek": "99.66%",
@@ -116,6 +117,7 @@
     "timeMonth": 2108,
     "timeYear": 2108,
     "dailyMinutesDown": {
+      "2023-05-10": 0,
       "2023-05-09": 35
     }
   }
