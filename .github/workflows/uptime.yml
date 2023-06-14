@@ -24,6 +24,8 @@ jobs:
         with:
           ref: ${{ github.head_ref }}
           token: ${{ secrets.GH_PAT || github.token }}
+      - name: Rebuild NPM
+        run: npm rebuild
       - name: Check endpoint status
         uses: m1xzg/uptime-monitor@v1.0.0
         with:
