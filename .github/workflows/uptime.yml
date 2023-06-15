@@ -14,12 +14,9 @@ on:
   repository_dispatch:
     types: [uptime]
   workflow_dispatch:
-
-variables:
-  - name: upversion
-    value: ${{ env.UPTIME_VERSION }}
-
 jobs:
+  env:
+    UPTIME_VERSION: ${{env.UPTIME_VERSION}}
   release:
     name: Check status
     runs-on: ubuntu-20.04
@@ -30,7 +27,7 @@ jobs:
           ref: ${{ github.head_ref }}
           token: ${{ secrets.GH_PAT || github.token }}
       - name: Check endpoint status
-        uses: upptime/uptime-monitor@$(upversion)
+        uses: upptime/uptime-monitor@$UPTIME_VERSION
         with:
           command: "update"
         env:
