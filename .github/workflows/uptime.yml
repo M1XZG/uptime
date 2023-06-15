@@ -14,10 +14,12 @@ on:
   repository_dispatch:
     types: [uptime]
   workflow_dispatch:
-jobs:
-  variables:
+
+variables:
   - name: upversion
     value: ${{ env.UPTIME_VERSION }}
+
+jobs:
   release:
     name: Check status
     runs-on: ubuntu-20.04
