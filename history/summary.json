@@ -4,9 +4,9 @@
     "url": "https://home.rpmdp.com",
     "icon": "https://icons.duckduckgo.com/ip3/home.rpmdp.com.ico",
     "slug": "home",
-    "status": "up",
+    "status": "down",
     "uptime": "97.88%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.33%",
     "uptimeMonth": "94.31%",
     "uptimeYear": "97.88%",
@@ -16,6 +16,7 @@
     "timeMonth": 442,
     "timeYear": 441,
     "dailyMinutesDown": {
+      "2023-08-10": 0,
       "2023-08-07": 67,
       "2023-07-24": 835,
       "2023-07-23": 1440,
@@ -102,7 +103,7 @@
     "timeMonth": 0,
     "timeYear": 96,
     "dailyMinutesDown": {
-      "2023-08-10": 10,
+      "2023-08-10": 27,
       "2023-08-09": 1440,
       "2023-08-08": 1440,
       "2023-08-07": 1440,
