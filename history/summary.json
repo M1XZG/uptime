@@ -13,7 +13,7 @@
     "time": 456,
     "timeDay": 389,
     "timeWeek": 391,
-    "timeMonth": 441,
+    "timeMonth": 440,
     "timeYear": 456,
     "dailyMinutesDown": {
       "2023-10-16": 277,
@@ -71,7 +71,7 @@
     "time": 329,
     "timeDay": 289,
     "timeWeek": 299,
-    "timeMonth": 283,
+    "timeMonth": 289,
     "timeYear": 329,
     "dailyMinutesDown": {
       "2023-11-21": 38,
@@ -124,9 +124,9 @@
     "url": "https://www.reggiewalkswitney.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.reggiewalkswitney.co.uk.ico",
     "slug": "reggie-walks",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
@@ -136,6 +136,7 @@
     "timeMonth": 1932,
     "timeYear": 2318,
     "dailyMinutesDown": {
+      "2023-12-05": 0,
       "2023-08-17": 24,
       "2023-07-31": 34,
       "2023-07-02": 39,
