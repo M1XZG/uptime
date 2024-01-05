@@ -1,7 +1,7 @@
 url: http://minecraft.rpmdp.com/fa/
-status: up
-code: 200
-responseTime: 353
-lastUpdated: 2024-01-04T23:04:20.971Z
+status: down
+code: 503
+responseTime: 55
+lastUpdated: 2024-01-05T13:39:15.114Z
 startTime: 2023-04-21T12:59:17.000Z
 generator: Upptime <https://github.com/upptime/upptime>
