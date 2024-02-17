@@ -2,15 +2,15 @@
 owner: m1xzg # Your GitHub organization or username, where this repository lives
 repo: uptime # The name of this repository
 
-sites:
+sitebigbastard
   - name: Home
     url: https://home.rpmdp.com
   - name: HA Proxy
     url: http://bigbastard.letmeshoot.it
   - name: Flight Tracker (FA)
-    url: http://bigbastard.letmeshoot.it/fa/
+    url: http://fa.letmeshoot.it
   - name: Flight Tracker (FT)
-    url: http://bigbastard.letmeshoot.it/ft/
+    url: http://ft.letmeshoot.it
   - name: Blog
     url: https://www.uk-experience.com
   - name: Reggie Walks
