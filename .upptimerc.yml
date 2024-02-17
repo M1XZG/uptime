@@ -5,12 +5,12 @@ repo: uptime # The name of this repository
 sitebigbastard
   - name: Home
     url: https://home.rpmdp.com
-  - name: HA Proxy
-    url: http://bigbastard.letmeshoot.it
-  - name: Flight Tracker (FA)
-    url: http://fa.letmeshoot.it
-  - name: Flight Tracker (FT)
-    url: http://ft.letmeshoot.it
+  #- name: HA Proxy
+  #  url: http://bigbastard.letmeshoot.it
+  #- name: Flight Tracker (FA)
+  #  url: http://fa.letmeshoot.it
+  #- name: Flight Tracker (FT)
+  #  url: http://ft.letmeshoot.it
   - name: Blog
     url: https://www.uk-experience.com
   - name: Reggie Walks
