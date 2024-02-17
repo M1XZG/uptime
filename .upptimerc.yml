@@ -6,9 +6,11 @@ sites:
   - name: Home
     url: https://home.rpmdp.com
   - name: HA Proxy
-    url: http://minecraft.rpmdp.com
-  - name: Flight Tracker
-    url: http://minecraft.rpmdp.com/fa/
+    url: http://bigbastard.letmeshoot.it
+  - name: Flight Tracker (FA)
+    url: http://bigbastard.letmeshoot.it/fa/
+  - name: Flight Tracker (FT)
+    url: http://bigbastard.letmeshoot.it/ft/
   - name: Blog
     url: https://www.uk-experience.com
   - name: Reggie Walks
