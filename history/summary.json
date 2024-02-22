@@ -54,8 +54,8 @@
     "slug": "ha-proxy",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 196,
@@ -64,7 +64,6 @@
     "timeMonth": 227,
     "timeYear": 196,
     "dailyMinutesDown": {
-      "2024-02-21": 1,
       "2023-11-21": 38
     }
   },
@@ -74,18 +73,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/fa.letmeshoot.it.ico",
     "slug": "flight-tracker-fa",
     "status": "up",
-    "uptime": "99.72%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.72%",
-    "uptimeYear": "99.72%",
+    "uptime": "99.73%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "99.73%",
     "time": 2207,
     "timeDay": 921,
     "timeWeek": 2207,
     "timeMonth": 2207,
     "timeYear": 2207,
     "dailyMinutesDown": {
-      "2024-02-21": 1,
       "2024-02-17": 16
     }
   },
@@ -95,18 +93,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/ft.letmeshoot.it.ico",
     "slug": "flight-tracker-ft",
     "status": "up",
-    "uptime": "99.72%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.72%",
-    "uptimeYear": "99.72%",
+    "uptime": "99.73%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "99.73%",
     "time": 915,
     "timeDay": 918,
     "timeWeek": 915,
     "timeMonth": 915,
     "timeYear": 915,
     "dailyMinutesDown": {
-      "2024-02-21": 1,
       "2024-02-17": 16
     }
   },
