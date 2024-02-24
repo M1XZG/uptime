@@ -52,10 +52,10 @@
     "url": "http://bigbastard.letmeshoot.it",
     "icon": "https://icons.duckduckgo.com/ip3/bigbastard.letmeshoot.it.ico",
     "slug": "ha-proxy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 197,
@@ -64,6 +64,7 @@
     "timeMonth": 234,
     "timeYear": 197,
     "dailyMinutesDown": {
+      "2024-02-24": 2,
       "2023-11-21": 38
     }
   },
@@ -72,9 +73,9 @@
     "url": "http://fa.letmeshoot.it",
     "icon": "https://icons.duckduckgo.com/ip3/fa.letmeshoot.it.ico",
     "slug": "flight-tracker-fa",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.91%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.82%",
@@ -84,6 +85,7 @@
     "timeMonth": 2003,
     "timeYear": 2003,
     "dailyMinutesDown": {
+      "2024-02-24": 1,
       "2024-02-17": 16
     }
   },
@@ -92,9 +94,9 @@
     "url": "http://ft.letmeshoot.it",
     "icon": "https://icons.duckduckgo.com/ip3/ft.letmeshoot.it.ico",
     "slug": "flight-tracker-ft",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.95%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.82%",
@@ -104,6 +106,7 @@
     "timeMonth": 891,
     "timeYear": 891,
     "dailyMinutesDown": {
+      "2024-02-24": 1,
       "2024-02-17": 16
     }
   },
@@ -172,9 +175,9 @@
     "url": "http://bigbastard.letmeshoot.it:8123",
     "icon": "https://icons.duckduckgo.com/ip3/bigbastard.letmeshoot.it.ico",
     "slug": "minecraft-map",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -183,6 +186,8 @@
     "timeWeek": 372,
     "timeMonth": 372,
     "timeYear": 372,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-24": 0
+    }
   }
 ]
