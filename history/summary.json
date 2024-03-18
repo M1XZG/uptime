@@ -6,14 +6,14 @@
     "slug": "home",
     "status": "up",
     "uptime": "98.32%",
-    "uptimeDay": "84.88%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "95.51%",
-    "uptimeMonth": "96.14%",
+    "uptimeMonth": "96.35%",
     "uptimeYear": "98.32%",
     "time": 448,
-    "timeDay": 381,
+    "timeDay": 411,
     "timeWeek": 454,
-    "timeMonth": 448,
+    "timeMonth": 450,
     "timeYear": 448,
     "dailyMinutesDown": {
       "2024-03-17": 222,
@@ -58,10 +58,10 @@
     "url": "http://bigbastard.letmeshoot.it",
     "icon": "https://icons.duckduckgo.com/ip3/bigbastard.letmeshoot.it.ico",
     "slug": "ha-proxy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 210,
@@ -70,6 +70,7 @@
     "timeMonth": 415,
     "timeYear": 210,
     "dailyMinutesDown": {
+      "2024-03-18": 1,
       "2023-11-21": 38
     }
   },
@@ -78,18 +79,19 @@
     "url": "http://fa.letmeshoot.it",
     "icon": "https://icons.duckduckgo.com/ip3/fa.letmeshoot.it.ico",
     "slug": "flight-tracker-fa",
-    "status": "up",
-    "uptime": "99.41%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.72%",
-    "uptimeMonth": "99.45%",
-    "uptimeYear": "99.41%",
+    "status": "down",
+    "uptime": "99.42%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "97.71%",
+    "uptimeMonth": "99.46%",
+    "uptimeYear": "99.42%",
     "time": 2070,
     "timeDay": 719,
     "timeWeek": 2836,
     "timeMonth": 2239,
     "timeYear": 2070,
     "dailyMinutesDown": {
+      "2024-03-18": 1,
       "2024-03-15": 230,
       "2024-02-17": 16
     }
@@ -99,18 +101,19 @@
     "url": "http://ft.letmeshoot.it",
     "icon": "https://icons.duckduckgo.com/ip3/ft.letmeshoot.it.ico",
     "slug": "flight-tracker-ft",
-    "status": "up",
-    "uptime": "99.41%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.42%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "97.72%",
-    "uptimeMonth": "99.45%",
-    "uptimeYear": "99.41%",
+    "uptimeMonth": "99.46%",
+    "uptimeYear": "99.42%",
     "time": 939,
     "timeDay": 686,
     "timeWeek": 1054,
     "timeMonth": 987,
     "timeYear": 939,
     "dailyMinutesDown": {
+      "2024-03-18": 0,
       "2024-03-15": 230,
       "2024-02-17": 16
     }
@@ -180,9 +183,9 @@
     "url": "http://bigbastard.letmeshoot.it:8123",
     "icon": "https://icons.duckduckgo.com/ip3/bigbastard.letmeshoot.it.ico",
     "slug": "minecraft-map",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -191,6 +194,8 @@
     "timeWeek": 330,
     "timeMonth": 345,
     "timeYear": 345,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-18": 0
+    }
   }
 ]
