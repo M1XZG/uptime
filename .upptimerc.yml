@@ -15,8 +15,9 @@ sites:
     url: https://www.uk-experience.com
   - name: Reggie Walks
     url: https://www.reggiewalkswitney.co.uk
-  - name: Minecraft Map
-    url: http://bigbastard.letmeshoot.it:8123
+
+#  - name: Minecraft Map
+#    url: http://bigbastard.letmeshoot.it:8123
 
 
 status-website:
