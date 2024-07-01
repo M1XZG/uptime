@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/home.rpmdp.com.ico",
     "slug": "home",
     "status": "up",
-    "uptime": "98.42%",
+    "uptime": "98.43%",
     "uptimeDay": "84.88%",
     "uptimeWeek": "97.84%",
     "uptimeMonth": "99.50%",
     "uptimeYear": "98.29%",
     "time": 454,
-    "timeDay": 579,
-    "timeWeek": 480,
-    "timeMonth": 459,
-    "timeYear": 457,
+    "timeDay": 634,
+    "timeWeek": 500,
+    "timeMonth": 466,
+    "timeYear": 458,
     "dailyMinutesDown": {
       "2024-06-30": 218,
       "2024-05-26": 213,
@@ -63,10 +63,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 248,
-    "timeDay": 356,
-    "timeWeek": 409,
-    "timeMonth": 381,
-    "timeYear": 260,
+    "timeDay": 374,
+    "timeWeek": 411,
+    "timeMonth": 382,
+    "timeYear": 261,
     "dailyMinutesDown": {
       "2023-11-21": 38
     }
@@ -82,11 +82,11 @@
     "uptimeWeek": "97.84%",
     "uptimeMonth": "99.50%",
     "uptimeYear": "99.33%",
-    "time": 2386,
-    "timeDay": 6985,
-    "timeWeek": 2849,
-    "timeMonth": 2270,
-    "timeYear": 2386,
+    "time": 2377,
+    "timeDay": 7028,
+    "timeWeek": 2856,
+    "timeMonth": 2312,
+    "timeYear": 2377,
     "dailyMinutesDown": {
       "2024-06-30": 217,
       "2024-05-26": 213,
@@ -107,11 +107,11 @@
     "uptimeWeek": "97.85%",
     "uptimeMonth": "99.50%",
     "uptimeYear": "99.33%",
-    "time": 977,
-    "timeDay": 1488,
-    "timeWeek": 1055,
-    "timeMonth": 979,
-    "timeYear": 977,
+    "time": 976,
+    "timeDay": 1504,
+    "timeWeek": 1058,
+    "timeMonth": 990,
+    "timeYear": 976,
     "dailyMinutesDown": {
       "2024-06-30": 217,
       "2024-05-26": 213,
@@ -127,16 +127,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.uk-experience.com.ico",
     "slug": "blog",
     "status": "up",
-    "uptime": "99.91%",
+    "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 2020,
-    "timeDay": 1612,
-    "timeWeek": 1709,
-    "timeMonth": 1870,
-    "timeYear": 2029,
+    "timeDay": 1961,
+    "timeWeek": 1757,
+    "timeMonth": 1865,
+    "timeYear": 2030,
     "dailyMinutesDown": {
       "2024-05-05": 32,
       "2024-04-13": 19,
@@ -149,8 +149,7 @@
       "2023-12-15": 134,
       "2023-08-31": 25,
       "2023-08-17": 24,
-      "2023-07-31": 34,
-      "2023-07-02": 39
+      "2023-07-31": 34
     }
   },
   {
@@ -165,9 +164,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 2253,
-    "timeDay": 1353,
-    "timeWeek": 1828,
-    "timeMonth": 2064,
+    "timeDay": 2119,
+    "timeWeek": 1922,
+    "timeMonth": 2048,
     "timeYear": 2286,
     "dailyMinutesDown": {
       "2024-05-05": 32,
@@ -179,8 +178,7 @@
       "2024-01-12": 32,
       "2024-01-06": 29,
       "2023-08-17": 24,
-      "2023-07-31": 34,
-      "2023-07-02": 39
+      "2023-07-31": 34
     }
   }
 ]
