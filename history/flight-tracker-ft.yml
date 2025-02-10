@@ -1,7 +1,7 @@
 url: http://ft.letmeshoot.it
-status: up
-code: 200
-responseTime: 849
-lastUpdated: 2025-02-09T23:04:48.453Z
+status: down
+code: 502
+responseTime: 3417
+lastUpdated: 2025-02-10T07:46:02.339Z
 startTime: 2024-02-17T19:39:41.778Z
 generator: Upptime <https://github.com/upptime/upptime>
