@@ -5,12 +5,14 @@ repo: uptime # The name of this repository
 sites:
   - name: Zoraxy
     url: http://bigbastard.letmeshoot.it:8000
+  - name: Dashboard
+    url: https://dash.rpmdp.com/freeboard/
   - name: FB
     url: https://fb.letmeshoot.it/login
   - name: Flight Tracker (FA)
-    url: http://fa.letmeshoot.it
+    url: https://fa.letmeshoot.it
   - name: Flight Tracker (FT)
-    url: http://ft.letmeshoot.it
+    url: https://ft.letmeshoot.it
   - name: Blog
     url: https://www.uk-experience.com
   - name: Reggie Walks
