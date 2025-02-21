@@ -5,6 +5,8 @@ repo: uptime # The name of this repository
 sites:
   - name: Zoraxy
     url: http://bigbastard.letmeshoot.it:8000
+  - name: FB
+    url: https://fb.letmeshoot.it
   - name: Flight Tracker (FA)
     url: http://fa.letmeshoot.it
   - name: Flight Tracker (FT)
