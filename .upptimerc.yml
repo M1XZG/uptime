@@ -17,20 +17,6 @@ sites:
     url: https://www.uk-experience.com
   - name: Reggie Walks
     url: https://www.reggiewalkswitney.co.uk
-  - name: ZT PI4-1 DNS
-    check: "tcp-ping"
-    url: 192.168.195.5
-    port: 53
-  - name: Google DNS 1
-    check: "tcp-ping"
-    url: 8.8.4.4
-    port: 53
-  - name: Google DNS 2
-    check: "tcp-ping"
-    url: 8.8.8.8
-    port: 53
-
-
 
 #  - name: Home
 #    url: https://home.rpmdp.com
