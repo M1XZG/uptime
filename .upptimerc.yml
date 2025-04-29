@@ -8,6 +8,7 @@ sites:
     icon: https://github.com/tobychui/zoraxy/blob/main/src/web/favicon.png
   - name: Dashboard
     url: https://dash.rpmdp.com/freeboard/
+    icon: https://dash.rpmdp.com/freeboard/dashicon.png
   - name: FB
     url: https://fb.letmeshoot.it/login
   - name: Flight Tracker (FA)
