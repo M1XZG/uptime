@@ -17,15 +17,6 @@ sites:
     url: https://www.uk-experience.com
   - name: Reggie Walks
     url: https://www.reggiewalkswitney.co.uk
-  - name: ZT - Bigbastard
-    check: "tcp-ping"
-    url: 192.168.195.193
-    port: 80
-  - name: ZT - PI4-1
-    check: "tcp-ping"
-    url: 192.168.195.5
-    port: 53
-
 
 #  - name: Home
 #    url: https://home.rpmdp.com
