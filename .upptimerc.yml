@@ -33,7 +33,7 @@ status-website:
   name: Robs Servers
   introTitle: "Uptime Monitoring!"
   introMessage: ""
-  theme: mytheme
+  theme: https://raw.githubusercontent.com/M1XZG/uptime/refs/heads/master/assets/mytheme.css
   navbar:
     - title: Status
       href: /
