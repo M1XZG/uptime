@@ -5,6 +5,7 @@ repo: uptime # The name of this repository
 sites:
   - name: Zoraxy
     url: http://bigbastard.letmeshoot.it:8000
+    icon: https://github.com/tobychui/zoraxy/blob/main/src/web/favicon.png
   - name: Dashboard
     url: https://dash.rpmdp.com/freeboard/
   - name: FB
