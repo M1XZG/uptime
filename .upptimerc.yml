@@ -7,8 +7,6 @@ sites:
     url: http://bigbastard.letmeshoot.it:8000
   - name: Dashboard
     url: https://dash.rpmdp.com/freeboard/
-  - name: Dashboard (ZT)
-    url: http://pi4-1.zt.rpmdp.com/freeboard/
   - name: FB
     url: https://fb.letmeshoot.it/login
   - name: Flight Tracker (FA)
