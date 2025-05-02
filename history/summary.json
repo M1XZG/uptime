@@ -214,18 +214,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/pi4-1.zt.rpmdp.com.ico",
     "slug": "pi4-1-http",
     "status": "down",
-    "uptime": "60.76%",
-    "uptimeDay": "60.76%",
-    "uptimeWeek": "60.76%",
-    "uptimeMonth": "60.76%",
-    "uptimeYear": "60.76%",
+    "uptime": "34.81%",
+    "uptimeDay": "34.81%",
+    "uptimeWeek": "34.81%",
+    "uptimeMonth": "34.81%",
+    "uptimeYear": "34.81%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-02": 0
+      "2025-05-02": 1
     }
   }
 ]
