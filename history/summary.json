@@ -163,19 +163,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/wildwanderer-vr.com.ico",
     "slug": "wildys-socials",
     "status": "up",
-    "uptime": "1.95%",
-    "uptimeDay": "1.95%",
-    "uptimeWeek": "1.95%",
-    "uptimeMonth": "1.95%",
-    "uptimeYear": "1.95%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2429,
     "timeDay": 2429,
     "timeWeek": 2429,
     "timeMonth": 2429,
     "timeYear": 2429,
-    "dailyMinutesDown": {
-      "2025-05-07": 14
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Wildys Lore",
