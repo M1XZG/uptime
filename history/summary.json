@@ -163,18 +163,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.wildwanderer-vr.com.ico",
     "slug": "wildys-socials",
     "status": "down",
-    "uptime": "8.15%",
-    "uptimeDay": "8.15%",
-    "uptimeWeek": "8.15%",
-    "uptimeMonth": "8.15%",
-    "uptimeYear": "8.15%",
+    "uptime": "4.41%",
+    "uptimeDay": "4.41%",
+    "uptimeWeek": "4.41%",
+    "uptimeMonth": "4.41%",
+    "uptimeYear": "4.41%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-07": 0
+      "2025-05-07": 1
     }
   },
   {
