@@ -1,7 +1,7 @@
 url: https://dash.rpmdp.com/freeboard/
-status: up
-code: 200
-responseTime: 749
-lastUpdated: 2025-05-08T14:24:50.786Z
+status: down
+code: 403
+responseTime: 599
+lastUpdated: 2025-05-08T15:29:16.583Z
 startTime: 2025-02-21T23:56:19.873Z
 generator: Upptime <https://github.com/upptime/upptime>
