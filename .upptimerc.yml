@@ -50,6 +50,7 @@ sites:
     icon: https://raw.githubusercontent.com/iiiypuk/rpi-icon/refs/heads/master/32.png
   - name: NAS
     url: http://172.16.29.2
+    icon: https://github.com/M1XZG/uptime/blob/1159284a2dacde9ad753831599fab5ebe7caa7a8/assets/truenas-logo.png
 
 #  - name: Home
 #    url: https://home.rpmdp.com
