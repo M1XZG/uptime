@@ -51,6 +51,10 @@ sites:
   - name: NAS
     url: http://172.16.29.2
     icon: https://github.com/M1XZG/uptime/blob/1159284a2dacde9ad753831599fab5ebe7caa7a8/assets/truenas-logo.png
+  - name: Fritzbox
+    url: http://172.16.29.251
+    icon: https://en.wikipedia.org/wiki/Fritz!Box#/media/File:Fritz!.svg
+    
 
 #  - name: Home
 #    url: https://home.rpmdp.com
