@@ -53,7 +53,7 @@ sites:
     icon: https://github.com/M1XZG/uptime/blob/1159284a2dacde9ad753831599fab5ebe7caa7a8/assets/truenas-logo.png
   - name: Fritzbox
     url: http://172.16.29.251
-    icon: https://en.wikipedia.org/wiki/Fritz!Box#/media/File:Fritz!.svg
+    icon: https://github.com/M1XZG/uptime/blob/aabd86d900f29e35c0ab5c7dd9797b8a20614469/assets/Fritzbox.png
     
 
 #  - name: Home
