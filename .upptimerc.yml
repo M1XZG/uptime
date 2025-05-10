@@ -49,7 +49,7 @@ sites:
     url: http://pi4-2.zt.rpmdp.com:8080
     icon: https://raw.githubusercontent.com/iiiypuk/rpi-icon/refs/heads/master/32.png
   - name: NAS
-    url: http://172.6.29.2
+    url: http://172.16.29.2
 
 #  - name: Home
 #    url: https://home.rpmdp.com
