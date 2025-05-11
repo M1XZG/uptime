@@ -1,7 +1,7 @@
 # Change these first
 owner: m1xzg # Your GitHub organization or username, where this repository lives
 repo: uptime # The name of this repository
-#runner: "[self-hosted]"
+runner: "[self-hosted]"
 
 sites:
   - name: Zoraxy
@@ -65,7 +65,8 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  baseUrl: /uptime
+  cname: uptime.rpmdp.com
+  #baseUrl: /uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: My Servers
   introTitle: "Uptime Monitoring!"
