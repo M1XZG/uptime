@@ -1,7 +1,7 @@
-url: http://172.16.29.2
+url: $NASADDR
 status: up
 code: 200
-responseTime: 257
-lastUpdated: 2025-05-11T08:50:38.301Z
+responseTime: 284
+lastUpdated: 2025-05-11T08:54:41.965Z
 startTime: 2025-05-11T00:27:26.372Z
 generator: Upptime <https://github.com/upptime/upptime>
