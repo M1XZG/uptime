@@ -43,7 +43,7 @@ sites:
   - name: Reggie Walks
     url: https://www.reggiewalkswitney.co.uk
   - name: pi4-1 http
-    url: http://pi4-1.zt.rpmdp.com
+    url: $PI41ADDR
     icon: https://raw.githubusercontent.com/iiiypuk/rpi-icon/refs/heads/master/32.png
   - name: pi4-2 http
     url: http://pi4-2.zt.rpmdp.com:8080
