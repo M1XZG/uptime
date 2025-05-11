@@ -1,0 +1,72 @@
+:root {
+    --body-background-color: #202225;
+    --body-text-color: #dcddde;
+    
+    --card-background-color: rgba(88,101,242,.1);
+    --card-border-color: rgba(88,101,242,.5);
+    
+    --nav-background-color: #36393f;
+    --nav-border-bottom-color: #36393f;
+    --nav-current-border-bottom-color: rgba(88,101,242,.5);
+    
+    --up-border-left-color: rgba(88,101,242,.5);
+    
+    --down-background-color: rgba(237,66,69,.1);
+    --down-border-left-color: rgba(237,66,69,.5);
+    
+    --degraded-background-color: rgba(254,231,92,.1);
+    --degraded-border-left-color: rgba(254,231,92,.5);
+    
+    --tag-color: #202225;
+    
+    --tag-up-background-color: rgba(88,101,242,.1);
+    --tag-up-border-color: rgba(88,101,242,.5);
+    
+    --tag-down-background-color: rgba(237,66,69,.1);
+    --tag-down-border-color: rgba(237,66,69,.5);
+    
+    --tag-degraded-background-color: rgba(254,231,92,.1);
+    --tag-degraded-border-color: rgba(254,231,92,.5);
+    
+    --change-background-color: #f7b731;
+    
+    --error-button-border-color: #1a46ad;
+    --error-button-background-color: #3867d6;
+    --error-button-color: #ffffff;
+    
+    --submit-button-border-color: #1a46ad;
+    --submit-button-background-color: #3867d6;
+    --submit-button-color: #ffffff;
+    
+    --graph-opacity: 1;
+    --graph-filter: none;
+}
+
+.tag.closed, .tag.up {
+    border: 1px solid var(--tag-up-border-color);
+    color: var(--body-text-color);
+}
+
+.tag.open, .tag.down {
+    border: 1px solid var(--tag-down-border-color);
+    color: var(--body-text-color);
+}
+
+.tag.degraded {
+    border: 1px solid var(--tag-degraded-border-color);
+    color: var(--body-text-color);
+}
+
+article.degraded {
+    border-top-color: var(--degraded-border-left-color);
+    border-right-color: var(--degraded-border-left-color);
+    border-bottom-color: var(--degraded-border-left-color);
+    background-color: var(--degraded-background-color);
+}
+
+article.down {
+    border-top-color: var(--down-border-left-color);
+    border-right-color: var(--down-border-left-color);
+    border-bottom-color: var(--down-border-left-color);
+    background-color: var(--down-background-color);
+}
