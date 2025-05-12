@@ -10,28 +10,12 @@ sites:
   - name: Dashboard
     url: https://dash.rpmdp.com/freeboard/
     icon: https://dash.rpmdp.com/freeboard/dashicon.png
-    #expectedStatusCodes:
-    #  - 200
-    #  - 201
-    #  - 403
   - name: FB
     url: https://fb.letmeshoot.it/login
-    #expectedStatusCodes:
-    #  - 200
-    #  - 201
-    #  - 403
   - name: Flight Tracker (FA)
     url: https://fa.letmeshoot.it
-    #expectedStatusCodes:
-    #  - 200
-    #  - 201
-    #  - 403
   - name: Flight Tracker (FT)
     url: https://ft.letmeshoot.it
-    #expectedStatusCodes:
-    #  - 200
-    #  - 201
-    #  - 403
   - name: Wildys Lore
     url: https://lore.wildwanderer-vr.com
     #expectedStatusCodes:
