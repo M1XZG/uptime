@@ -61,6 +61,15 @@ status-website:
       href: /
     - title: Robs Servers
       href: https://github.com/$OWNER/$REPO
+
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "*/2 * * * *"
 #
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
