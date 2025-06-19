@@ -1,7 +1,7 @@
 url: $STREAMINGADDR
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-06-19T16:52:49.355Z
+status: up
+code: 401
+responseTime: 257
+lastUpdated: 2025-06-19T17:15:28.087Z
 startTime: 2025-06-19T16:52:49.089Z
 generator: Upptime <https://github.com/upptime/upptime>
