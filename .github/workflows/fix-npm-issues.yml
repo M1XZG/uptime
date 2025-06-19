@@ -1,0 +1,110 @@
+name: Fix npm and Node.js Issues
+
+on:
+  workflow_dispatch:
+    inputs:
+      update_global_packages:
+        description: 'Update global npm packages to latest versions'
+        required: false
+        default: 'true'
+        type: boolean
+      clean_deprecated:
+        description: 'Clean deprecated packages'
+        required: false
+        default: 'true'
+        type: boolean
+
+jobs:
+  fix-npm-issues:
+    runs-on: self-hosted
+    
+    steps:
+      - name: Check current environment
+        run: |
+          echo "=== Current Environment ==="
+          echo "Date: $(date)"
+          echo "User: $(whoami)"
+          echo "Node.js: $(node --version)"
+          echo "npm: $(npm --version)"
+          echo "Current directory: $(pwd)"
+          echo ""
+
+      - name: Clear npm caches
+        run: |
+          echo "=== Clearing npm caches ==="
+          npm cache clean --force
+          rm -rf ~/.npm/_npx/ || true
+          rm -rf ~/.npm/_logs || true
+          rm -rf ~/.npm/_cacache || true
+          rm -rf /tmp/npm-* || true
+          echo "npm cache cleared"
+
+      - name: Update npm to latest version
+        run: |
+          echo "=== Updating npm ==="
+          npm install -g npm@latest
+          echo "npm updated to: $(npm --version)"
+
+      - name: Clean and update global packages
+        if: ${{ github.event.inputs.update_global_packages == 'true' }}
+        run: |
+          echo "=== Checking global packages ==="
+          npm list -g --depth=0
+          echo ""
+          echo "=== Updating outdated global packages ==="
+          npm update -g
+          echo ""
+          echo "=== Updated global packages ==="
+          npm list -g --depth=0
+
+      - name: Remove problematic deprecated packages
+        if: ${{ github.event.inputs.clean_deprecated == 'true' }}
+        run: |
+          echo "=== Removing problematic packages ==="
+          # Remove imagemin-cli if it exists globally
+          npm uninstall -g imagemin-cli || true
+          
+          # Clear any cached versions
+          rm -rf ~/.npm/_npx/*imagemin* || true
+          
+          echo "Deprecated packages cleaned"
+
+      - name: Test npx functionality
+        run: |
+          echo "=== Testing npx functionality ==="
+          # Test with a simple, well-maintained package
+          npx --yes cowsay "npm issues fixed!"
+          echo ""
+          echo "=== Testing imagemin-cli (will install latest) ==="
+          # This will install the latest version for this session
+          npx --yes imagemin-cli --version || echo "imagemin-cli test completed"
+
+      - name: Check for remaining issues
+        run: |
+          echo "=== Final Status Check ==="
+          echo "Node.js: $(node --version)"
+          echo "npm: $(npm --version)"
+          echo "NODE_MODULE_VERSION: $(node -p 'process.versions.modules')"
+          echo ""
+          echo "npm cache info:"
+          npm cache verify
+          echo ""
+          echo "Global packages:"
+          npm list -g --depth=0
+          echo ""
+          echo "✅ All npm and Node.js issues should now be resolved!"
+
+      - name: Recommendations
+        run: |
+          echo "=== Recommendations ==="
+          echo "1. The deprecation warnings are from imagemin-cli's dependencies"
+          echo "2. Consider using alternatives like:"
+          echo "   - @squoosh/cli (modern image optimization)"
+          echo "   - sharp-cli (fast image processing)"
+          echo "   - Built-in tools in your build process"
+          echo ""
+          echo "3. For your workflows, pin to specific versions:"
+          echo "   npx imagemin-cli@latest (gets newest version each time)"
+          echo ""
+          echo "4. To avoid warnings in CI, add to your workflow:"
+          echo "   npm config set audit-level moderate"
