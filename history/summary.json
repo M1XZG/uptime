@@ -273,19 +273,19 @@
     "url": "$NASADDR",
     "icon": "https://raw.githubusercontent.com/M1XZG/uptime/1159284a2dacde9ad753831599fab5ebe7caa7a8/assets/truenas-logo.png",
     "slug": "nas-vpn",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 260,
-    "timeDay": 259,
-    "timeWeek": 260,
-    "timeMonth": 260,
-    "timeYear": 260,
+    "status": "up",
+    "uptime": "99.67%",
+    "uptimeDay": "99.23%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.67%",
+    "uptimeYear": "99.67%",
+    "time": 278,
+    "timeDay": 316,
+    "timeWeek": 278,
+    "timeMonth": 278,
+    "timeYear": 278,
     "dailyMinutesDown": {
-      "2025-06-19": 0
+      "2025-06-19": 11
     }
   },
   {
@@ -293,19 +293,19 @@
     "url": "$FRITZADDR",
     "icon": "https://raw.githubusercontent.com/M1XZG/uptime/aabd86d900f29e35c0ab5c7dd9797b8a20614469/assets/Fritzbox.png",
     "slug": "fritzbox-vpn",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 393,
-    "timeDay": 384,
-    "timeWeek": 393,
-    "timeMonth": 393,
-    "timeYear": 393,
+    "status": "up",
+    "uptime": "99.67%",
+    "uptimeDay": "99.24%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.67%",
+    "uptimeYear": "99.67%",
+    "time": 391,
+    "timeDay": 381,
+    "timeWeek": 391,
+    "timeMonth": 391,
+    "timeYear": 391,
     "dailyMinutesDown": {
-      "2025-06-19": 0
+      "2025-06-19": 11
     }
   }
 ]
