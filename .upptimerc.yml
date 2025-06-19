@@ -10,8 +10,8 @@ sites:
   - name: Dashboard
     url: http://dash.rpmdp.com/freeboard/
     icon: http://dash.rpmdp.com/freeboard/dashicon.png
- # - name: FileBrowser
- #   url: https://fb.letmeshoot.it/login
+  - name: FileBrowser
+    url: https://fb.letmeshoot.it/login
   - name: Flight Tracker (FA)
     url: https://fa.letmeshoot.it
   - name: Flight Tracker (FT)
