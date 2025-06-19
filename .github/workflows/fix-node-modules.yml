@@ -1,0 +1,73 @@
+name: Fix Node.js Module Version Issues
+
+on:
+  workflow_dispatch:  # Manual trigger only
+
+jobs:
+  fix-modules:
+    runs-on: self-hosted
+    
+    steps:
+      - name: Check current Node.js version
+        run: |
+          echo "Current Node.js version:"
+          node --version
+          echo "Current npm version:"
+          npm --version
+          echo "NODE_MODULE_VERSION:"
+          node -p "process.versions.modules"
+
+      - name: Clear npm cache
+        run: |
+          echo "Clearing npm cache..."
+          npm cache clean --force
+          
+      - name: Clear npx cache
+        run: |
+          echo "Clearing npx cache..."
+          rm -rf ~/.npm/_npx/ || true
+          
+      - name: Remove global node_modules if they exist
+        run: |
+          echo "Checking for global node_modules..."
+          NPM_GLOBAL=$(npm root -g)
+          if [ -d "$NPM_GLOBAL" ]; then
+            echo "Found global node_modules at: $NPM_GLOBAL"
+            echo "Removing canvas and related modules..."
+            rm -rf "$NPM_GLOBAL/canvas" || true
+            rm -rf "$NPM_GLOBAL/@mapbox" || true
+            rm -rf "$NPM_GLOBAL/sharp" || true
+          fi
+          
+      - name: Clear system npm cache directories
+        run: |
+          echo "Clearing additional npm cache locations..."
+          rm -rf /tmp/npm-* || true
+          rm -rf ~/.npm/_logs || true
+          rm -rf ~/.npm/_cacache || true
+          
+      - name: Verify cleanup
+        run: |
+          echo "Verification after cleanup:"
+          echo "npx cache directory:"
+          ls -la ~/.npm/_npx/ 2>/dev/null || echo "npx cache cleared successfully"
+          echo "npm cache directory:"
+          ls -la ~/.npm/_cacache/ 2>/dev/null || echo "npm cache cleared successfully"
+          
+      - name: Test npx with a simple package
+        run: |
+          echo "Testing npx functionality..."
+          npx --yes cowsay "Node modules fixed!"
+          
+      - name: Display final status
+        run: |
+          echo "✅ Node.js module cleanup completed successfully!"
+          echo "Current environment:"
+          echo "- Node.js: $(node --version)"
+          echo "- npm: $(npm --version)"
+          echo "- Platform: $(uname -a)"
+          echo ""
+          echo "Next steps:"
+          echo "1. Your self-hosted runner should now work properly with npx"
+          echo "2. Native modules will be compiled for Node.js $(node --version)"
+          echo "3. You can now run your regular workflows"
