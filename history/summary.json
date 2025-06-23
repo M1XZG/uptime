@@ -28,7 +28,7 @@
     "uptime": "97.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "96.96%",
-    "uptimeMonth": "94.97%",
+    "uptimeMonth": "95.00%",
     "uptimeYear": "97.73%",
     "time": 647,
     "timeDay": 797,
@@ -84,7 +84,7 @@
     "uptimeYear": "99.47%",
     "time": 1939,
     "timeDay": 791,
-    "timeWeek": 773,
+    "timeWeek": 790,
     "timeMonth": 827,
     "timeYear": 1856,
     "dailyMinutesDown": {
@@ -128,7 +128,7 @@
     "uptimeYear": "99.46%",
     "time": 1005,
     "timeDay": 1019,
-    "timeWeek": 788,
+    "timeWeek": 802,
     "timeMonth": 757,
     "timeYear": 1012,
     "dailyMinutesDown": {
@@ -257,19 +257,19 @@
     "url": "$PI42ADDR",
     "icon": "https://raw.githubusercontent.com/iiiypuk/rpi-icon/refs/heads/master/32.png",
     "slug": "pi4-2-http-vpn",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 492,
-    "timeDay": 449,
-    "timeWeek": 492,
-    "timeMonth": 492,
-    "timeYear": 492,
+    "status": "up",
+    "uptime": "99.78%",
+    "uptimeDay": "99.22%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.78%",
+    "time": 493,
+    "timeDay": 479,
+    "timeWeek": 493,
+    "timeMonth": 493,
+    "timeYear": 493,
     "dailyMinutesDown": {
-      "2025-06-23": 0
+      "2025-06-23": 11
     }
   },
   {
