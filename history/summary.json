@@ -237,19 +237,19 @@
     "url": "$PI41ADDR",
     "icon": "https://raw.githubusercontent.com/iiiypuk/rpi-icon/refs/heads/master/32.png",
     "slug": "pi4-1-http-vpn",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 240,
-    "timeDay": 285,
-    "timeWeek": 235,
-    "timeMonth": 240,
-    "timeYear": 240,
+    "status": "up",
+    "uptime": "99.85%",
+    "uptimeDay": "98.13%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
+    "time": 260,
+    "timeDay": 498,
+    "timeWeek": 295,
+    "timeMonth": 260,
+    "timeYear": 260,
     "dailyMinutesDown": {
-      "2025-07-02": 0
+      "2025-07-02": 27
     }
   },
   {
