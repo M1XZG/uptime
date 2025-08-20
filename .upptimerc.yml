@@ -28,10 +28,10 @@ sites:
     url: https://www.reggiewalkswitney.co.uk
   - name: pi4-1 http [VPN]
     url: $PI41ADDR
-    icon: https://raw.githubusercontent.com/iiiypuk/rpi-icon/refs/heads/master/32.png
+    icon: https://github.com/M1XZG/uptime/blob/a5f5569c652410f39f06ead23e0166ef84abb697/assets/RaspPi-32px.png
   - name: pi4-2 http [VPN]
     url: $PI42ADDR
-    icon: https://raw.githubusercontent.com/iiiypuk/rpi-icon/refs/heads/master/32.png
+    icon: https://github.com/M1XZG/uptime/blob/a5f5569c652410f39f06ead23e0166ef84abb697/assets/RaspPi-32px.png
   - name: StreamingPC [VPN]
     url: $STREAMINGADDR
     icon: https://github.com/M1XZG/uptime/blob/e7395f2d4ab9e8fc2ae49ab9be25c7d7335d5224/assets/Windows-11-Icon.png
@@ -39,10 +39,14 @@ sites:
       - 401
   - name: NAS [VPN]
     url: $NASADDR
-    icon: https://raw.githubusercontent.com/M1XZG/uptime/1159284a2dacde9ad753831599fab5ebe7caa7a8/assets/truenas-logo.png
+    icon: https://github.com/M1XZG/uptime/blob/7e0b96e646434818c69ecd093ff1db4c5a2c4bf3/assets/truenas-logo.png
   - name: Fritzbox [VPN]
     url: $FRITZADDR
-    icon: https://raw.githubusercontent.com/M1XZG/uptime/aabd86d900f29e35c0ab5c7dd9797b8a20614469/assets/Fritzbox.png
+    icon: https://github.com/M1XZG/uptime/blob/7e0b96e646434818c69ecd093ff1db4c5a2c4bf3/assets/Fritzbox.png
+  - name: Tinkerbell [VPN]
+    url: $TINKERBELLADDR
+    icon: https://github.com/M1XZG/uptime/blob/7e0b96e646434818c69ecd093ff1db4c5a2c4bf3/assets/tinkerboard.png
+    
     
 
 #  - name: Home
