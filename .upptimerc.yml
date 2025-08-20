@@ -42,6 +42,8 @@ sites:
     icon: https://github.com/M1XZG/uptime/blob/7e0b96e646434818c69ecd093ff1db4c5a2c4bf3/assets/truenas-logo.png
   - name: Fritzbox [VPN]
     url: $FRITZADDR
+    check: "tcp-ping"
+    port: 443
     icon: https://github.com/M1XZG/uptime/blob/7e0b96e646434818c69ecd093ff1db4c5a2c4bf3/assets/Fritzbox.png
   - name: Tinkerbell [VPN]
     url: $TINKERBELLADDR
