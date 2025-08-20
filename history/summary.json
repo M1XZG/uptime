@@ -356,18 +356,16 @@
     "icon": "https://github.com/M1XZG/uptime/blob/7e0b96e646434818c69ecd093ff1db4c5a2c4bf3/assets/tinkerboard.png",
     "slug": "tinkerbell-vpn",
     "status": "up",
-    "uptime": "12.29%",
-    "uptimeDay": "12.29%",
-    "uptimeWeek": "12.29%",
-    "uptimeMonth": "12.29%",
-    "uptimeYear": "12.29%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 84,
     "timeDay": 84,
     "timeWeek": 84,
     "timeMonth": 84,
     "timeYear": 84,
-    "dailyMinutesDown": {
-      "2025-08-20": 3
-    }
+    "dailyMinutesDown": {}
   }
 ]
