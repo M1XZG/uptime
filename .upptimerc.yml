@@ -50,6 +50,11 @@ sites:
     check: "tcp-ping"
     port: 53
     icon: https://github.com/M1XZG/uptime/blob/7e0b96e646434818c69ecd093ff1db4c5a2c4bf3/assets/tinkerboard.png
+  - name: Edge Router [VPN]
+    url: $EDGEROUTERADDR
+    check: "tcp-ping"
+    port: 53
+    icon: https://github.com/M1XZG/uptime/blob/4292d48d95a62cc6669161e0d48390b3f8d79507/assets/Router.svg
     
     
 
