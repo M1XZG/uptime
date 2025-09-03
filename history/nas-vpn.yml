@@ -1,7 +1,7 @@
 url: $NASADDR
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-09-03T07:19:55.069Z
+status: up
+code: 200
+responseTime: 247
+lastUpdated: 2025-09-03T07:35:55.605Z
 startTime: 2025-06-19T19:18:00.269Z
 generator: Upptime <https://github.com/upptime/upptime>
