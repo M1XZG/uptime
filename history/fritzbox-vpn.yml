@@ -1,7 +1,7 @@
 url: $FRITZADDR
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-09-05T23:05:40.989Z
+status: up
+code: 200
+responseTime: 83
+lastUpdated: 2025-09-05T23:33:08.900Z
 startTime: 2025-06-19T19:18:00.826Z
 generator: Upptime <https://github.com/upptime/upptime>
