@@ -40,6 +40,16 @@ sites:
   - name: NAS [VPN]
     url: $NASADDR
     icon: https://github.com/M1XZG/uptime/blob/7e0b96e646434818c69ecd093ff1db4c5a2c4bf3/assets/truenas-logo.png
+  - name: INFRA01 [VPN]
+    url: $INFRA01ADDR
+    check: "tcp-ping"
+    port: 53
+    icon: https://github.com/M1XZG/uptime/blob/1a0b9a6d234895784a86d53338f65fa04413f9ab/assets/centos.png
+  - name: docktopus [VPN]
+    url: $DOCKTOPUSADDR
+    check: "tcp-ping"
+    port: 53
+    icon: https://github.com/M1XZG/uptime/blob/30979ee0a82f94cbac6211ba78ad1b9613d9c775/assets/ubuntu.png
   - name: Fritzbox [VPN]
     url: $FRITZADDR
     check: "tcp-ping"
