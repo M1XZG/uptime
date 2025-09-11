@@ -298,18 +298,18 @@
     "icon": "https://github.com/M1XZG/uptime/blob/e7395f2d4ab9e8fc2ae49ab9be25c7d7335d5224/assets/Windows-11-Icon.png",
     "slug": "helios-streaming-pc-vpn",
     "status": "down",
-    "uptime": "56.11%",
-    "uptimeDay": "56.11%",
-    "uptimeWeek": "56.11%",
-    "uptimeMonth": "56.11%",
-    "uptimeYear": "56.11%",
+    "uptime": "39.92%",
+    "uptimeDay": "39.92%",
+    "uptimeWeek": "39.92%",
+    "uptimeMonth": "39.92%",
+    "uptimeYear": "39.92%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-11": 0
+      "2025-09-11": 1
     }
   },
   {
