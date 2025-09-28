@@ -1,7 +1,7 @@
 url: $TINKERBELLADDR
-status: down
-code: 0
+status: up
+code: 200
 responseTime: 0
-lastUpdated: 2025-09-28T14:13:31.109Z
+lastUpdated: 2025-09-28T14:43:48.476Z
 startTime: 2025-08-20T08:21:57.210Z
 generator: Upptime <https://github.com/upptime/upptime>
