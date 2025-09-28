@@ -1,7 +1,7 @@
 url: $INFRA01ADDR
-status: down
-code: 0
+status: up
+code: 200
 responseTime: 0
-lastUpdated: 2025-09-28T15:51:12.077Z
+lastUpdated: 2025-09-28T15:59:16.892Z
 startTime: 2025-09-06T14:00:56.521Z
 generator: Upptime <https://github.com/upptime/upptime>
