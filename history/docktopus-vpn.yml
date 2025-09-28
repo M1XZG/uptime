@@ -1,7 +1,7 @@
 url: $DOCKTOPUSADDR
-status: down
-code: 0
+status: up
+code: 200
 responseTime: 0
-lastUpdated: 2025-09-28T13:07:41.259Z
+lastUpdated: 2025-09-28T13:42:01.936Z
 startTime: 2025-09-06T14:00:57.368Z
 generator: Upptime <https://github.com/upptime/upptime>
