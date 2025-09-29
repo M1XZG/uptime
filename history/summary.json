@@ -25,18 +25,17 @@
     "icon": "http://dash.rpmdp.com/freeboard/dashicon.png",
     "slug": "dashboard",
     "status": "up",
-    "uptime": "98.58%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.78%",
-    "uptimeYear": "98.58%",
+    "uptime": "98.59%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "98.59%",
     "time": 714,
     "timeDay": 786,
     "timeWeek": 810,
     "timeMonth": 942,
     "timeYear": 714,
     "dailyMinutesDown": {
-      "2025-09-28": 9,
       "2025-09-05": 65,
       "2025-09-03": 24,
       "2025-08-18": 27,
@@ -118,8 +117,7 @@
       "2025-01-26": 384,
       "2024-11-28": 18,
       "2024-11-22": 31,
-      "2024-10-08": 31,
-      "2024-09-29": 175
+      "2024-10-08": 31
     }
   },
   {
@@ -129,9 +127,9 @@
     "slug": "flight-tracker-ft",
     "status": "up",
     "uptime": "99.48%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.63%",
-    "uptimeMonth": "99.86%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.88%",
     "uptimeYear": "99.53%",
     "time": 991,
     "timeDay": 668,
@@ -139,7 +137,6 @@
     "timeMonth": 956,
     "timeYear": 957,
     "dailyMinutesDown": {
-      "2025-09-28": 9,
       "2025-09-27": 28,
       "2025-09-03": 24,
       "2025-08-18": 27,
@@ -163,8 +160,7 @@
       "2025-01-26": 384,
       "2024-11-28": 18,
       "2024-11-22": 31,
-      "2024-10-08": 31,
-      "2024-09-29": 175
+      "2024-10-08": 31
     }
   },
   {
