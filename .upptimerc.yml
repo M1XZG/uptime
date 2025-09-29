@@ -33,42 +33,42 @@ sites:
     url: $PI42ADDR
     icon: https://github.com/M1XZG/uptime/blob/a5f5569c652410f39f06ead23e0166ef84abb697/assets/RaspPi-32px.png
 #  - name: Helios (StreamingPC) [VPN]
- # - name: StreamingPC [VPN]
- #   url: $STREAMINGADDR
- #   #url: $HELIOSADDR
- #   icon: https://github.com/M1XZG/uptime/blob/e7395f2d4ab9e8fc2ae49ab9be25c7d7335d5224/assets/Windows-11-Icon.png
- #   expectedStatusCodes:
- #     - 401
- #   check: "tcp-ping"
- #   port: 4455
-  #- name: NAS [VPN]
-  #  url: $NASADDR
-  #  icon: https://github.com/M1XZG/uptime/blob/7e0b96e646434818c69ecd093ff1db4c5a2c4bf3/assets/truenas-logo.png
-  #- name: INFRA01 [VPN]
-  #  url: $INFRA01ADDR
-  #  check: "tcp-ping"
-  #  port: 53
-  #  icon: https://github.com/M1XZG/uptime/blob/1a0b9a6d234895784a86d53338f65fa04413f9ab/assets/centos.png
-  #- name: docktopus [VPN]
-  #  url: $DOCKTOPUSADDR
-  #  check: "tcp-ping"
-  #  port: 53
-  #  icon: https://github.com/M1XZG/uptime/blob/30979ee0a82f94cbac6211ba78ad1b9613d9c775/assets/ubuntu.png
-  #- name: Fritzbox [VPN]
-  #  url: $FRITZADDR
-  #  check: "tcp-ping"
-  #  port: 80
-  #  icon: https://github.com/M1XZG/uptime/blob/7e0b96e646434818c69ecd093ff1db4c5a2c4bf3/assets/Fritzbox.png
-  #- name: Tinkerbell [VPN]
-  #  url: $TINKERBELLADDR
-  #  check: "tcp-ping"
-  #  port: 53
-  #  icon: https://github.com/M1XZG/uptime/blob/7e0b96e646434818c69ecd093ff1db4c5a2c4bf3/assets/tinkerboard.png
-  #- name: Edge Router [VPN]
-  #  url: $EDGEROUTERADDR
-  #  check: "tcp-ping"
-  #  port: 53
-  #  icon: https://github.com/M1XZG/uptime/blob/4292d48d95a62cc6669161e0d48390b3f8d79507/assets/Router.svg
+  - name: StreamingPC [VPN]
+    url: $STREAMINGADDR
+    #url: $HELIOSADDR
+    icon: https://github.com/M1XZG/uptime/blob/e7395f2d4ab9e8fc2ae49ab9be25c7d7335d5224/assets/Windows-11-Icon.png
+    expectedStatusCodes:
+      - 401
+    check: "tcp-ping"
+    port: 4455
+  - name: NAS [VPN]
+    url: $NASADDR
+    icon: https://github.com/M1XZG/uptime/blob/7e0b96e646434818c69ecd093ff1db4c5a2c4bf3/assets/truenas-logo.png
+  - name: INFRA01 [VPN]
+    url: $INFRA01ADDR
+    check: "tcp-ping"
+    port: 53
+    icon: https://github.com/M1XZG/uptime/blob/1a0b9a6d234895784a86d53338f65fa04413f9ab/assets/centos.png
+  - name: docktopus [VPN]
+    url: $DOCKTOPUSADDR
+    check: "tcp-ping"
+    port: 53
+    icon: https://github.com/M1XZG/uptime/blob/30979ee0a82f94cbac6211ba78ad1b9613d9c775/assets/ubuntu.png
+  - name: Fritzbox [VPN]
+    url: $FRITZADDR
+    check: "tcp-ping"
+    port: 80
+    icon: https://github.com/M1XZG/uptime/blob/7e0b96e646434818c69ecd093ff1db4c5a2c4bf3/assets/Fritzbox.png
+  - name: Tinkerbell [VPN]
+    url: $TINKERBELLADDR
+    check: "tcp-ping"
+    port: 53
+    icon: https://github.com/M1XZG/uptime/blob/7e0b96e646434818c69ecd093ff1db4c5a2c4bf3/assets/tinkerboard.png
+  - name: Edge Router [VPN]
+    url: $EDGEROUTERADDR
+    check: "tcp-ping"
+    port: 53
+    icon: https://github.com/M1XZG/uptime/blob/4292d48d95a62cc6669161e0d48390b3f8d79507/assets/Router.svg
     
     
 
