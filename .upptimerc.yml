@@ -33,7 +33,7 @@ sites:
     url: $PI42ADDR
     icon: https://github.com/M1XZG/uptime/blob/a5f5569c652410f39f06ead23e0166ef84abb697/assets/RaspPi-32px.png
 #  - name: Helios (StreamingPC) [VPN]
-  - name: StreamingPC [VPN]
+  - name: StreamingPC (Helios) [VPN]
     #url: $STREAMINGADDR
     url: $HELIOSADDR
     icon: https://github.com/M1XZG/uptime/blob/e7395f2d4ab9e8fc2ae49ab9be25c7d7335d5224/assets/Windows-11-Icon.png
