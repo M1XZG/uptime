@@ -346,19 +346,19 @@
     "url": "$HELIOSADDR",
     "icon": "https://github.com/M1XZG/uptime/blob/e7395f2d4ab9e8fc2ae49ab9be25c7d7335d5224/assets/Windows-11-Icon.png",
     "slug": "streaming-pc-helios-vpn",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.07%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
     "time": 87,
-    "timeDay": 83,
-    "timeWeek": 84,
+    "timeDay": 90,
+    "timeWeek": 86,
     "timeMonth": 85,
     "timeYear": 87,
     "dailyMinutesDown": {
-      "2025-12-01": 0
+      "2025-12-01": 13
     }
   },
   {
