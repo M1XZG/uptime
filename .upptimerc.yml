@@ -37,6 +37,11 @@ sites:
   - name: fritzbox [via VPN]
     url: $FRITZADDR
 
+  - name: docktopus [via VPN]
+    url: $DOCKTOPUSADDR
+    check: "tcp-ping"
+    port: 53
+
   - name: Helios (Streaming PC) [via VPN]
     url: $HELIOSADDR
     check: "tcp-ping"
