@@ -6,33 +6,61 @@ runner: "[self-hosted]"
 sites:
   - name: Zoraxy
     url: http://bigbastard.letmeshoot.it:8000
+
   - name: Dashboard
     url: https://dash.rpmdp.com/freeboard/
-  - name: FB
+
+  - name: Fileserver
     url: https://fb.letmeshoot.it/login
+
   - name: Flight Tracker (FA)
     url: https://fa.letmeshoot.it
+
   - name: Flight Tracker (FT)
     url: https://ft.letmeshoot.it
+
   - name: Blog
     url: https://www.uk-experience.com
+
   - name: Reggie Walks
     url: https://www.reggiewalkswitney.co.uk
+
   - name: pi4-1 http [VPN]
     url: $PI41ADDR 
+
   - name: pi4-2 http [VPN]
     url: $PI42ADDR
+
   - name: Edge Router [via VPN]
     url: $EDGEROUTERADDR
-  - name: Helios (Streaming PC)
+
+  - name: fritzbox [via VPN]
+    url: $FRITZADDR
+
+  - name: Helios (Streaming PC) [via VPN]
     url: $HELIOSADDR
     check: "tcp-ping"
     port: 4455
+
+  - name: NAS [via VPN]
+    url: $NASADDR
+    port: 80
+
+  - name: tinkerbell [via VPN]
+    url: $TINKERBELLADDR
+    check: "tcp-ping"
+    port: 53
+
+  - name: infra01 [via VPN]
+    url: $INFRA01ADDR
+    check: "tcp-ping"
+    port: 53
 
   - name: Google DNS 1
     check: "tcp-ping"
     url: 8.8.4.4
     port: 53
+
   - name: Google DNS 2
     check: "tcp-ping"
     url: 8.8.8.8
