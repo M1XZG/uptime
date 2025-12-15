@@ -19,10 +19,14 @@ sites:
     url: https://www.reggiewalkswitney.co.uk
   - name: pi4-1 http [VPN]
     url: $PI41ADDR 
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 404
+  - name: pi4-2 http [VPN]
+    url: $PI42ADDR
+  - name: Edge Router [via VPN]
+    url: $EDGEROUTERADDR
+  - name: Helios (Streaming PC)
+    url: $HELIOSADDR
+    check: "tcp-ping"
+    port: 4445
 
   - name: Google DNS 1
     check: "tcp-ping"
