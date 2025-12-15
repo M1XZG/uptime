@@ -1,22 +1,36 @@
-name: Export and encrypt secrets
+name: Export encrypted repo secrets
 
 on:
   workflow_dispatch:
 
 jobs:
-  export-secrets:
+  export-encrypted-secrets:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Check out repo
+      - name: Check out repository
         uses: actions/checkout@v4
 
       - name: Import GPG public key
+        env:
+          GPG_PUBLIC_KEY: ${{ secrets.GPG_PUBLIC_KEY }}
         run: |
-          echo "${{ secrets.GPG_PUBLIC_KEY }}" | gpg --import
+          # Import the ASCII-armoured public key provided via secrets
+          printf '%s\n' "$GPG_PUBLIC_KEY" | gpg --batch --import
 
-      # Stealth directory and file names
-      - name: Create working directory and write values
+      - name: Write values to stealth file
+        env:
+          TINKERBELLADDR: ${{ secrets.TINKERBELLADDR }}
+          PI42ADDR: ${{ secrets.PI42ADDR }}
+          DOCKTOPUSADDR: ${{ secrets.DOCKTOPUSADDR }}
+          HELIOSADDR: ${{ secrets.HELIOSADDR }}
+          ZEROTIER_NETWORK_ID: ${{ secrets.ZEROTIER_NETWORK_ID }}
+          NASADDR: ${{ secrets.NASADDR }}
+          STREAMINGADDR: ${{ secrets.STREAMINGADDR }}
+          INFRA01ADDR: ${{ secrets.INFRA01ADDR }}
+          EDGEROUTERADDR: ${{ secrets.EDGEROUTERADDR }}
+          FRITZADDR: ${{ secrets.FRITZADDR }}
+          PI41ADDR: ${{ secrets.PI41ADDR }}
         run: |
           WORKDIR="x7p9q2t4b1z8"
           OUTFILE="k3d9f1s8q4v2"
@@ -24,33 +38,38 @@ jobs:
           mkdir -p "$WORKDIR"
 
           {
-            echo "TINKERBELLADDR=${{ secrets.TINKERBELLADDR }}"
-            echo "PI42ADDR=${{ secrets.PI42ADDR }}"
-            echo "DOCKTOPUSADDR=${{ secrets.DOCKTOPUSADDR }}"
-            echo "HELIOSADDR=${{ secrets.HELIOSADDR }}"
-            echo "ZEROTIER_NETWORK_ID=${{ secrets.ZEROTIER_NETWORK_ID }}"
-            echo "NASADDR=${{ secrets.NASADDR }}"
-            echo "STREAMINGADDR=${{ secrets.STREAMINGADDR }}"
-            echo "INFRA01ADDR=${{ secrets.INFRA01ADDR }}"
-            echo "EDGEROUTERADDR=${{ secrets.EDGEROUTERADDR }}"
-            echo "FRITZADDR=${{ secrets.FRITZADDR }}"
-            echo "PI41ADDR=${{ secrets.PI41ADDR }}"
+            echo "TINKERBELLADDR=$TINKERBELLADDR"
+            echo "PI42ADDR=$PI42ADDR"
+            echo "DOCKTOPUSADDR=$DOCKTOPUSADDR"
+            echo "HELIOSADDR=$HELIOSADDR"
+            echo "ZEROTIER_NETWORK_ID=$ZEROTIER_NETWORK_ID"
+            echo "NASADDR=$NASADDR"
+            echo "STREAMINGADDR=$STREAMINGADDR"
+            echo "INFRA01ADDR=$INFRA01ADDR"
+            echo "EDGEROUTERADDR=$EDGEROUTERADDR"
+            echo "FRITZADDR=$FRITZADDR"
+            echo "PI41ADDR=$PI41ADDR"
           } > "$WORKDIR/$OUTFILE"
 
-      - name: Encrypt the file using GPG
+      - name: Encrypt file with GPG
+        env:
+          GPG_RECIPIENT_ID: ${{ secrets.GPG_RECIPIENT_ID }}
         run: |
           WORKDIR="x7p9q2t4b1z8"
           OUTFILE="k3d9f1s8q4v2"
           ENCFILE="d9f3x1q7m2r4.gpg"
 
-          gpg --output "$WORKDIR/$ENCFILE" \
-              --encrypt --recipient "${{ secrets.GPG_RECIPIENT_EMAIL }}" \
+          # Non-interactive, trust the given key ID / email for encryption
+          gpg --batch --yes --trust-model always \
+              --output "$WORKDIR/$ENCFILE" \
+              --encrypt \
+              --recipient "$GPG_RECIPIENT_ID" \
               "$WORKDIR/$OUTFILE"
 
-          # Destroy plaintext instantly
+          # Destroy plaintext immediately
           shred -u "$WORKDIR/$OUTFILE"
 
-      - name: Upload encrypted artifact
+      - name: Upload encrypted bundle
         uses: actions/upload-artifact@v4
         with:
           name: encrypted-bundle
