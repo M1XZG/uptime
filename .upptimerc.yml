@@ -17,6 +17,12 @@ sites:
     url: https://www.uk-experience.com
   - name: Reggie Walks
     url: https://www.reggiewalkswitney.co.uk
+  - name: Google DNS 1
+    url: 8.8.4.4
+  - name: Google DNS 2
+    url: 8.8.8.8
+  - name: ZT Pi 4-1 DNS
+    url: 192.168.195.5
 
 #  - name: Home
 #    url: https://home.rpmdp.com
