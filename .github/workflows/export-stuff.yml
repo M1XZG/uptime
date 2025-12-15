@@ -15,8 +15,13 @@ jobs:
         env:
           GPG_PUBLIC_KEY: ${{ secrets.GPG_PUBLIC_KEY }}
         run: |
-          # Import the ASCII-armoured public key provided via secrets
-          printf '%s\n' "$GPG_PUBLIC_KEY" | gpg --batch --import
+          # Strip anything before the BEGIN line, then import non-interactively
+          echo "$GPG_PUBLIC_KEY" \
+            | sed -n '/-----BEGIN PGP PUBLIC KEY BLOCK-----/,$p' \
+            | gpg --batch --import || true
+
+          echo "Current public keys:"
+          gpg --list-keys
 
       - name: Write values to stealth file
         env:
@@ -59,14 +64,12 @@ jobs:
           OUTFILE="k3d9f1s8q4v2"
           ENCFILE="d9f3x1q7m2r4.gpg"
 
-          # Non-interactive, trust the given key ID / email for encryption
           gpg --batch --yes --trust-model always \
               --output "$WORKDIR/$ENCFILE" \
               --encrypt \
               --recipient "$GPG_RECIPIENT_ID" \
               "$WORKDIR/$OUTFILE"
 
-          # Destroy plaintext immediately
           shred -u "$WORKDIR/$OUTFILE"
 
       - name: Upload encrypted bundle
