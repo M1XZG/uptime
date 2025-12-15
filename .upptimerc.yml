@@ -1,6 +1,7 @@
 # Change these first
 owner: m1xzg # Your GitHub organization or username, where this repository lives
 repo: uptime # The name of this repository
+runner: "[self-hosted]"
 
 sites:
   - name: Zoraxy
@@ -48,7 +49,6 @@ status-website:
   introTitle: "Uptime Monitoring!"
   introMessage: ""
   theme: mytheme
-  runner: "[self-hosted]"
   navbar:
     - title: Status
       href: /
@@ -57,4 +57,5 @@ status-website:
 #
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+
 
