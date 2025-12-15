@@ -1,6 +1,0 @@
-# Generated monitoring data - keep locally but don't commit
-api/
-graphs/
-history/
-.DS_Store
-node_modules/
