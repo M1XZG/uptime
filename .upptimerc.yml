@@ -19,6 +19,20 @@ sites:
     url: https://www.reggiewalkswitney.co.uk
   - name: pi4-1 http [VPN]
     url: $PI41ADDR 
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
+
+  - name: Google DNS 1
+    check: "tcp-ping"
+    url: 8.8.4.4
+    port: 53
+  - name: Google DNS 2
+    check: "tcp-ping"
+    url: 8.8.8.8
+    port: 53
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
