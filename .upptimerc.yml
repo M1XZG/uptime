@@ -48,6 +48,7 @@ status-website:
   introTitle: "Uptime Monitoring!"
   introMessage: ""
   theme: mytheme
+  runner: "[self-hosted]"
   navbar:
     - title: Status
       href: /
@@ -56,3 +57,4 @@ status-website:
 #
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+
