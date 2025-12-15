@@ -17,6 +17,8 @@ sites:
     url: https://www.uk-experience.com
   - name: Reggie Walks
     url: https://www.reggiewalkswitney.co.uk
+  - name: pi4-1 http [VPN]
+    url: $PI41ADDR 
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
