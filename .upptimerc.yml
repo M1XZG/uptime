@@ -30,11 +30,10 @@ sites:
 
   - name: Home
     icon: https://github.com/M1XZG/uptime/blob/0998bfb1c0addeefe4d046611a1f6670fd414e5c/assets/home.png
-    url: "$HOMEADDR"
-    #url: "home.rpmdp.com"
+    url: "home.rpmdp.com"
     type: "globalping"
     check: "tcp-ping"
-    location: "World"
+    location: "Manchester+GB"
     ipv6: false
 
   - name: pi4-1 http [VPN]
@@ -111,6 +110,7 @@ status-website:
 #
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+
 
 
 
