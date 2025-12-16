@@ -32,8 +32,9 @@ sites:
     icon: https://github.com/M1XZG/uptime/blob/0998bfb1c0addeefe4d046611a1f6670fd414e5c/assets/home.png
     url: $HOMEADDR
     type: globalping
-    check: icmp-ping
+    check: tcp-ping
     location: Manchester
+    ipv6: false
 
   - name: pi4-1 http [VPN]
     icon: https://github.com/M1XZG/uptime/blob/30609b3290444207169b106574a77770dd4394a6/assets/icons8-raspberry-100.png
@@ -109,6 +110,7 @@ status-website:
 #
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+
 
 
 
