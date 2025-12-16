@@ -1,7 +1,7 @@
 url: $HOMEADDR
 status: down
-code: 0
+code: 401
 responseTime: 0
-lastUpdated: 2025-12-16T14:03:39.099Z
+lastUpdated: 2025-12-16T14:12:49.734Z
 startTime: 2025-12-16T13:48:49.835Z
 generator: Upptime <https://github.com/upptime/upptime>
