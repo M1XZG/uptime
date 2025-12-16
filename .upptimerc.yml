@@ -5,12 +5,15 @@ runner: "[self-hosted]"
 
 sites:
   - name: Zoraxy
+    icon: https://github.com/M1XZG/uptime/blob/8165bb3f9d996e7ab7df3d81f117104594aa16c4/assets/icons8-proxy-100.png
     url: http://bigbastard.letmeshoot.it:8000
 
   - name: Dashboard
+    icon: https://github.com/M1XZG/uptime/blob/8165bb3f9d996e7ab7df3d81f117104594aa16c4/assets/icons8-dashboard-100.png
     url: https://dash.rpmdp.com/freeboard/
 
   - name: Fileserver
+    icon: https://github.com/M1XZG/uptime/blob/30609b3290444207169b106574a77770dd4394a6/assets/icons8-cloud-storage-100.png
     url: https://fb.letmeshoot.it/login
 
   - name: Flight Tracker (FA)
@@ -26,37 +29,46 @@ sites:
     url: https://www.reggiewalkswitney.co.uk
 
   - name: pi4-1 http [VPN]
+    icon: https://github.com/M1XZG/uptime/blob/30609b3290444207169b106574a77770dd4394a6/assets/icons8-raspberry-100.png
     url: $PI41ADDR 
 
   - name: pi4-2 http [VPN]
+    icon: https://github.com/M1XZG/uptime/blob/30609b3290444207169b106574a77770dd4394a6/assets/icons8-raspberry-100.png
     url: $PI42ADDR
 
   - name: Edge Router [via VPN]
+    icon: https://github.com/M1XZG/uptime/blob/30609b3290444207169b106574a77770dd4394a6/assets/icons8-asus-100.png
     url: $EDGEROUTERADDR
 
   - name: fritzbox [via VPN]
+    icon: https://github.com/M1XZG/uptime/blob/30609b3290444207169b106574a77770dd4394a6/assets/icons8-fritzbox-100.png
     url: $FRITZADDR
 
   - name: docktopus [via VPN]
+    icon: https://github.com/M1XZG/uptime/blob/30609b3290444207169b106574a77770dd4394a6/assets/icons8-ubuntu-100.png
     url: $DOCKTOPUSADDR
     check: "tcp-ping"
     port: 53
 
   - name: Helios (Streaming PC) [via VPN]
+    icon: https://github.com/M1XZG/uptime/blob/30609b3290444207169b106574a77770dd4394a6/assets/icons8-windows-100.png
     url: $HELIOSADDR
     check: "tcp-ping"
     port: 4455
 
   - name: NAS [via VPN]
+    icon: https://github.com/M1XZG/uptime/blob/20bc6239b2b5a3ca5a9fc7fc5a909f8a791e5580/assets/icons8-nas-100.png
     url: $NASADDR
     port: 80
 
   - name: tinkerbell [via VPN]
+    icon: https://github.com/M1XZG/uptime/blob/30609b3290444207169b106574a77770dd4394a6/assets/icons8-raspberry-100.png
     url: $TINKERBELLADDR
     check: "tcp-ping"
     port: 53
 
   - name: infra01 [via VPN]
+    icon: https://github.com/M1XZG/uptime/blob/30609b3290444207169b106574a77770dd4394a6/assets/icons8-ubuntu-100.png
     url: $INFRA01ADDR
     check: "tcp-ping"
     port: 53
@@ -90,6 +102,7 @@ status-website:
 #
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+
 
 
 
