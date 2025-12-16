@@ -5,7 +5,7 @@ runner: "[self-hosted]"
 
 sites:
   - name: Zoraxy
-    icon: https://github.com/M1XZG/uptime/blob/8165bb3f9d996e7ab7df3d81f117104594aa16c4/assets/icons8-proxy-100.png
+    icon: https://github.com/M1XZG/uptime/blob/b3324cb1b0340e1b5139f3dd7c0b3fc086d50baf/assets/zoraxy.png
     url: http://bigbastard.letmeshoot.it:8000
 
   - name: Dashboard
@@ -102,6 +102,7 @@ status-website:
 #
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+
 
 
 
