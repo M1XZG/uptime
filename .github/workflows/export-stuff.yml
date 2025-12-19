@@ -1,0 +1,84 @@
+name: Export encrypted repo secrets
+
+on:
+  workflow_dispatch:
+
+jobs:
+  export-encrypted-secrets:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Import GPG public key
+        env:
+          GPG_PUBLIC_KEY: ${{ secrets.GPG_PUBLIC_KEY }}
+        run: |
+          # Strip anything before the BEGIN line, then import non-interactively
+          echo "$GPG_PUBLIC_KEY" \
+            | sed -n '/-----BEGIN PGP PUBLIC KEY BLOCK-----/,$p' \
+            | gpg --batch --import || true
+
+          echo "Current public keys:"
+          gpg --list-keys
+
+      - name: Dump secrets to file
+        env:
+          TINKERBELLADDR: ${{ secrets.TINKERBELLADDR }}
+          PI42ADDR: ${{ secrets.PI42ADDR }}
+          DOCKTOPUSADDR: ${{ secrets.DOCKTOPUSADDR }}
+          HELIOSADDR: ${{ secrets.HELIOSADDR }}
+          ZEROTIER_NETWORK_ID: ${{ secrets.ZEROTIER_NETWORK_ID }}
+          NASADDR: ${{ secrets.NASADDR }}
+          STREAMINGADDR: ${{ secrets.STREAMINGADDR }}
+          INFRA01ADDR: ${{ secrets.INFRA01ADDR }}
+          EDGEROUTERADDR: ${{ secrets.EDGEROUTERADDR }}
+          FRITZADDR: ${{ secrets.FRITZADDR }}
+          PI41ADDR: ${{ secrets.PI41ADDR }}
+          ACTIONS_RUNNER_DEBUG: ${{ secrets.ACTIONS_RUNNER_DEBUG }}
+          CLEANUP_ACTIONS_PAT: ${{ secrets.CLEANUP_ACTIONS_PAT }}
+          GH_PAT: ${{ secrets.GH_PAT }}
+          GLOBALPING_TOKEN: ${{ secrets.GLOBALPING_TOKEN }}
+          GPG_PUBLIC_KEY: ${{ secrets.GPG_PUBLIC_KEY }}
+          GPG_RECIPIENT_ID: ${{ secrets.GPG_RECIPIENT_ID }}
+          HOMEADDR: ${{ secrets.HOMEADDR }}
+          NOTIFICATION_DISCORD: ${{ secrets.NOTIFICATION_DISCORD }}
+          NOTIFICATION_DISCORD_WEBHOOK: ${{ secrets.NOTIFICATION_DISCORD_WEBHOOK }}
+          NOTIFICATION_DISCORD_WEBHOOK_URL: ${{ secrets.NOTIFICATION_DISCORD_WEBHOOK_URL }}
+          NOTIFICATION_EMAIL: ${{ secrets.NOTIFICATION_EMAIL }}
+          NOTIFICATION_EMAIL_FROM: ${{ secrets.NOTIFICATION_EMAIL_FROM }}
+          NOTIFICATION_EMAIL_SMTP: ${{ secrets.NOTIFICATION_EMAIL_SMTP }}
+          NOTIFICATION_EMAIL_SMTP_HOST: ${{ secrets.NOTIFICATION_EMAIL_SMTP_HOST }}
+          NOTIFICATION_EMAIL_SMTP_PASSWORD: ${{ secrets.NOTIFICATION_EMAIL_SMTP_PASSWORD }}
+          NOTIFICATION_EMAIL_SMTP_PORT: ${{ secrets.NOTIFICATION_EMAIL_SMTP_PORT }}
+          NOTIFICATION_EMAIL_SMTP_USERNAME: ${{ secrets.NOTIFICATION_EMAIL_SMTP_USERNAME }}
+          NOTIFICATION_EMAIL_TO: ${{ secrets.NOTIFICATION_EMAIL_TO }}
+          ZEROTIER_CENTRAL_TOKEN: ${{ secrets.ZEROTIER_CENTRAL_TOKEN }}
+        run: |
+          chmod +x scripts/dump-secrets.sh
+          ./scripts/dump-secrets.sh
+          mkdir -p x7p9q2t4b1z8
+          mv secrets_dump.txt x7p9q2t4b1z8/k3d9f1s8q4v2
+
+      - name: Encrypt file with GPG
+        env:
+          GPG_RECIPIENT_ID: ${{ secrets.GPG_RECIPIENT_ID }}
+        run: |
+          WORKDIR="x7p9q2t4b1z8"
+          OUTFILE="k3d9f1s8q4v2"
+          ENCFILE="d9f3x1q7m2r4.gpg"
+
+          gpg --batch --yes --trust-model always \
+              --output "$WORKDIR/$ENCFILE" \
+              --encrypt \
+              --recipient "$GPG_RECIPIENT_ID" \
+              "$WORKDIR/$OUTFILE"
+
+          shred -u "$WORKDIR/$OUTFILE"
+
+      - name: Upload encrypted bundle
+        uses: actions/upload-artifact@v4
+        with:
+          name: encrypted-bundle
+          path: x7p9q2t4b1z8/d9f3x1q7m2r4.gpg
