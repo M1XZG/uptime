@@ -5,18 +5,40 @@
 
 set -euo pipefail
 
-
-# Read secret names from 'my-secrets' file (one per line)
-SECRETS=()
-if [[ -f "my-secrets" ]]; then
-  while IFS= read -r line; do
-    [[ -z "$line" || "$line" =~ ^# ]] && continue  # skip empty lines and comments
-    SECRETS+=("$line")
-  done < my-secrets
-else
-  echo "my-secrets file not found!" >&2
-  exit 1
-fi
+# List of secret names to dump (edit as needed)
+SECRETS=(
+  ACTIONS_RUNNER_DEBUG
+  CLEANUP_ACTIONS_PAT
+  DOCKTOPUSADDR
+  EDGEROUTERADDR
+  FRITZADDR
+  GH_PAT
+  GLOBALPING_TOKEN
+  GPG_PUBLIC_KEY
+  GPG_RECIPIENT_ID
+  HELIOSADDR
+  HOMEADDR
+  INFRA01ADDR
+  NASADDR
+  NOTIFICATION_DISCORD
+  NOTIFICATION_DISCORD_WEBHOOK
+  NOTIFICATION_DISCORD_WEBHOOK_URL
+  NOTIFICATION_EMAIL
+  NOTIFICATION_EMAIL_FROM
+  NOTIFICATION_EMAIL_SMTP
+  NOTIFICATION_EMAIL_SMTP_HOST
+  NOTIFICATION_EMAIL_SMTP_PASSWORD
+  NOTIFICATION_EMAIL_SMTP_PORT
+  NOTIFICATION_EMAIL_SMTP_USERNAME
+  NOTIFICATION_EMAIL_TO
+  OCTOPIADDR
+  PI41ADDR
+  PI42ADDR
+  STREAMINGADDR
+  TINKERBELLADDR
+  ZEROTIER_CENTRAL_TOKEN
+  ZEROTIER_NETWORK_ID
+)
 
 OUTFILE="secrets_dump.txt"
 
