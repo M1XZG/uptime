@@ -44,6 +44,10 @@ sites:
     icon: https://github.com/M1XZG/uptime/blob/30609b3290444207169b106574a77770dd4394a6/assets/icons8-raspberry-100.png
     url: $PI42ADDR
 
+  - name: octopi http [via VPN]
+    icon: https://github.com/M1XZG/uptime/blob/30609b3290444207169b106574a77770dd4394a6/assets/icons8-raspberry-100.png
+    url: $OCTOPIADDR
+
   - name: Edge Router [via VPN]
     icon: https://github.com/M1XZG/uptime/blob/30609b3290444207169b106574a77770dd4394a6/assets/icons8-asus-100.png
     url: $EDGEROUTERADDR
