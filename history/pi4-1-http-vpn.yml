@@ -1,7 +1,7 @@
 url: $PI41ADDR
-status: up
-code: 200
-responseTime: 262
-lastUpdated: 2025-12-21T23:05:41.653Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2025-12-22T01:16:35.152Z
 startTime: 2025-12-15T13:43:04.089Z
 generator: Upptime <https://github.com/upptime/upptime>
