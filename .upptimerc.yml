@@ -2,7 +2,15 @@
 owner: m1xzg # Your GitHub organization or username, where this repository lives
 repo: uptime # The name of this repository
 runner: "[self-hosted]"
-
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "*/5 * * * *"
+  
 sites:
   - name: Zoraxy
     icon: https://github.com/M1XZG/uptime/blob/7e7dbfb2d11377a0138c761547051a748b193db9/assets/zoraxy.png
@@ -116,6 +124,7 @@ status-website:
 #
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+
 
 
 
