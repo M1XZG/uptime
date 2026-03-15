@@ -42,10 +42,10 @@ sites:
   - name: Home
     icon: https://github.com/M1XZG/uptime/blob/0998bfb1c0addeefe4d046611a1f6670fd414e5c/assets/home.png
     url: "home.rpmdp.com"
-    type: "globalping"
-    check: "tcp-ping"
-    location: "Manchester+GB"
-    ipv6: false
+    #type: "globalping"
+    #check: "tcp-ping"
+    #location: "Manchester+GB"
+    #ipv6: false
 
   - name: pi4-1 http [VPN]
     icon: https://github.com/M1XZG/uptime/blob/30609b3290444207169b106574a77770dd4394a6/assets/icons8-raspberry-100.png
@@ -92,15 +92,15 @@ sites:
     check: "tcp-ping"
     port: 53
 
-  - name: Google DNS 1
-    check: "tcp-ping"
-    url: 8.8.4.4
-    port: 53
+  #- name: Google DNS 1
+  #  check: "tcp-ping"
+  #  url: 8.8.4.4
+  #  port: 53
 
-  - name: Google DNS 2
-    check: "tcp-ping"
-    url: 8.8.8.8
-    port: 53
+  #- name: Google DNS 2
+  #  check: "tcp-ping"
+  #  url: 8.8.8.8
+  #  port: 53
 
 
 status-website:
