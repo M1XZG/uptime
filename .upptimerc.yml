@@ -42,8 +42,9 @@ sites:
   - name: Home
     icon: https://github.com/M1XZG/uptime/blob/0998bfb1c0addeefe4d046611a1f6670fd414e5c/assets/home.png
     url: "home.rpmdp.com"
+    check: "tcp-ping"
+    port: 75
     #type: "globalping"
-    #check: "tcp-ping"
     #location: "Manchester+GB"
     #ipv6: false
 
