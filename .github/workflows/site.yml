@@ -32,6 +32,10 @@ jobs:
         with:
           ref: ${{ github.head_ref }}
           token: ${{ secrets.GH_PAT || github.token }}
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
       - name: Generate site
         uses: upptime/uptime-monitor@v1.41.0
         with:
