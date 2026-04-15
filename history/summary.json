@@ -27,9 +27,9 @@
     "slug": "dashboard",
     "status": "up",
     "uptime": "97.34%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "97.53%",
     "time": 688,
     "timeDay": 1538,
@@ -37,7 +37,6 @@
     "timeMonth": 607,
     "timeYear": 688,
     "dailyMinutesDown": {
-      "2026-04-15": 5,
       "2026-02-25": 43,
       "2025-12-11": 33,
       "2025-10-22": 46,
@@ -83,10 +82,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/fa.letmeshoot.it.ico",
     "slug": "flight-tracker-fa",
     "status": "up",
-    "uptime": "97.06%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptime": "97.07%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.04%",
     "time": 2523,
     "timeDay": 4992,
@@ -94,7 +93,6 @@
     "timeMonth": 4404,
     "timeYear": 2523,
     "dailyMinutesDown": {
-      "2026-04-15": 5,
       "2026-02-25": 41,
       "2026-02-20": 19,
       "2025-12-29": 18,
@@ -120,10 +118,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/ft.letmeshoot.it.ico",
     "slug": "flight-tracker-ft",
     "status": "up",
-    "uptime": "97.02%",
-    "uptimeDay": "99.68%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptime": "97.03%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.03%",
     "time": 1081,
     "timeDay": 1972,
@@ -131,7 +129,6 @@
     "timeMonth": 1417,
     "timeYear": 1081,
     "dailyMinutesDown": {
-      "2026-04-15": 5,
       "2026-02-25": 40,
       "2026-02-20": 19,
       "2025-12-29": 18,
@@ -234,18 +231,17 @@
     "icon": "https://github.com/M1XZG/uptime/blob/30609b3290444207169b106574a77770dd4394a6/assets/icons8-raspberry-100.png",
     "slug": "pi4-2-http-vpn",
     "status": "up",
-    "uptime": "98.44%",
-    "uptimeDay": "99.70%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "98.44%",
+    "uptime": "98.45%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "98.45%",
     "time": 559,
     "timeDay": 530,
     "timeWeek": 503,
     "timeMonth": 477,
     "timeYear": 559,
     "dailyMinutesDown": {
-      "2026-04-15": 4,
       "2026-03-03": 16,
       "2026-02-27": 17,
       "2026-02-26": 52,
@@ -304,18 +300,17 @@
     "icon": "https://github.com/M1XZG/uptime/blob/30609b3290444207169b106574a77770dd4394a6/assets/icons8-asus-100.png",
     "slug": "edge-router-via-vpn",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.72%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.96%",
+    "uptime": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.97%",
     "time": 219,
     "timeDay": 182,
     "timeWeek": 173,
     "timeMonth": 171,
     "timeYear": 219,
     "dailyMinutesDown": {
-      "2026-04-15": 4,
       "2025-12-15": 59
     }
   },
@@ -326,18 +321,16 @@
     "slug": "fritzbox-via-vpn",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.74%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 665,
     "timeDay": 602,
     "timeWeek": 532,
     "timeMonth": 538,
     "timeYear": 665,
-    "dailyMinutesDown": {
-      "2026-04-15": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "docktopus [via VPN]",
@@ -346,18 +339,16 @@
     "slug": "docktopus-via-vpn",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.79%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 119,
     "timeDay": 88,
     "timeWeek": 84,
     "timeMonth": 83,
     "timeYear": 119,
-    "dailyMinutesDown": {
-      "2026-04-15": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Helios (Streaming PC) [via VPN]",
@@ -366,9 +357,9 @@
     "slug": "helios-streaming-pc-via-vpn",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 96,
     "timeDay": 88,
@@ -376,7 +367,6 @@
     "timeMonth": 83,
     "timeYear": 96,
     "dailyMinutesDown": {
-      "2026-04-15": 2,
       "2026-01-17": 16
     }
   },
@@ -387,8 +377,8 @@
     "slug": "nas-via-vpn",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 259,
@@ -396,9 +386,7 @@
     "timeWeek": 254,
     "timeMonth": 252,
     "timeYear": 259,
-    "dailyMinutesDown": {
-      "2026-04-15": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "tinkerbell [via VPN]",
@@ -407,8 +395,8 @@
     "slug": "tinkerbell-via-vpn",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 91,
@@ -416,9 +404,7 @@
     "timeWeek": 84,
     "timeMonth": 83,
     "timeYear": 91,
-    "dailyMinutesDown": {
-      "2026-04-15": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "infra01 [via VPN]",
