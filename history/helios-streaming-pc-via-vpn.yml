@@ -1,7 +1,7 @@
 url: $HELIOSADDR
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-04-18T11:57:11.111Z
+status: up
+code: 200
+responseTime: 83
+lastUpdated: 2026-04-18T12:00:28.332Z
 startTime: 2025-12-15T22:09:15.372Z
 generator: Upptime <https://github.com/upptime/upptime>
