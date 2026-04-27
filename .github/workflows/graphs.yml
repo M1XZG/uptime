@@ -21,6 +21,10 @@ on:
   repository_dispatch:
     types: [graphs]
   workflow_dispatch:
+permissions:
+  contents: write
+  issues: write
+  statuses: write
 jobs:
   release:
     name: Generate graphs
@@ -36,4 +40,4 @@ jobs:
         with:
           command: "graphs"
         env:
-          GH_PAT: ${{ secrets.GH_PAT || github.token }}
+          GH_PAT: ${{ github.token }}

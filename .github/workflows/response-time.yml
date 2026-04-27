@@ -21,6 +21,10 @@ on:
   repository_dispatch:
     types: [response_time]
   workflow_dispatch:
+permissions:
+  contents: write
+  issues: write
+  statuses: write
 jobs:
   release:
     name: Check status
@@ -31,10 +35,24 @@ jobs:
         with:
           ref: ${{ github.head_ref }}
           token: ${{ secrets.GH_PAT || github.token }}
+      - name: Prepare secrets context
+        env:
+          SECRETS_JSON: ${{ toJson(secrets) }}
+        run: |
+          {
+            echo 'SECRETS_CONTEXT<<SECRETS_EOF'
+            echo "$SECRETS_JSON" | python3 -c "
+            import json, sys
+            data = json.load(sys.stdin)
+            data.pop('GH_PAT', None)
+            print(json.dumps(data))
+            "
+            echo 'SECRETS_EOF'
+          } >> "$GITHUB_ENV"
       - name: Update response time
         uses: upptime/uptime-monitor@v1.41.0
         with:
           command: "response-time"
         env:
-          GH_PAT: ${{ secrets.GH_PAT || github.token }}
-          SECRETS_CONTEXT: ${{ toJson(secrets) }}
+          GH_PAT: ${{ github.token }}
+          # SECRETS_CONTEXT is inherited from $GITHUB_ENV (set in the step above)

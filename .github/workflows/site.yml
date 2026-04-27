@@ -21,6 +21,12 @@ on:
   repository_dispatch:
     types: [static_site]
   workflow_dispatch:
+permissions:
+  contents: write
+  issues: write
+  statuses: write
+  pages: write
+  id-token: write
 jobs:
   release:
     name: Build and deploy site
@@ -37,7 +43,7 @@ jobs:
         with:
           command: "site"
         env:
-          GH_PAT: ${{ secrets.GH_PAT || github.token }}
+          GH_PAT: ${{ github.token }}
       - uses: peaceiris/actions-gh-pages@v4
         name: GitHub Pages Deploy
         with:
