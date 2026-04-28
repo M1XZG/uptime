@@ -27,9 +27,9 @@
     "slug": "dashboard",
     "status": "down",
     "uptime": "97.56%",
-    "uptimeDay": "93.81%",
-    "uptimeWeek": "99.12%",
-    "uptimeMonth": "99.80%",
+    "uptimeDay": "93.42%",
+    "uptimeWeek": "99.06%",
+    "uptimeMonth": "99.78%",
     "uptimeYear": "97.76%",
     "time": 723,
     "timeDay": 2083,
@@ -37,7 +37,7 @@
     "timeMonth": 846,
     "timeYear": 723,
     "dailyMinutesDown": {
-      "2026-04-28": 89,
+      "2026-04-28": 95,
       "2026-02-25": 43,
       "2025-12-11": 33,
       "2025-10-22": 46,
@@ -296,11 +296,11 @@
     "url": "$EDGEROUTERADDR",
     "icon": "https://github.com/M1XZG/uptime/blob/30609b3290444207169b106574a77770dd4394a6/assets/icons8-asus-100.png",
     "slug": "edge-router-via-vpn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "93.42%",
-    "uptimeWeek": "99.06%",
-    "uptimeMonth": "99.78%",
+    "uptimeDay": "93.79%",
+    "uptimeWeek": "99.11%",
+    "uptimeMonth": "99.80%",
     "uptimeYear": "99.92%",
     "time": 297,
     "timeDay": 4866,
@@ -308,7 +308,7 @@
     "timeMonth": 548,
     "timeYear": 297,
     "dailyMinutesDown": {
-      "2026-04-28": 95,
+      "2026-04-28": 89,
       "2025-12-15": 59
     }
   },
@@ -319,9 +319,9 @@
     "slug": "fritzbox-via-vpn",
     "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "92.09%",
-    "uptimeWeek": "98.87%",
-    "uptimeMonth": "99.74%",
+    "uptimeDay": "91.71%",
+    "uptimeWeek": "98.82%",
+    "uptimeMonth": "99.73%",
     "uptimeYear": "99.94%",
     "time": 660,
     "timeDay": 523,
@@ -329,7 +329,7 @@
     "timeMonth": 575,
     "timeYear": 660,
     "dailyMinutesDown": {
-      "2026-04-28": 114
+      "2026-04-28": 119
     }
   },
   {
@@ -339,9 +339,9 @@
     "slug": "docktopus-via-vpn",
     "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "92.14%",
-    "uptimeWeek": "98.88%",
-    "uptimeMonth": "99.74%",
+    "uptimeDay": "91.76%",
+    "uptimeWeek": "98.82%",
+    "uptimeMonth": "99.73%",
     "uptimeYear": "99.94%",
     "time": 116,
     "timeDay": 83,
@@ -349,7 +349,7 @@
     "timeMonth": 83,
     "timeYear": 116,
     "dailyMinutesDown": {
-      "2026-04-28": 113
+      "2026-04-28": 119
     }
   },
   {
@@ -400,9 +400,9 @@
     "slug": "tinkerbell-via-vpn",
     "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "92.27%",
-    "uptimeWeek": "98.90%",
-    "uptimeMonth": "99.75%",
+    "uptimeDay": "91.89%",
+    "uptimeWeek": "98.84%",
+    "uptimeMonth": "99.73%",
     "uptimeYear": "99.94%",
     "time": 91,
     "timeDay": 83,
@@ -410,7 +410,7 @@
     "timeMonth": 83,
     "timeYear": 91,
     "dailyMinutesDown": {
-      "2026-04-28": 111
+      "2026-04-28": 117
     }
   },
   {
