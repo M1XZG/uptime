@@ -77,15 +77,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/fa.letmeshoot.it.ico",
     "slug": "flight-tracker-fa",
     "status": "up",
-    "uptime": "97.68%",
-    "uptimeDay": "99.69%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.98%",
+    "uptime": "97.69%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.18%",
     "time": 2606,
     "timeDay": 1676,
     "timeWeek": 1873,
-    "timeMonth": 1956,
+    "timeMonth": 1974,
     "timeYear": 2606,
     "dailyMinutesDown": {
       "2025-06-17": 319,
@@ -102,8 +102,7 @@
       "2026-02-20": 19,
       "2026-02-25": 41,
       "2026-04-28": 60,
-      "2026-04-29": 355,
-      "2026-05-29": 4
+      "2026-04-29": 355
     }
   },
   {
@@ -112,15 +111,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/ft.letmeshoot.it.ico",
     "slug": "flight-tracker-ft",
     "status": "up",
-    "uptime": "97.65%",
-    "uptimeDay": "99.72%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.17%",
+    "uptime": "97.66%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.18%",
     "time": 1126,
     "timeDay": 772,
     "timeWeek": 741,
-    "timeMonth": 911,
+    "timeMonth": 914,
     "timeYear": 1126,
     "dailyMinutesDown": {
       "2025-06-17": 319,
@@ -138,8 +137,7 @@
       "2026-02-20": 19,
       "2026-02-25": 40,
       "2026-04-28": 60,
-      "2026-04-29": 355,
-      "2026-05-29": 4
+      "2026-04-29": 355
     }
   },
   {
@@ -148,11 +146,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/lore.wildwanderer-vr.com.ico",
     "slug": "wildys-lore",
     "status": "up",
-    "uptime": "97.16%",
+    "uptime": "97.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.23%",
+    "uptimeYear": "97.25%",
     "time": 631,
     "timeDay": 574,
     "timeWeek": 598,
@@ -170,11 +168,11 @@
     "url": "https://www.uk-experience.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.uk-experience.com.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.57%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.70%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.92%",
     "time": 1549,
     "timeDay": 1367,
@@ -186,7 +184,8 @@
       "2025-08-26": 38,
       "2025-09-11": 43,
       "2025-09-23": 23,
-      "2025-10-06": 42
+      "2025-10-06": 42,
+      "2026-05-29": 4
     }
   },
   {
@@ -195,7 +194,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.reggiewalkswitney.co.uk.ico",
     "slug": "reggie-walks",
     "status": "up",
-    "uptime": "99.65%",
+    "uptime": "99.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -220,14 +219,14 @@
     "slug": "pi4-2-http-vpn",
     "status": "up",
     "uptime": "98.69%",
-    "uptimeDay": "99.76%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "98.69%",
     "time": 542,
     "timeDay": 534,
     "timeWeek": 475,
-    "timeMonth": 481,
+    "timeMonth": 472,
     "timeYear": 542,
     "dailyMinutesDown": {
       "2025-07-04": 350,
@@ -281,8 +280,7 @@
       "2026-02-27": 17,
       "2026-03-03": 16,
       "2026-04-28": 59,
-      "2026-04-29": 354,
-      "2026-05-29": 4
+      "2026-04-29": 354
     }
   },
   {
