@@ -76,17 +76,17 @@
     "url": "https://fa.letmeshoot.it",
     "icon": "https://icons.duckduckgo.com/ip3/fa.letmeshoot.it.ico",
     "slug": "flight-tracker-fa",
-    "status": "down",
+    "status": "up",
     "uptime": "97.77%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.69%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.21%",
-    "time": 2574,
-    "timeDay": 1687,
-    "timeWeek": 1867,
+    "time": 2569,
+    "timeDay": 1679,
+    "timeWeek": 1879,
     "timeMonth": 1634,
-    "timeYear": 2574,
+    "timeYear": 2569,
     "dailyMinutesDown": {
       "2025-06-17": 319,
       "2025-07-04": 360,
@@ -103,7 +103,7 @@
       "2026-02-25": 41,
       "2026-04-28": 60,
       "2026-04-29": 355,
-      "2026-06-05": 1
+      "2026-06-05": 4
     }
   },
   {
@@ -111,17 +111,17 @@
     "url": "https://ft.letmeshoot.it",
     "icon": "https://icons.duckduckgo.com/ip3/ft.letmeshoot.it.ico",
     "slug": "flight-tracker-ft",
-    "status": "down",
-    "uptime": "97.75%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.21%",
-    "time": 1124,
-    "timeDay": 1623,
-    "timeWeek": 1050,
-    "timeMonth": 845,
-    "timeYear": 1124,
+    "status": "up",
+    "uptime": "97.74%",
+    "uptimeDay": "99.72%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.20%",
+    "time": 1123,
+    "timeDay": 1629,
+    "timeWeek": 1051,
+    "timeMonth": 842,
+    "timeYear": 1123,
     "dailyMinutesDown": {
       "2025-06-17": 319,
       "2025-07-04": 360,
@@ -139,7 +139,7 @@
       "2026-02-25": 40,
       "2026-04-28": 60,
       "2026-04-29": 355,
-      "2026-06-05": 0
+      "2026-06-05": 4
     }
   },
   {
@@ -226,8 +226,8 @@
     "uptimeYear": "98.74%",
     "time": 540,
     "timeDay": 524,
-    "timeWeek": 474,
-    "timeMonth": 468,
+    "timeWeek": 465,
+    "timeMonth": 466,
     "timeYear": 540,
     "dailyMinutesDown": {
       "2025-07-04": 350,
