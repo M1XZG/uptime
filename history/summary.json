@@ -26,7 +26,7 @@
     "icon": "https://github.com/M1XZG/uptime/blob/8165bb3f9d996e7ab7df3d81f117104594aa16c4/assets/icons8-dashboard-100.png",
     "slug": "dashboard",
     "status": "up",
-    "uptime": "98.12%",
+    "uptime": "98.13%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
@@ -77,10 +77,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/fa.letmeshoot.it.ico",
     "slug": "flight-tracker-fa",
     "status": "up",
-    "uptime": "97.82%",
-    "uptimeDay": "99.70%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptime": "97.83%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.23%",
     "time": 2542,
     "timeDay": 1665,
@@ -102,8 +102,7 @@
       "2026-02-20": 19,
       "2026-02-25": 41,
       "2026-04-28": 60,
-      "2026-04-29": 355,
-      "2026-06-09": 4
+      "2026-04-29": 355
     }
   },
   {
@@ -113,10 +112,10 @@
     "slug": "flight-tracker-ft",
     "status": "up",
     "uptime": "97.80%",
-    "uptimeDay": "99.72%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.22%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.23%",
     "time": 1123,
     "timeDay": 1546,
     "timeWeek": 1097,
@@ -138,8 +137,7 @@
       "2026-02-20": 19,
       "2026-02-25": 40,
       "2026-04-28": 60,
-      "2026-04-29": 355,
-      "2026-06-09": 4
+      "2026-04-29": 355
     }
   },
   {
@@ -152,7 +150,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.57%",
+    "uptimeYear": "97.58%",
     "time": 629,
     "timeDay": 625,
     "timeWeek": 609,
@@ -170,14 +168,14 @@
     "url": "https://www.uk-experience.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.uk-experience.com.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.60%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 1549,
-    "timeDay": 1616,
+    "timeDay": 2021,
     "timeWeek": 1612,
     "timeMonth": 1498,
     "timeYear": 1549,
@@ -186,7 +184,8 @@
       "2025-08-26": 38,
       "2025-09-11": 43,
       "2025-09-23": 23,
-      "2025-10-06": 42
+      "2025-10-06": 42,
+      "2026-06-09": 0
     }
   },
   {
@@ -201,7 +200,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 1753,
-    "timeDay": 1725,
+    "timeDay": 1905,
     "timeWeek": 1455,
     "timeMonth": 1398,
     "timeYear": 1753,
@@ -220,9 +219,9 @@
     "slug": "pi4-2-http-vpn",
     "status": "up",
     "uptime": "98.77%",
-    "uptimeDay": "99.76%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "98.77%",
     "time": 540,
     "timeDay": 516,
@@ -281,8 +280,7 @@
       "2026-02-27": 17,
       "2026-03-03": 16,
       "2026-04-28": 59,
-      "2026-04-29": 354,
-      "2026-06-09": 3
+      "2026-04-29": 354
     }
   },
   {
