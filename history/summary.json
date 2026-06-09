@@ -168,16 +168,16 @@
     "url": "https://www.uk-experience.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.uk-experience.com.ico",
     "slug": "blog",
-    "status": "down",
+    "status": "up",
     "uptime": "99.60%",
-    "uptimeDay": "99.79%",
-    "uptimeWeek": "99.97%",
+    "uptimeDay": "99.75%",
+    "uptimeWeek": "99.96%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.93%",
     "time": 1549,
-    "timeDay": 1837,
-    "timeWeek": 1598,
-    "timeMonth": 1497,
+    "timeDay": 1766,
+    "timeWeek": 1594,
+    "timeMonth": 1498,
     "timeYear": 1549,
     "dailyMinutesDown": {
       "2025-06-21": 39,
@@ -185,7 +185,7 @@
       "2025-09-11": 43,
       "2025-09-23": 23,
       "2025-10-06": 42,
-      "2026-06-09": 3
+      "2026-06-09": 4
     }
   },
   {
