@@ -195,24 +195,24 @@
     "url": "https://www.reggiewalkswitney.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.reggiewalkswitney.co.uk.ico",
     "slug": "reggie-walks",
-    "status": "down",
+    "status": "up",
     "uptime": "99.69%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 1750,
-    "timeDay": 1146,
-    "timeWeek": 1615,
-    "timeMonth": 1534,
-    "timeYear": 1750,
+    "time": 1818,
+    "timeDay": 9296,
+    "timeWeek": 2833,
+    "timeMonth": 1942,
+    "timeYear": 1818,
     "dailyMinutesDown": {
       "2025-06-21": 39,
       "2025-07-05": 38,
       "2025-08-26": 38,
       "2025-09-11": 43,
       "2025-10-06": 42,
-      "2026-06-19": 0
+      "2026-06-19": 2
     }
   },
   {
