@@ -77,17 +77,17 @@
     "url": "https://fa.letmeshoot.it",
     "icon": "https://icons.duckduckgo.com/ip3/fa.letmeshoot.it.ico",
     "slug": "flight-tracker-fa",
-    "status": "down",
+    "status": "up",
     "uptime": "97.91%",
-    "uptimeDay": "99.75%",
-    "uptimeWeek": "98.18%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "98.16%",
     "uptimeMonth": "99.58%",
     "uptimeYear": "99.33%",
-    "time": 2462,
-    "timeDay": 1507,
-    "timeWeek": 1760,
-    "timeMonth": 1755,
-    "timeYear": 2462,
+    "time": 2458,
+    "timeDay": 1376,
+    "timeWeek": 1767,
+    "timeMonth": 1757,
+    "timeYear": 2458,
     "dailyMinutesDown": {
       "2025-07-04": 360,
       "2025-08-11": 15,
@@ -105,7 +105,7 @@
       "2026-04-29": 355,
       "2026-06-19": 130,
       "2026-06-18": 49,
-      "2026-06-22": 4
+      "2026-06-22": 6
     }
   },
   {
@@ -113,17 +113,17 @@
     "url": "https://ft.letmeshoot.it",
     "icon": "https://icons.duckduckgo.com/ip3/ft.letmeshoot.it.ico",
     "slug": "flight-tracker-ft",
-    "status": "down",
+    "status": "up",
     "uptime": "97.88%",
-    "uptimeDay": "99.78%",
-    "uptimeWeek": "98.19%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "98.17%",
     "uptimeMonth": "99.58%",
     "uptimeYear": "99.33%",
-    "time": 1169,
-    "timeDay": 1489,
-    "timeWeek": 1594,
-    "timeMonth": 1253,
-    "timeYear": 1169,
+    "time": 1168,
+    "timeDay": 1368,
+    "timeWeek": 1603,
+    "timeMonth": 1248,
+    "timeYear": 1168,
     "dailyMinutesDown": {
       "2025-07-04": 360,
       "2025-08-11": 15,
@@ -142,7 +142,7 @@
       "2026-04-29": 355,
       "2026-06-19": 131,
       "2026-06-18": 49,
-      "2026-06-22": 3
+      "2026-06-22": 5
     }
   },
   {
@@ -239,8 +239,8 @@
     "slug": "pi4-2-http-vpn",
     "status": "up",
     "uptime": "98.79%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "98.20%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.23%",
     "uptimeMonth": "99.59%",
     "uptimeYear": "98.79%",
     "time": 538,
@@ -302,8 +302,7 @@
       "2026-04-28": 59,
       "2026-04-29": 354,
       "2026-06-19": 131,
-      "2026-06-18": 48,
-      "2026-06-22": 3
+      "2026-06-18": 48
     }
   },
   {
