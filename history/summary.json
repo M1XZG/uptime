@@ -79,9 +79,9 @@
     "slug": "flight-tracker-fa",
     "status": "down",
     "uptime": "97.92%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "98.21%",
-    "uptimeMonth": "99.59%",
+    "uptimeDay": "99.75%",
+    "uptimeWeek": "98.18%",
+    "uptimeMonth": "99.58%",
     "uptimeYear": "99.34%",
     "time": 2457,
     "timeDay": 1769,
@@ -105,7 +105,7 @@
       "2026-04-29": 355,
       "2026-06-19": 130,
       "2026-06-18": 49,
-      "2026-06-23": 1
+      "2026-06-23": 4
     }
   },
   {
@@ -115,9 +115,9 @@
     "slug": "flight-tracker-ft",
     "status": "down",
     "uptime": "97.89%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "98.22%",
-    "uptimeMonth": "99.59%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "98.19%",
+    "uptimeMonth": "99.58%",
     "uptimeYear": "99.33%",
     "time": 1173,
     "timeDay": 1741,
@@ -142,7 +142,7 @@
       "2026-04-29": 355,
       "2026-06-19": 131,
       "2026-06-18": 49,
-      "2026-06-23": 1
+      "2026-06-23": 3
     }
   },
   {
@@ -237,16 +237,16 @@
     "url": "$PI42ADDR",
     "icon": "https://github.com/M1XZG/uptime/blob/30609b3290444207169b106574a77770dd4394a6/assets/icons8-raspberry-100.png",
     "slug": "pi4-2-http-vpn",
-    "status": "down",
+    "status": "up",
     "uptime": "98.80%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "98.22%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "98.20%",
     "uptimeMonth": "99.59%",
     "uptimeYear": "98.80%",
     "time": 538,
-    "timeDay": 508,
-    "timeWeek": 534,
-    "timeMonth": 495,
+    "timeDay": 504,
+    "timeWeek": 533,
+    "timeMonth": 496,
     "timeYear": 538,
     "dailyMinutesDown": {
       "2025-07-04": 350,
@@ -303,7 +303,7 @@
       "2026-04-29": 354,
       "2026-06-19": 131,
       "2026-06-18": 48,
-      "2026-06-23": 0
+      "2026-06-23": 3
     }
   },
   {
