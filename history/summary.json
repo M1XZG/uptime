@@ -77,17 +77,17 @@
     "url": "https://fa.letmeshoot.it",
     "icon": "https://icons.duckduckgo.com/ip3/fa.letmeshoot.it.ico",
     "slug": "flight-tracker-fa",
-    "status": "up",
+    "status": "down",
     "uptime": "97.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.22%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "98.21%",
     "uptimeMonth": "99.59%",
     "uptimeYear": "99.34%",
-    "time": 2444,
-    "timeDay": 1811,
-    "timeWeek": 1759,
+    "time": 2446,
+    "timeDay": 1810,
+    "timeWeek": 1758,
     "timeMonth": 1783,
-    "timeYear": 2444,
+    "timeYear": 2446,
     "dailyMinutesDown": {
       "2025-07-04": 360,
       "2025-08-11": 15,
@@ -104,7 +104,8 @@
       "2026-04-28": 60,
       "2026-04-29": 355,
       "2026-06-19": 130,
-      "2026-06-18": 49
+      "2026-06-18": 49,
+      "2026-06-25": 1
     }
   },
   {
@@ -112,17 +113,17 @@
     "url": "https://ft.letmeshoot.it",
     "icon": "https://icons.duckduckgo.com/ip3/ft.letmeshoot.it.ico",
     "slug": "flight-tracker-ft",
-    "status": "up",
-    "uptime": "97.91%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "97.92%",
+    "uptimeDay": "99.96%",
     "uptimeWeek": "98.22%",
     "uptimeMonth": "99.59%",
     "uptimeYear": "99.34%",
-    "time": 1168,
-    "timeDay": 733,
-    "timeWeek": 1442,
-    "timeMonth": 1261,
-    "timeYear": 1168,
+    "time": 1174,
+    "timeDay": 1696,
+    "timeWeek": 1439,
+    "timeMonth": 1292,
+    "timeYear": 1174,
     "dailyMinutesDown": {
       "2025-07-04": 360,
       "2025-08-11": 15,
@@ -140,7 +141,8 @@
       "2026-04-28": 60,
       "2026-04-29": 355,
       "2026-06-19": 131,
-      "2026-06-18": 49
+      "2026-06-18": 49,
+      "2026-06-25": 1
     }
   },
   {
@@ -153,7 +155,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.93%",
+    "uptimeYear": "97.94%",
     "time": 627,
     "timeDay": 628,
     "timeWeek": 621,
@@ -235,10 +237,10 @@
     "url": "$PI42ADDR",
     "icon": "https://github.com/M1XZG/uptime/blob/30609b3290444207169b106574a77770dd4394a6/assets/icons8-raspberry-100.png",
     "slug": "pi4-2-http-vpn",
-    "status": "up",
+    "status": "down",
     "uptime": "98.81%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.23%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "98.22%",
     "uptimeMonth": "99.59%",
     "uptimeYear": "98.81%",
     "time": 537,
@@ -300,7 +302,8 @@
       "2026-04-28": 59,
       "2026-04-29": 354,
       "2026-06-19": 131,
-      "2026-06-18": 48
+      "2026-06-18": 48,
+      "2026-06-25": 0
     }
   },
   {
