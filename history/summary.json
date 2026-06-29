@@ -77,17 +77,17 @@
     "url": "https://fa.letmeshoot.it",
     "icon": "https://icons.duckduckgo.com/ip3/fa.letmeshoot.it.ico",
     "slug": "flight-tracker-fa",
-    "status": "down",
+    "status": "up",
     "uptime": "97.98%",
-    "uptimeDay": "99.75%",
-    "uptimeWeek": "99.96%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
     "uptimeMonth": "99.58%",
     "uptimeYear": "99.36%",
-    "time": 2428,
-    "timeDay": 2155,
+    "time": 2424,
+    "timeDay": 1716,
     "timeWeek": 1662,
-    "timeMonth": 1710,
-    "timeYear": 2428,
+    "timeMonth": 1713,
+    "timeYear": 2424,
     "dailyMinutesDown": {
       "2025-07-04": 360,
       "2025-08-11": 15,
@@ -105,7 +105,7 @@
       "2026-04-29": 355,
       "2026-06-19": 130,
       "2026-06-18": 49,
-      "2026-06-29": 4
+      "2026-06-29": 6
     }
   },
   {
@@ -113,17 +113,17 @@
     "url": "https://ft.letmeshoot.it",
     "icon": "https://icons.duckduckgo.com/ip3/ft.letmeshoot.it.ico",
     "slug": "flight-tracker-ft",
-    "status": "down",
+    "status": "up",
     "uptime": "97.96%",
-    "uptimeDay": "99.78%",
-    "uptimeWeek": "99.97%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
     "uptimeMonth": "99.58%",
     "uptimeYear": "99.35%",
-    "time": 1180,
-    "timeDay": 2202,
-    "timeWeek": 1443,
-    "timeMonth": 1397,
-    "timeYear": 1180,
+    "time": 1179,
+    "timeDay": 1725,
+    "timeWeek": 1436,
+    "timeMonth": 1398,
+    "timeYear": 1179,
     "dailyMinutesDown": {
       "2025-07-04": 360,
       "2025-08-11": 15,
@@ -142,7 +142,7 @@
       "2026-04-29": 355,
       "2026-06-19": 131,
       "2026-06-18": 49,
-      "2026-06-29": 3
+      "2026-06-29": 5
     }
   },
   {
@@ -239,14 +239,14 @@
     "slug": "pi4-2-http-vpn",
     "status": "up",
     "uptime": "98.83%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.59%",
     "uptimeYear": "98.83%",
     "time": 535,
     "timeDay": 522,
     "timeWeek": 467,
-    "timeMonth": 493,
+    "timeMonth": 492,
     "timeYear": 535,
     "dailyMinutesDown": {
       "2025-07-04": 350,
@@ -302,8 +302,7 @@
       "2026-04-28": 59,
       "2026-04-29": 354,
       "2026-06-19": 131,
-      "2026-06-18": 48,
-      "2026-06-29": 3
+      "2026-06-18": 48
     }
   },
   {
