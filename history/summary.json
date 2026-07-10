@@ -78,14 +78,14 @@
     "slug": "flight-tracker-fa",
     "status": "up",
     "uptime": "98.09%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.58%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.59%",
     "uptimeYear": "99.51%",
     "time": 2373,
-    "timeDay": 1515,
+    "timeDay": 1744,
     "timeWeek": 1542,
-    "timeMonth": 1664,
+    "timeMonth": 1675,
     "timeYear": 2373,
     "dailyMinutesDown": {
       "2025-08-11": 15,
@@ -102,8 +102,7 @@
       "2026-04-28": 60,
       "2026-04-29": 355,
       "2026-06-19": 130,
-      "2026-06-18": 49,
-      "2026-07-10": 3
+      "2026-06-18": 49
     }
   },
   {
@@ -113,14 +112,14 @@
     "slug": "flight-tracker-ft",
     "status": "up",
     "uptime": "98.07%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.59%",
     "uptimeYear": "99.51%",
     "time": 1187,
-    "timeDay": 1457,
+    "timeDay": 1687,
     "timeWeek": 1163,
-    "timeMonth": 1441,
+    "timeMonth": 1450,
     "timeYear": 1187,
     "dailyMinutesDown": {
       "2025-08-11": 15,
@@ -138,8 +137,7 @@
       "2026-04-28": 60,
       "2026-04-29": 355,
       "2026-06-19": 131,
-      "2026-06-18": 49,
-      "2026-07-10": 2
+      "2026-06-18": 49
     }
   },
   {
@@ -233,16 +231,16 @@
     "url": "$PI42ADDR",
     "icon": "https://github.com/M1XZG/uptime/blob/30609b3290444207169b106574a77770dd4394a6/assets/icons8-raspberry-100.png",
     "slug": "pi4-2-http-vpn",
-    "status": "down",
-    "uptime": "98.90%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.59%",
+    "status": "up",
+    "uptime": "98.89%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.58%",
     "uptimeYear": "99.01%",
     "time": 533,
-    "timeDay": 789,
-    "timeWeek": 517,
-    "timeMonth": 492,
+    "timeDay": 516,
+    "timeWeek": 516,
+    "timeMonth": 493,
     "timeYear": 533,
     "dailyMinutesDown": {
       "2025-08-03": 29,
@@ -298,7 +296,7 @@
       "2026-04-29": 354,
       "2026-06-19": 131,
       "2026-06-18": 48,
-      "2026-07-10": 3
+      "2026-07-10": 5
     }
   },
   {
