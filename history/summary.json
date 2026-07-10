@@ -76,17 +76,17 @@
     "url": "https://fa.letmeshoot.it",
     "icon": "https://icons.duckduckgo.com/ip3/fa.letmeshoot.it.ico",
     "slug": "flight-tracker-fa",
-    "status": "down",
+    "status": "up",
     "uptime": "98.09%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.59%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.58%",
     "uptimeYear": "99.51%",
-    "time": 2377,
-    "timeDay": 1715,
-    "timeWeek": 1536,
-    "timeMonth": 1673,
-    "timeYear": 2377,
+    "time": 2373,
+    "timeDay": 1515,
+    "timeWeek": 1542,
+    "timeMonth": 1664,
+    "timeYear": 2373,
     "dailyMinutesDown": {
       "2025-08-11": 15,
       "2025-08-18": 27,
@@ -103,7 +103,7 @@
       "2026-04-29": 355,
       "2026-06-19": 130,
       "2026-06-18": 49,
-      "2026-07-10": 1
+      "2026-07-10": 3
     }
   },
   {
@@ -111,17 +111,17 @@
     "url": "https://ft.letmeshoot.it",
     "icon": "https://icons.duckduckgo.com/ip3/ft.letmeshoot.it.ico",
     "slug": "flight-tracker-ft",
-    "status": "down",
+    "status": "up",
     "uptime": "98.07%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.59%",
     "uptimeYear": "99.51%",
-    "time": 1188,
-    "timeDay": 1669,
-    "timeWeek": 1156,
-    "timeMonth": 1449,
-    "timeYear": 1188,
+    "time": 1187,
+    "timeDay": 1457,
+    "timeWeek": 1163,
+    "timeMonth": 1441,
+    "timeYear": 1187,
     "dailyMinutesDown": {
       "2025-08-11": 15,
       "2025-08-18": 27,
@@ -139,7 +139,7 @@
       "2026-04-29": 355,
       "2026-06-19": 131,
       "2026-06-18": 49,
-      "2026-07-10": 1
+      "2026-07-10": 2
     }
   },
   {
@@ -148,7 +148,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/lore.wildwanderer-vr.com.ico",
     "slug": "wildys-lore",
     "status": "up",
-    "uptime": "98.14%",
+    "uptime": "98.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -235,8 +235,8 @@
     "slug": "pi4-2-http-vpn",
     "status": "down",
     "uptime": "98.90%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.97%",
     "uptimeMonth": "99.59%",
     "uptimeYear": "99.01%",
     "time": 533,
@@ -298,7 +298,7 @@
       "2026-04-29": 354,
       "2026-06-19": 131,
       "2026-06-18": 48,
-      "2026-07-10": 0
+      "2026-07-10": 3
     }
   },
   {
