@@ -328,11 +328,11 @@
     "icon": "https://github.com/M1XZG/uptime/blob/30609b3290444207169b106574a77770dd4394a6/assets/icons8-fritzbox-100.png",
     "slug": "fritzbox-via-vpn",
     "status": "down",
-    "uptime": "99.89%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.60%",
-    "uptimeYear": "99.89%",
+    "uptime": "99.88%",
+    "uptimeDay": "98.10%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.53%",
+    "uptimeYear": "99.88%",
     "time": 639,
     "timeDay": 987,
     "timeWeek": 581,
@@ -343,7 +343,7 @@
       "2026-05-15": 20,
       "2026-06-19": 131,
       "2026-06-18": 46,
-      "2026-07-12": 0
+      "2026-07-12": 27
     }
   },
   {
