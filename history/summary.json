@@ -76,17 +76,17 @@
     "url": "https://fa.letmeshoot.it",
     "icon": "https://icons.duckduckgo.com/ip3/fa.letmeshoot.it.ico",
     "slug": "flight-tracker-fa",
-    "status": "up",
+    "status": "down",
     "uptime": "98.14%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.59%",
     "uptimeYear": "99.53%",
-    "time": 2343,
-    "timeDay": 1784,
-    "timeWeek": 1555,
-    "timeMonth": 1650,
-    "timeYear": 2343,
+    "time": 2346,
+    "timeDay": 1742,
+    "timeWeek": 1554,
+    "timeMonth": 1649,
+    "timeYear": 2346,
     "dailyMinutesDown": {
       "2025-08-11": 15,
       "2025-08-18": 27,
@@ -102,7 +102,8 @@
       "2026-04-28": 60,
       "2026-04-29": 355,
       "2026-06-19": 130,
-      "2026-06-18": 49
+      "2026-06-18": 49,
+      "2026-07-16": 1
     }
   },
   {
@@ -110,17 +111,17 @@
     "url": "https://ft.letmeshoot.it",
     "icon": "https://icons.duckduckgo.com/ip3/ft.letmeshoot.it.ico",
     "slug": "flight-tracker-ft",
-    "status": "up",
+    "status": "down",
     "uptime": "98.12%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.59%",
     "uptimeYear": "99.52%",
-    "time": 1186,
-    "timeDay": 1230,
-    "timeWeek": 1342,
-    "timeMonth": 1401,
-    "timeYear": 1186,
+    "time": 1189,
+    "timeDay": 1473,
+    "timeWeek": 1306,
+    "timeMonth": 1392,
+    "timeYear": 1189,
     "dailyMinutesDown": {
       "2025-08-11": 15,
       "2025-08-18": 27,
@@ -137,7 +138,8 @@
       "2026-04-28": 60,
       "2026-04-29": 355,
       "2026-06-19": 131,
-      "2026-06-18": 49
+      "2026-06-18": 49,
+      "2026-07-16": 1
     }
   },
   {
@@ -177,7 +179,7 @@
     "time": 1428,
     "timeDay": 225,
     "timeWeek": 203,
-    "timeMonth": 207,
+    "timeMonth": 193,
     "timeYear": 1428,
     "dailyMinutesDown": {
       "2025-08-26": 38,
@@ -200,7 +202,7 @@
     "time": 1670,
     "timeDay": 552,
     "timeWeek": 536,
-    "timeMonth": 1104,
+    "timeMonth": 1092,
     "timeYear": 1670,
     "dailyMinutesDown": {
       "2025-08-26": 38,
@@ -231,9 +233,9 @@
     "url": "$PI42ADDR",
     "icon": "https://github.com/M1XZG/uptime/blob/30609b3290444207169b106574a77770dd4394a6/assets/icons8-raspberry-100.png",
     "slug": "pi4-2-http-vpn",
-    "status": "up",
+    "status": "down",
     "uptime": "98.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.59%",
     "uptimeYear": "99.04%",
@@ -295,7 +297,8 @@
       "2026-04-28": 59,
       "2026-04-29": 354,
       "2026-06-19": 131,
-      "2026-06-18": 48
+      "2026-06-18": 48,
+      "2026-07-16": 0
     }
   },
   {
@@ -328,11 +331,11 @@
     "icon": "https://github.com/M1XZG/uptime/blob/30609b3290444207169b106574a77770dd4394a6/assets/icons8-fritzbox-100.png",
     "slug": "fritzbox-via-vpn",
     "status": "up",
-    "uptime": "91.24%",
+    "uptime": "91.85%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.85%",
-    "uptimeMonth": "94.38%",
-    "uptimeYear": "91.24%",
+    "uptimeWeek": "98.00%",
+    "uptimeMonth": "94.77%",
+    "uptimeYear": "91.85%",
     "time": 638,
     "timeDay": 529,
     "timeWeek": 603,
