@@ -83,8 +83,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.57%",
     "time": 2251,
-    "timeDay": 601,
-    "timeWeek": 1032,
+    "timeDay": 580,
+    "timeWeek": 1048,
     "timeMonth": 1495,
     "timeYear": 2251,
     "dailyMinutesDown": {
@@ -110,17 +110,17 @@
     "url": "https://ft.letmeshoot.it",
     "icon": "https://icons.duckduckgo.com/ip3/ft.letmeshoot.it.ico",
     "slug": "flight-tracker-ft",
-    "status": "down",
+    "status": "up",
     "uptime": "98.29%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.57%",
-    "time": 1220,
-    "timeDay": 1183,
-    "timeWeek": 1423,
-    "timeMonth": 1410,
-    "timeYear": 1220,
+    "uptimeDay": "99.68%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.56%",
+    "time": 1219,
+    "timeDay": 1158,
+    "timeWeek": 1412,
+    "timeMonth": 1399,
+    "timeYear": 1219,
     "dailyMinutesDown": {
       "2025-08-11": 15,
       "2025-08-18": 27,
@@ -138,7 +138,7 @@
       "2026-04-29": 355,
       "2026-06-19": 131,
       "2026-06-18": 49,
-      "2026-08-06": 1
+      "2026-08-06": 5
     }
   },
   {
@@ -240,7 +240,7 @@
     "uptimeYear": "99.14%",
     "time": 526,
     "timeDay": 463,
-    "timeWeek": 478,
+    "timeWeek": 473,
     "timeMonth": 482,
     "timeYear": 526,
     "dailyMinutesDown": {
