@@ -84,8 +84,8 @@
     "uptimeYear": "99.57%",
     "time": 2247,
     "timeDay": 524,
-    "timeWeek": 962,
-    "timeMonth": 1466,
+    "timeWeek": 973,
+    "timeMonth": 1473,
     "timeYear": 2247,
     "dailyMinutesDown": {
       "2025-08-11": 15,
@@ -110,17 +110,17 @@
     "url": "https://ft.letmeshoot.it",
     "icon": "https://icons.duckduckgo.com/ip3/ft.letmeshoot.it.ico",
     "slug": "flight-tracker-ft",
-    "status": "down",
+    "status": "up",
     "uptime": "98.30%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.57%",
-    "time": 1222,
-    "timeDay": 1491,
-    "timeWeek": 1400,
-    "timeMonth": 1427,
-    "timeYear": 1222,
+    "time": 1220,
+    "timeDay": 1494,
+    "timeWeek": 1394,
+    "timeMonth": 1425,
+    "timeYear": 1220,
     "dailyMinutesDown": {
       "2025-08-11": 15,
       "2025-08-18": 27,
@@ -138,7 +138,7 @@
       "2026-04-29": 355,
       "2026-06-19": 131,
       "2026-06-18": 49,
-      "2026-08-07": 1
+      "2026-08-07": 5
     }
   },
   {
@@ -232,16 +232,16 @@
     "url": "$PI42ADDR",
     "icon": "https://github.com/M1XZG/uptime/blob/30609b3290444207169b106574a77770dd4394a6/assets/icons8-raspberry-100.png",
     "slug": "pi4-2-http-vpn",
-    "status": "down",
+    "status": "up",
     "uptime": "99.03%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.69%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.14%",
     "time": 526,
-    "timeDay": 407,
-    "timeWeek": 463,
-    "timeMonth": 481,
+    "timeDay": 466,
+    "timeWeek": 464,
+    "timeMonth": 482,
     "timeYear": 526,
     "dailyMinutesDown": {
       "2025-08-12": 27,
@@ -296,7 +296,7 @@
       "2026-04-29": 354,
       "2026-06-19": 131,
       "2026-06-18": 48,
-      "2026-08-07": 0
+      "2026-08-07": 4
     }
   },
   {
