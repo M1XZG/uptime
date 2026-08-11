@@ -299,11 +299,11 @@
     "url": "$EDGEROUTERADDR",
     "icon": "https://github.com/M1XZG/uptime/blob/30609b3290444207169b106574a77770dd4394a6/assets/icons8-asus-100.png",
     "slug": "edge-router-via-vpn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.90%",
     "time": 257,
     "timeDay": 255,
@@ -315,7 +315,8 @@
       "2026-04-28": 85,
       "2026-05-15": 21,
       "2026-06-19": 131,
-      "2026-06-18": 48
+      "2026-06-18": 48,
+      "2026-08-11": 6
     }
   },
   {
@@ -323,12 +324,12 @@
     "url": "$FRITZADDR",
     "icon": "https://github.com/M1XZG/uptime/blob/30609b3290444207169b106574a77770dd4394a6/assets/icons8-fritzbox-100.png",
     "slug": "fritzbox-via-vpn",
-    "status": "up",
-    "uptime": "98.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.74%",
-    "uptimeYear": "98.95%",
+    "status": "down",
+    "uptime": "98.94%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "98.94%",
     "time": 635,
     "timeDay": 509,
     "timeWeek": 569,
@@ -339,7 +340,8 @@
       "2026-05-15": 20,
       "2026-06-19": 131,
       "2026-06-18": 46,
-      "2026-07-12": 109
+      "2026-07-12": 109,
+      "2026-08-11": 6
     }
   },
   {
@@ -347,11 +349,11 @@
     "url": "$DOCKTOPUSADDR",
     "icon": "https://github.com/M1XZG/uptime/blob/30609b3290444207169b106574a77770dd4394a6/assets/icons8-ubuntu-100.png",
     "slug": "docktopus-via-vpn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.90%",
     "time": 103,
     "timeDay": 84,
@@ -362,7 +364,8 @@
       "2026-04-28": 139,
       "2026-05-15": 17,
       "2026-06-19": 131,
-      "2026-06-18": 43
+      "2026-06-18": 43,
+      "2026-08-11": 3
     }
   },
   {
@@ -370,10 +373,10 @@
     "url": "$HELIOSADDR",
     "icon": "https://github.com/M1XZG/uptime/blob/30609b3290444207169b106574a77770dd4394a6/assets/icons8-windows-100.png",
     "slug": "helios-streaming-pc-via-vpn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 90,
@@ -385,7 +388,8 @@
       "2026-01-17": 16,
       "2026-04-28": 84,
       "2026-06-19": 130,
-      "2026-06-18": 40
+      "2026-06-18": 40,
+      "2026-08-11": 1
     }
   },
   {
