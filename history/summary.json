@@ -12,7 +12,7 @@
     "uptimeYear": "99.97%",
     "time": 579,
     "timeDay": 75,
-    "timeWeek": 214,
+    "timeWeek": 213,
     "timeMonth": 538,
     "timeYear": 579,
     "dailyMinutesDown": {
@@ -33,7 +33,7 @@
     "uptimeYear": "99.83%",
     "time": 693,
     "timeDay": 199,
-    "timeWeek": 397,
+    "timeWeek": 394,
     "timeMonth": 553,
     "timeYear": 693,
     "dailyMinutesDown": {
@@ -63,7 +63,7 @@
     "uptimeYear": "99.99%",
     "time": 458,
     "timeDay": 114,
-    "timeWeek": 378,
+    "timeWeek": 373,
     "timeMonth": 415,
     "timeYear": 458,
     "dailyMinutesDown": {
@@ -75,17 +75,17 @@
     "url": "https://fa.letmeshoot.it",
     "icon": "https://icons.duckduckgo.com/ip3/fa.letmeshoot.it.ico",
     "slug": "flight-tracker-fa",
-    "status": "up",
+    "status": "down",
     "uptime": "98.37%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.59%",
-    "time": 2219,
-    "timeDay": 290,
-    "timeWeek": 508,
-    "timeMonth": 1355,
-    "timeYear": 2219,
+    "time": 2217,
+    "timeDay": 623,
+    "timeWeek": 593,
+    "timeMonth": 1321,
+    "timeYear": 2217,
     "dailyMinutesDown": {
       "2025-08-18": 27,
       "2025-09-03": 24,
@@ -100,7 +100,8 @@
       "2026-04-28": 60,
       "2026-04-29": 355,
       "2026-06-19": 130,
-      "2026-06-18": 49
+      "2026-06-18": 49,
+      "2026-08-14": 1
     }
   },
   {
@@ -108,17 +109,17 @@
     "url": "https://ft.letmeshoot.it",
     "icon": "https://icons.duckduckgo.com/ip3/ft.letmeshoot.it.ico",
     "slug": "flight-tracker-ft",
-    "status": "up",
+    "status": "down",
     "uptime": "98.35%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.58%",
-    "time": 1207,
-    "timeDay": 460,
-    "timeWeek": 753,
-    "timeMonth": 1337,
-    "timeYear": 1207,
+    "time": 1211,
+    "timeDay": 1052,
+    "timeWeek": 755,
+    "timeMonth": 1357,
+    "timeYear": 1211,
     "dailyMinutesDown": {
       "2025-08-18": 27,
       "2025-09-03": 24,
@@ -134,7 +135,8 @@
       "2026-04-28": 60,
       "2026-04-29": 355,
       "2026-06-19": 131,
-      "2026-06-18": 49
+      "2026-06-18": 49,
+      "2026-08-14": 1
     }
   },
   {
@@ -150,7 +152,7 @@
     "uptimeYear": "98.60%",
     "time": 584,
     "timeDay": 147,
-    "timeWeek": 172,
+    "timeWeek": 177,
     "timeMonth": 453,
     "timeYear": 584,
     "dailyMinutesDown": {
@@ -173,7 +175,7 @@
     "uptimeYear": "99.96%",
     "time": 1308,
     "timeDay": 455,
-    "timeWeek": 240,
+    "timeWeek": 254,
     "timeMonth": 224,
     "timeYear": 1308,
     "dailyMinutesDown": {
@@ -196,7 +198,7 @@
     "uptimeYear": "99.96%",
     "time": 1566,
     "timeDay": 782,
-    "timeWeek": 866,
+    "timeWeek": 806,
     "timeMonth": 650,
     "timeYear": 1566,
     "dailyMinutesDown": {
@@ -218,7 +220,7 @@
     "uptimeYear": "100.00%",
     "time": 589,
     "timeDay": 117,
-    "timeWeek": 329,
+    "timeWeek": 317,
     "timeMonth": 535,
     "timeYear": 589,
     "dailyMinutesDown": {}
@@ -236,7 +238,7 @@
     "uptimeYear": "99.17%",
     "time": 524,
     "timeDay": 417,
-    "timeWeek": 468,
+    "timeWeek": 475,
     "timeMonth": 482,
     "timeYear": 524,
     "dailyMinutesDown": {
@@ -306,7 +308,7 @@
     "uptimeYear": "99.90%",
     "time": 255,
     "timeDay": 175,
-    "timeWeek": 231,
+    "timeWeek": 238,
     "timeMonth": 229,
     "timeYear": 255,
     "dailyMinutesDown": {
@@ -323,14 +325,14 @@
     "icon": "https://github.com/M1XZG/uptime/blob/30609b3290444207169b106574a77770dd4394a6/assets/icons8-fritzbox-100.png",
     "slug": "fritzbox-via-vpn",
     "status": "up",
-    "uptime": "99.05%",
+    "uptime": "99.06%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.05%",
+    "uptimeYear": "99.06%",
     "time": 633,
     "timeDay": 509,
-    "timeWeek": 555,
+    "timeWeek": 507,
     "timeMonth": 590,
     "timeYear": 633,
     "dailyMinutesDown": {
