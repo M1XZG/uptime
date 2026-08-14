@@ -299,11 +299,11 @@
     "icon": "https://github.com/M1XZG/uptime/blob/30609b3290444207169b106574a77770dd4394a6/assets/icons8-asus-100.png",
     "slug": "edge-router-via-vpn",
     "status": "down",
-    "uptime": "99.90%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.90%",
+    "uptime": "99.89%",
+    "uptimeDay": "97.75%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.89%",
     "time": 255,
     "timeDay": 176,
     "timeWeek": 238,
@@ -315,7 +315,7 @@
       "2026-05-15": 21,
       "2026-06-19": 131,
       "2026-06-18": 48,
-      "2026-08-14": 11
+      "2026-08-14": 32
     }
   },
   {
@@ -324,11 +324,11 @@
     "icon": "https://github.com/M1XZG/uptime/blob/30609b3290444207169b106574a77770dd4394a6/assets/icons8-fritzbox-100.png",
     "slug": "fritzbox-via-vpn",
     "status": "down",
-    "uptime": "99.05%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.05%",
+    "uptime": "99.00%",
+    "uptimeDay": "97.77%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.00%",
     "time": 633,
     "timeDay": 528,
     "timeWeek": 507,
@@ -340,7 +340,7 @@
       "2026-06-19": 131,
       "2026-06-18": 46,
       "2026-07-12": 109,
-      "2026-08-14": 11
+      "2026-08-14": 32
     }
   },
   {
@@ -348,11 +348,11 @@
     "url": "$DOCKTOPUSADDR",
     "icon": "https://github.com/M1XZG/uptime/blob/30609b3290444207169b106574a77770dd4394a6/assets/icons8-ubuntu-100.png",
     "slug": "docktopus-via-vpn",
-    "status": "down",
+    "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "98.46%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.90%",
     "time": 102,
     "timeDay": 84,
@@ -364,7 +364,7 @@
       "2026-05-15": 17,
       "2026-06-19": 131,
       "2026-06-18": 43,
-      "2026-08-14": 8
+      "2026-08-14": 22
     }
   },
   {
@@ -373,11 +373,11 @@
     "icon": "https://github.com/M1XZG/uptime/blob/30609b3290444207169b106574a77770dd4394a6/assets/icons8-windows-100.png",
     "slug": "helios-streaming-pc-via-vpn",
     "status": "down",
-    "uptime": "99.92%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.92%",
+    "uptime": "99.91%",
+    "uptimeDay": "98.13%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.91%",
     "time": 90,
     "timeDay": 83,
     "timeWeek": 83,
@@ -388,7 +388,7 @@
       "2026-04-28": 84,
       "2026-06-19": 130,
       "2026-06-18": 40,
-      "2026-08-14": 6
+      "2026-08-14": 27
     }
   },
   {
@@ -397,11 +397,11 @@
     "icon": "https://github.com/M1XZG/uptime/blob/20bc6239b2b5a3ca5a9fc7fc5a909f8a791e5580/assets/icons8-nas-100.png",
     "slug": "nas-via-vpn",
     "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.93%",
+    "uptime": "99.92%",
+    "uptimeDay": "98.15%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.92%",
     "time": 287,
     "timeDay": 335,
     "timeWeek": 335,
@@ -411,7 +411,7 @@
       "2026-04-28": 84,
       "2026-06-19": 130,
       "2026-06-18": 40,
-      "2026-08-14": 6
+      "2026-08-14": 27
     }
   },
   {
@@ -419,22 +419,22 @@
     "url": "$TINKERBELLADDR",
     "icon": "https://github.com/M1XZG/uptime/blob/30609b3290444207169b106574a77770dd4394a6/assets/icons8-raspberry-100.png",
     "slug": "tinkerbell-via-vpn",
-    "status": "down",
+    "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "99.79%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "98.36%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.91%",
-    "time": 88,
-    "timeDay": 84,
-    "timeWeek": 84,
-    "timeMonth": 84,
-    "timeYear": 88,
+    "time": 89,
+    "timeDay": 226,
+    "timeWeek": 115,
+    "timeMonth": 92,
+    "timeYear": 89,
     "dailyMinutesDown": {
       "2026-04-28": 137,
       "2026-06-19": 130,
       "2026-06-18": 39,
-      "2026-08-14": 3
+      "2026-08-14": 24
     }
   },
   {
@@ -442,14 +442,14 @@
     "url": "$INFRA01ADDR",
     "icon": "https://github.com/M1XZG/uptime/blob/30609b3290444207169b106574a77770dd4394a6/assets/icons8-ubuntu-100.png",
     "slug": "infra01-via-vpn",
-    "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.93%",
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "98.53%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.92%",
     "time": 85,
-    "timeDay": 96,
+    "timeDay": 90,
     "timeWeek": 86,
     "timeMonth": 89,
     "timeYear": 85,
@@ -457,7 +457,7 @@
       "2026-04-28": 79,
       "2026-06-19": 130,
       "2026-06-18": 36,
-      "2026-08-14": 1
+      "2026-08-14": 21
     }
   }
 ]
