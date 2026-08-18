@@ -74,17 +74,17 @@
     "url": "https://fa.letmeshoot.it",
     "icon": "https://icons.duckduckgo.com/ip3/fa.letmeshoot.it.ico",
     "slug": "flight-tracker-fa",
-    "status": "up",
+    "status": "down",
     "uptime": "98.39%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.59%",
-    "time": 2192,
-    "timeDay": 606,
-    "timeWeek": 495,
-    "timeMonth": 1167,
-    "timeYear": 2192,
+    "time": 2190,
+    "timeDay": 431,
+    "timeWeek": 515,
+    "timeMonth": 1161,
+    "timeYear": 2190,
     "dailyMinutesDown": {
       "2025-09-03": 24,
       "2025-09-27": 28,
@@ -98,7 +98,8 @@
       "2026-04-28": 60,
       "2026-04-29": 355,
       "2026-06-19": 130,
-      "2026-06-18": 49
+      "2026-06-18": 49,
+      "2026-08-18": 1
     }
   },
   {
@@ -106,17 +107,17 @@
     "url": "https://ft.letmeshoot.it",
     "icon": "https://icons.duckduckgo.com/ip3/ft.letmeshoot.it.ico",
     "slug": "flight-tracker-ft",
-    "status": "up",
+    "status": "down",
     "uptime": "98.37%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.59%",
-    "time": 1203,
-    "timeDay": 1199,
-    "timeWeek": 770,
-    "timeMonth": 1301,
-    "timeYear": 1203,
+    "time": 1207,
+    "timeDay": 1189,
+    "timeWeek": 928,
+    "timeMonth": 1327,
+    "timeYear": 1207,
     "dailyMinutesDown": {
       "2025-09-03": 24,
       "2025-09-27": 28,
@@ -131,7 +132,8 @@
       "2026-04-28": 60,
       "2026-04-29": 355,
       "2026-06-19": 131,
-      "2026-06-18": 49
+      "2026-06-18": 49,
+      "2026-08-18": 1
     }
   },
   {
@@ -225,9 +227,9 @@
     "url": "$PI42ADDR",
     "icon": "https://github.com/M1XZG/uptime/blob/30609b3290444207169b106574a77770dd4394a6/assets/icons8-raspberry-100.png",
     "slug": "pi4-2-http-vpn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.07%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.19%",
@@ -286,7 +288,8 @@
       "2026-04-28": 59,
       "2026-04-29": 354,
       "2026-06-19": 131,
-      "2026-06-18": 48
+      "2026-06-18": 48,
+      "2026-08-18": 0
     }
   },
   {
@@ -302,7 +305,7 @@
     "uptimeYear": "99.89%",
     "time": 254,
     "timeDay": 170,
-    "timeWeek": 180,
+    "timeWeek": 181,
     "timeMonth": 220,
     "timeYear": 254,
     "dailyMinutesDown": {
@@ -320,14 +323,14 @@
     "icon": "https://github.com/M1XZG/uptime/blob/30609b3290444207169b106574a77770dd4394a6/assets/icons8-fritzbox-100.png",
     "slug": "fritzbox-via-vpn",
     "status": "up",
-    "uptime": "99.09%",
+    "uptime": "99.10%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.68%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "99.09%",
+    "uptimeYear": "99.10%",
     "time": 631,
     "timeDay": 517,
-    "timeWeek": 502,
+    "timeWeek": 503,
     "timeMonth": 587,
     "timeYear": 631,
     "dailyMinutesDown": {
