@@ -295,16 +295,16 @@
     "url": "$EDGEROUTERADDR",
     "icon": "https://github.com/M1XZG/uptime/blob/30609b3290444207169b106574a77770dd4394a6/assets/icons8-asus-100.png",
     "slug": "edge-router-via-vpn",
-    "status": "down",
+    "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.89%",
     "time": 254,
-    "timeDay": 254,
-    "timeWeek": 195,
-    "timeMonth": 219,
+    "timeDay": 253,
+    "timeWeek": 202,
+    "timeMonth": 220,
     "timeYear": 254,
     "dailyMinutesDown": {
       "2025-12-15": 59,
@@ -313,7 +313,7 @@
       "2026-06-19": 131,
       "2026-06-18": 48,
       "2026-08-14": 33,
-      "2026-08-21": 1
+      "2026-08-21": 5
     }
   },
   {
