@@ -26,7 +26,7 @@
     "icon": "https://github.com/M1XZG/uptime/blob/8165bb3f9d996e7ab7df3d81f117104594aa16c4/assets/icons8-dashboard-100.png",
     "slug": "dashboard",
     "status": "up",
-    "uptime": "98.60%",
+    "uptime": "98.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.66%",
     "uptimeMonth": "99.69%",
@@ -77,9 +77,9 @@
     "slug": "flight-tracker-fa",
     "status": "up",
     "uptime": "98.43%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.61%",
     "time": 2148,
     "timeDay": 712,
@@ -99,8 +99,7 @@
       "2026-04-28": 60,
       "2026-04-29": 355,
       "2026-06-19": 130,
-      "2026-06-18": 49,
-      "2026-08-24": 5
+      "2026-06-18": 49
     }
   },
   {
@@ -109,10 +108,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/ft.letmeshoot.it.ico",
     "slug": "flight-tracker-ft",
     "status": "up",
-    "uptime": "98.41%",
-    "uptimeDay": "99.70%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptime": "98.42%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.61%",
     "time": 1200,
     "timeDay": 1247,
@@ -133,8 +132,7 @@
       "2026-04-28": 60,
       "2026-04-29": 355,
       "2026-06-19": 131,
-      "2026-06-18": 49,
-      "2026-08-24": 4
+      "2026-06-18": 49
     }
   },
   {
@@ -147,7 +145,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.68%",
+    "uptimeYear": "98.69%",
     "time": 561,
     "timeDay": 187,
     "timeWeek": 185,
@@ -229,10 +227,10 @@
     "icon": "https://github.com/M1XZG/uptime/blob/30609b3290444207169b106574a77770dd4394a6/assets/icons8-raspberry-100.png",
     "slug": "pi4-2-http-vpn",
     "status": "up",
-    "uptime": "99.09%",
-    "uptimeDay": "99.72%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptime": "99.10%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.22%",
     "time": 523,
     "timeDay": 542,
@@ -288,8 +286,7 @@
       "2026-04-28": 59,
       "2026-04-29": 354,
       "2026-06-19": 131,
-      "2026-06-18": 48,
-      "2026-08-24": 4
+      "2026-06-18": 48
     }
   },
   {
@@ -297,10 +294,10 @@
     "url": "$EDGEROUTERADDR",
     "icon": "https://github.com/M1XZG/uptime/blob/30609b3290444207169b106574a77770dd4394a6/assets/icons8-asus-100.png",
     "slug": "edge-router-via-vpn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.90%",
     "time": 253,
@@ -314,7 +311,8 @@
       "2026-05-15": 21,
       "2026-06-19": 131,
       "2026-06-18": 48,
-      "2026-08-14": 33
+      "2026-08-14": 33,
+      "2026-08-24": 2
     }
   },
   {
@@ -322,12 +320,12 @@
     "url": "$FRITZADDR",
     "icon": "https://github.com/M1XZG/uptime/blob/30609b3290444207169b106574a77770dd4394a6/assets/icons8-fritzbox-100.png",
     "slug": "fritzbox-via-vpn",
-    "status": "up",
-    "uptime": "99.01%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.68%",
+    "status": "down",
+    "uptime": "99.02%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "98.66%",
     "uptimeMonth": "99.62%",
-    "uptimeYear": "99.01%",
+    "uptimeYear": "99.02%",
     "time": 630,
     "timeDay": 493,
     "timeWeek": 583,
@@ -340,7 +338,8 @@
       "2026-06-18": 46,
       "2026-07-12": 109,
       "2026-08-14": 33,
-      "2026-08-20": 134
+      "2026-08-20": 134,
+      "2026-08-24": 1
     }
   },
   {
