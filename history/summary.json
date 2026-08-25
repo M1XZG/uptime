@@ -293,17 +293,17 @@
     "url": "$EDGEROUTERADDR",
     "icon": "https://github.com/M1XZG/uptime/blob/30609b3290444207169b106574a77770dd4394a6/assets/icons8-asus-100.png",
     "slug": "edge-router-via-vpn",
-    "status": "down",
+    "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.94%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.90%",
-    "time": 253,
-    "timeDay": 173,
-    "timeWeek": 218,
-    "timeMonth": 221,
-    "timeYear": 253,
+    "time": 259,
+    "timeDay": 1153,
+    "timeWeek": 409,
+    "timeMonth": 270,
+    "timeYear": 259,
     "dailyMinutesDown": {
       "2025-12-15": 59,
       "2026-04-28": 85,
@@ -311,7 +311,7 @@
       "2026-06-19": 131,
       "2026-06-18": 48,
       "2026-08-14": 33,
-      "2026-08-25": 5
+      "2026-08-25": 6
     }
   },
   {
@@ -319,17 +319,17 @@
     "url": "$FRITZADDR",
     "icon": "https://github.com/M1XZG/uptime/blob/30609b3290444207169b106574a77770dd4394a6/assets/icons8-fritzbox-100.png",
     "slug": "fritzbox-via-vpn",
-    "status": "down",
-    "uptime": "99.04%",
-    "uptimeDay": "99.69%",
-    "uptimeWeek": "98.63%",
+    "status": "up",
+    "uptime": "99.03%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "98.62%",
     "uptimeMonth": "99.61%",
-    "uptimeYear": "99.04%",
-    "time": 629,
-    "timeDay": 485,
-    "timeWeek": 569,
-    "timeMonth": 567,
-    "timeYear": 629,
+    "uptimeYear": "99.03%",
+    "time": 640,
+    "timeDay": 2311,
+    "timeWeek": 926,
+    "timeMonth": 659,
+    "timeYear": 640,
     "dailyMinutesDown": {
       "2026-04-28": 140,
       "2026-05-15": 20,
@@ -338,7 +338,7 @@
       "2026-07-12": 109,
       "2026-08-14": 33,
       "2026-08-20": 134,
-      "2026-08-25": 5
+      "2026-08-25": 6
     }
   },
   {
@@ -346,10 +346,10 @@
     "url": "$DOCKTOPUSADDR",
     "icon": "https://github.com/M1XZG/uptime/blob/30609b3290444207169b106574a77770dd4394a6/assets/icons8-ubuntu-100.png",
     "slug": "docktopus-via-vpn",
-    "status": "down",
+    "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "98.70%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "98.69%",
     "uptimeMonth": "99.65%",
     "uptimeYear": "99.87%",
     "time": 102,
@@ -364,7 +364,7 @@
       "2026-06-18": 43,
       "2026-08-14": 22,
       "2026-08-20": 129,
-      "2026-08-25": 1
+      "2026-08-25": 3
     }
   },
   {
