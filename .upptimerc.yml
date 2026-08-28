@@ -16,6 +16,7 @@ sites:
   - name: Zoraxy
     icon: https://github.com/M1XZG/uptime/blob/7e7dbfb2d11377a0138c761547051a748b193db9/assets/zoraxy.png
     url: http://bigbastard.letmeshoot.it:8000
+    type: globalping
     tags:
       - "type:proxy"
       - "scope:public"
@@ -23,6 +24,7 @@ sites:
   - name: Dashboard
     icon: https://github.com/M1XZG/uptime/blob/8165bb3f9d996e7ab7df3d81f117104594aa16c4/assets/icons8-dashboard-100.png
     url: https://dash.rpmdp.com/freeboard/
+    type: globalping
     tags:
       - "type:web"
       - "scope:public"
@@ -30,36 +32,42 @@ sites:
   - name: Fileserver
     icon: https://github.com/M1XZG/uptime/blob/30609b3290444207169b106574a77770dd4394a6/assets/icons8-cloud-storage-100.png
     url: https://fb.letmeshoot.it/login
+    type: globalping
     tags:
       - "type:storage"
       - "scope:public"
 
   - name: Flight Tracker (FA)
     url: https://fa.letmeshoot.it
+    type: globalping
     tags:
       - "type:web"
       - "scope:public"
 
   - name: Flight Tracker (FT)
     url: https://ft.letmeshoot.it
+    type: globalping
     tags:
       - "type:web"
       - "scope:public"
 
   - name: Wildys Lore
     url: https://lore.wildwanderer-vr.com
+    type: globalping
     tags:
       - "type:web"
       - "scope:public"
 
   - name: Blog
     url: https://www.uk-experience.com
+    type: globalping
     tags:
       - "type:web"
       - "scope:public"
 
   - name: Reggie Walks
     url: https://www.reggiewalkswitney.co.uk
+    type: globalping
     tags:
       - "type:web"
       - "scope:public"
@@ -67,6 +75,7 @@ sites:
   - name: FurHelp
     icon: https://avatars.githubusercontent.com/u/254028347?s=96&v=4
     url: https://furhelp.lgbt/
+    type: globalping
     tags:
       - "type:web"
       - "scope:public"
