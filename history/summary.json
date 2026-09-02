@@ -75,17 +75,17 @@
     "url": "https://fa.letmeshoot.it",
     "icon": "https://icons.duckduckgo.com/ip3/fa.letmeshoot.it.ico",
     "slug": "flight-tracker-fa",
-    "status": "down",
-    "uptime": "98.49%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.63%",
-    "time": 2092,
-    "timeDay": 1215,
-    "timeWeek": 1012,
-    "timeMonth": 781,
-    "timeYear": 2092,
+    "status": "up",
+    "uptime": "98.48%",
+    "uptimeDay": "99.68%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.62%",
+    "time": 2089,
+    "timeDay": 1187,
+    "timeWeek": 1000,
+    "timeMonth": 773,
+    "timeYear": 2089,
     "dailyMinutesDown": {
       "2025-09-03": 24,
       "2025-09-27": 28,
@@ -100,7 +100,7 @@
       "2026-04-29": 355,
       "2026-06-19": 130,
       "2026-06-18": 49,
-      "2026-09-02": 1
+      "2026-09-02": 5
     }
   },
   {
@@ -108,17 +108,17 @@
     "url": "https://ft.letmeshoot.it",
     "icon": "https://icons.duckduckgo.com/ip3/ft.letmeshoot.it.ico",
     "slug": "flight-tracker-ft",
-    "status": "down",
+    "status": "up",
     "uptime": "98.47%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.70%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.62%",
-    "time": 1198,
-    "timeDay": 1240,
-    "timeWeek": 1117,
-    "timeMonth": 1115,
-    "timeYear": 1198,
+    "time": 1197,
+    "timeDay": 1254,
+    "timeWeek": 1115,
+    "timeMonth": 1104,
+    "timeYear": 1197,
     "dailyMinutesDown": {
       "2025-09-03": 24,
       "2025-09-27": 28,
@@ -134,7 +134,7 @@
       "2026-04-29": 355,
       "2026-06-19": 131,
       "2026-06-18": 49,
-      "2026-09-02": 1
+      "2026-09-02": 4
     }
   },
   {
@@ -234,7 +234,7 @@
     "uptimeYear": "99.26%",
     "time": 522,
     "timeDay": 401,
-    "timeWeek": 490,
+    "timeWeek": 487,
     "timeMonth": 481,
     "timeYear": 522,
     "dailyMinutesDown": {
