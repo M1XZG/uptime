@@ -12,7 +12,7 @@
     "uptimeYear": "99.98%",
     "time": 548,
     "timeDay": 64,
-    "timeWeek": 264,
+    "timeWeek": 216,
     "timeMonth": 236,
     "timeYear": 548,
     "dailyMinutesDown": {
@@ -33,7 +33,7 @@
     "uptimeYear": "99.82%",
     "time": 666,
     "timeDay": 176,
-    "timeWeek": 266,
+    "timeWeek": 241,
     "timeMonth": 370,
     "timeYear": 666,
     "dailyMinutesDown": {
@@ -62,7 +62,7 @@
     "uptimeYear": "99.99%",
     "time": 434,
     "timeDay": 17,
-    "timeWeek": 194,
+    "timeWeek": 168,
     "timeMonth": 251,
     "timeYear": 434,
     "dailyMinutesDown": {
@@ -74,17 +74,17 @@
     "url": "https://fa.letmeshoot.it",
     "icon": "https://icons.duckduckgo.com/ip3/fa.letmeshoot.it.ico",
     "slug": "flight-tracker-fa",
-    "status": "up",
+    "status": "down",
     "uptime": "98.50%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.63%",
-    "time": 2080,
-    "timeDay": 1180,
-    "timeWeek": 967,
-    "timeMonth": 763,
-    "timeYear": 2080,
+    "time": 2082,
+    "timeDay": 1164,
+    "timeWeek": 1033,
+    "timeMonth": 780,
+    "timeYear": 2082,
     "dailyMinutesDown": {
       "2025-09-27": 28,
       "2025-10-09": 146,
@@ -97,7 +97,8 @@
       "2026-04-28": 60,
       "2026-04-29": 355,
       "2026-06-19": 130,
-      "2026-06-18": 49
+      "2026-06-18": 49,
+      "2026-09-04": 1
     }
   },
   {
@@ -105,17 +106,17 @@
     "url": "https://ft.letmeshoot.it",
     "icon": "https://icons.duckduckgo.com/ip3/ft.letmeshoot.it.ico",
     "slug": "flight-tracker-ft",
-    "status": "up",
+    "status": "down",
     "uptime": "98.48%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.63%",
-    "time": 1195,
-    "timeDay": 1158,
-    "timeWeek": 1014,
-    "timeMonth": 1079,
-    "timeYear": 1195,
+    "time": 1198,
+    "timeDay": 1163,
+    "timeWeek": 1013,
+    "timeMonth": 1075,
+    "timeYear": 1198,
     "dailyMinutesDown": {
       "2025-09-27": 28,
       "2025-10-09": 146,
@@ -129,7 +130,8 @@
       "2026-04-28": 60,
       "2026-04-29": 355,
       "2026-06-19": 131,
-      "2026-06-18": 49
+      "2026-06-18": 49,
+      "2026-09-04": 1
     }
   },
   {
@@ -142,10 +144,10 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.76%",
+    "uptimeYear": "98.77%",
     "time": 542,
     "timeDay": 215,
-    "timeWeek": 284,
+    "timeWeek": 248,
     "timeMonth": 249,
     "timeYear": 542,
     "dailyMinutesDown": {
@@ -168,7 +170,7 @@
     "uptimeYear": "99.97%",
     "time": 1241,
     "timeDay": 452,
-    "timeWeek": 404,
+    "timeWeek": 427,
     "timeMonth": 365,
     "timeYear": 1241,
     "dailyMinutesDown": {
@@ -190,7 +192,7 @@
     "uptimeYear": "99.98%",
     "time": 1503,
     "timeDay": 761,
-    "timeWeek": 752,
+    "timeWeek": 776,
     "timeMonth": 775,
     "timeYear": 1503,
     "dailyMinutesDown": {
@@ -211,7 +213,7 @@
     "uptimeYear": "100.00%",
     "time": 486,
     "timeDay": 124,
-    "timeWeek": 248,
+    "timeWeek": 207,
     "timeMonth": 291,
     "timeYear": 486,
     "dailyMinutesDown": {}
@@ -221,15 +223,15 @@
     "url": "$PI42ADDR",
     "icon": "https://github.com/M1XZG/uptime/blob/30609b3290444207169b106574a77770dd4394a6/assets/icons8-raspberry-100.png",
     "slug": "pi4-2-http-vpn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.13%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.27%",
     "time": 521,
     "timeDay": 448,
-    "timeWeek": 481,
+    "timeWeek": 476,
     "timeMonth": 481,
     "timeYear": 521,
     "dailyMinutesDown": {
@@ -279,7 +281,8 @@
       "2026-04-28": 59,
       "2026-04-29": 354,
       "2026-06-19": 131,
-      "2026-06-18": 48
+      "2026-06-18": 48,
+      "2026-09-04": 0
     }
   },
   {
@@ -295,7 +298,7 @@
     "uptimeYear": "99.90%",
     "time": 257,
     "timeDay": 173,
-    "timeWeek": 213,
+    "timeWeek": 207,
     "timeMonth": 263,
     "timeYear": 257,
     "dailyMinutesDown": {
@@ -371,7 +374,7 @@
     "uptimeYear": "99.92%",
     "time": 89,
     "timeDay": 83,
-    "timeWeek": 84,
+    "timeWeek": 83,
     "timeMonth": 83,
     "timeYear": 89,
     "dailyMinutesDown": {
@@ -395,7 +398,7 @@
     "uptimeYear": "99.93%",
     "time": 291,
     "timeDay": 333,
-    "timeWeek": 338,
+    "timeWeek": 335,
     "timeMonth": 335,
     "timeYear": 291,
     "dailyMinutesDown": {
@@ -442,7 +445,7 @@
     "uptimeYear": "99.93%",
     "time": 85,
     "timeDay": 84,
-    "timeWeek": 85,
+    "timeWeek": 84,
     "timeMonth": 88,
     "timeYear": 85,
     "dailyMinutesDown": {
