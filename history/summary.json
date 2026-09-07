@@ -13,7 +13,7 @@
     "time": 544,
     "timeDay": 137,
     "timeWeek": 91,
-    "timeMonth": 199,
+    "timeMonth": 198,
     "timeYear": 544,
     "dailyMinutesDown": {
       "2025-10-22": 46,
@@ -34,7 +34,7 @@
     "time": 662,
     "timeDay": 196,
     "timeWeek": 170,
-    "timeMonth": 352,
+    "timeMonth": 350,
     "timeYear": 662,
     "dailyMinutesDown": {
       "2025-09-29": 30,
@@ -62,7 +62,7 @@
     "time": 431,
     "timeDay": 154,
     "timeWeek": 92,
-    "timeMonth": 222,
+    "timeMonth": 216,
     "timeYear": 431,
     "dailyMinutesDown": {
       "2026-02-25": 42
@@ -73,17 +73,17 @@
     "url": "https://fa.letmeshoot.it",
     "icon": "https://icons.duckduckgo.com/ip3/fa.letmeshoot.it.ico",
     "slug": "flight-tracker-fa",
-    "status": "up",
+    "status": "down",
     "uptime": "98.51%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.64%",
-    "time": 2069,
-    "timeDay": 322,
-    "timeWeek": 1090,
-    "timeMonth": 740,
-    "timeYear": 2069,
+    "time": 2071,
+    "timeDay": 1771,
+    "timeWeek": 1093,
+    "timeMonth": 780,
+    "timeYear": 2071,
     "dailyMinutesDown": {
       "2025-09-27": 28,
       "2025-10-09": 146,
@@ -96,7 +96,8 @@
       "2026-04-28": 60,
       "2026-04-29": 355,
       "2026-06-19": 130,
-      "2026-06-18": 49
+      "2026-06-18": 49,
+      "2026-09-07": 1
     }
   },
   {
@@ -104,17 +105,17 @@
     "url": "https://ft.letmeshoot.it",
     "icon": "https://icons.duckduckgo.com/ip3/ft.letmeshoot.it.ico",
     "slug": "flight-tracker-ft",
-    "status": "up",
+    "status": "down",
     "uptime": "98.50%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.63%",
-    "time": 1191,
-    "timeDay": 195,
-    "timeWeek": 1067,
-    "timeMonth": 998,
-    "timeYear": 1191,
+    "time": 1195,
+    "timeDay": 1717,
+    "timeWeek": 1075,
+    "timeMonth": 1003,
+    "timeYear": 1195,
     "dailyMinutesDown": {
       "2025-09-27": 28,
       "2025-10-09": 146,
@@ -128,7 +129,8 @@
       "2026-04-28": 60,
       "2026-04-29": 355,
       "2026-06-19": 131,
-      "2026-06-18": 49
+      "2026-06-18": 49,
+      "2026-09-07": 1
     }
   },
   {
@@ -141,11 +143,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.78%",
+    "uptimeYear": "98.79%",
     "time": 536,
     "timeDay": 65,
     "timeWeek": 156,
-    "timeMonth": 224,
+    "timeMonth": 227,
     "timeYear": 536,
     "dailyMinutesDown": {
       "2025-10-22": 68,
@@ -168,7 +170,7 @@
     "time": 1234,
     "timeDay": 462,
     "timeWeek": 487,
-    "timeMonth": 388,
+    "timeMonth": 395,
     "timeYear": 1234,
     "dailyMinutesDown": {
       "2025-09-11": 43,
@@ -190,7 +192,7 @@
     "time": 1496,
     "timeDay": 770,
     "timeWeek": 807,
-    "timeMonth": 785,
+    "timeMonth": 770,
     "timeYear": 1496,
     "dailyMinutesDown": {
       "2025-09-11": 43,
@@ -211,7 +213,7 @@
     "time": 474,
     "timeDay": 196,
     "timeWeek": 121,
-    "timeMonth": 256,
+    "timeMonth": 251,
     "timeYear": 474,
     "dailyMinutesDown": {}
   },
@@ -220,16 +222,16 @@
     "url": "$PI42ADDR",
     "icon": "https://github.com/M1XZG/uptime/blob/30609b3290444207169b106574a77770dd4394a6/assets/icons8-raspberry-100.png",
     "slug": "pi4-2-http-vpn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.14%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.28%",
     "time": 521,
     "timeDay": 538,
     "timeWeek": 470,
-    "timeMonth": 484,
+    "timeMonth": 486,
     "timeYear": 521,
     "dailyMinutesDown": {
       "2025-09-12": 28,
@@ -278,7 +280,8 @@
       "2026-04-28": 59,
       "2026-04-29": 354,
       "2026-06-19": 131,
-      "2026-06-18": 48
+      "2026-06-18": 48,
+      "2026-09-07": 0
     }
   },
   {
@@ -295,7 +298,7 @@
     "time": 257,
     "timeDay": 256,
     "timeWeek": 198,
-    "timeMonth": 263,
+    "timeMonth": 265,
     "timeYear": 257,
     "dailyMinutesDown": {
       "2025-12-15": 59,
@@ -320,7 +323,7 @@
     "time": 636,
     "timeDay": 989,
     "timeWeek": 649,
-    "timeMonth": 640,
+    "timeMonth": 632,
     "timeYear": 636,
     "dailyMinutesDown": {
       "2026-04-28": 140,
@@ -418,7 +421,7 @@
     "time": 88,
     "timeDay": 84,
     "timeWeek": 84,
-    "timeMonth": 91,
+    "timeMonth": 92,
     "timeYear": 88,
     "dailyMinutesDown": {
       "2026-04-28": 137,
