@@ -73,17 +73,17 @@
     "url": "https://fa.letmeshoot.it",
     "icon": "https://icons.duckduckgo.com/ip3/fa.letmeshoot.it.ico",
     "slug": "flight-tracker-fa",
-    "status": "down",
+    "status": "up",
     "uptime": "98.51%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.64%",
-    "time": 2071,
-    "timeDay": 1771,
-    "timeWeek": 1093,
-    "timeMonth": 780,
-    "timeYear": 2071,
+    "time": 2068,
+    "timeDay": 1287,
+    "timeWeek": 1100,
+    "timeMonth": 773,
+    "timeYear": 2068,
     "dailyMinutesDown": {
       "2025-09-27": 28,
       "2025-10-09": 146,
@@ -97,7 +97,7 @@
       "2026-04-29": 355,
       "2026-06-19": 130,
       "2026-06-18": 49,
-      "2026-09-07": 1
+      "2026-09-07": 5
     }
   },
   {
@@ -105,17 +105,17 @@
     "url": "https://ft.letmeshoot.it",
     "icon": "https://icons.duckduckgo.com/ip3/ft.letmeshoot.it.ico",
     "slug": "flight-tracker-ft",
-    "status": "down",
+    "status": "up",
     "uptime": "98.50%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.70%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.63%",
-    "time": 1195,
-    "timeDay": 1717,
-    "timeWeek": 1075,
-    "timeMonth": 1003,
-    "timeYear": 1195,
+    "time": 1193,
+    "timeDay": 1214,
+    "timeWeek": 1078,
+    "timeMonth": 991,
+    "timeYear": 1193,
     "dailyMinutesDown": {
       "2025-09-27": 28,
       "2025-10-09": 146,
@@ -130,7 +130,7 @@
       "2026-04-29": 355,
       "2026-06-19": 131,
       "2026-06-18": 49,
-      "2026-09-07": 1
+      "2026-09-07": 4
     }
   },
   {
@@ -222,16 +222,16 @@
     "url": "$PI42ADDR",
     "icon": "https://github.com/M1XZG/uptime/blob/30609b3290444207169b106574a77770dd4394a6/assets/icons8-raspberry-100.png",
     "slug": "pi4-2-http-vpn",
-    "status": "down",
+    "status": "up",
     "uptime": "99.14%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.71%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.28%",
     "time": 521,
-    "timeDay": 538,
+    "timeDay": 534,
     "timeWeek": 470,
-    "timeMonth": 486,
+    "timeMonth": 487,
     "timeYear": 521,
     "dailyMinutesDown": {
       "2025-09-12": 28,
@@ -281,7 +281,7 @@
       "2026-04-29": 354,
       "2026-06-19": 131,
       "2026-06-18": 48,
-      "2026-09-07": 0
+      "2026-09-07": 4
     }
   },
   {
