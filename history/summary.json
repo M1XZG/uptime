@@ -281,15 +281,15 @@
     "url": "$EDGEROUTERADDR",
     "icon": "https://github.com/M1XZG/uptime/blob/30609b3290444207169b106574a77770dd4394a6/assets/icons8-asus-100.png",
     "slug": "edge-router-via-vpn",
-    "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.97%",
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "99.95%",
     "uptimeMonth": "99.99%",
-    "uptimeYear": "99.91%",
+    "uptimeYear": "99.90%",
     "time": 255,
-    "timeDay": 253,
-    "timeWeek": 195,
+    "timeDay": 256,
+    "timeWeek": 203,
     "timeMonth": 261,
     "timeYear": 255,
     "dailyMinutesDown": {
@@ -299,7 +299,7 @@
       "2026-06-19": 131,
       "2026-06-18": 48,
       "2026-08-14": 33,
-      "2026-09-19": 3
+      "2026-09-19": 5
     }
   },
   {
@@ -358,12 +358,12 @@
     "url": "$HELIOSADDR",
     "icon": "https://github.com/M1XZG/uptime/blob/30609b3290444207169b106574a77770dd4394a6/assets/icons8-windows-100.png",
     "slug": "helios-streaming-pc-via-vpn",
-    "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.93%",
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.92%",
     "time": 89,
     "timeDay": 83,
     "timeWeek": 83,
@@ -375,7 +375,7 @@
       "2026-06-19": 130,
       "2026-06-18": 40,
       "2026-08-14": 28,
-      "2026-09-19": 1
+      "2026-09-19": 3
     }
   },
   {
@@ -383,23 +383,23 @@
     "url": "$NASADDR",
     "icon": "https://github.com/M1XZG/uptime/blob/20bc6239b2b5a3ca5a9fc7fc5a909f8a791e5580/assets/icons8-nas-100.png",
     "slug": "nas-via-vpn",
-    "status": "down",
+    "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.79%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.93%",
     "time": 293,
-    "timeDay": 333,
+    "timeDay": 337,
     "timeWeek": 335,
-    "timeMonth": 335,
+    "timeMonth": 336,
     "timeYear": 293,
     "dailyMinutesDown": {
       "2026-04-28": 84,
       "2026-06-19": 130,
       "2026-06-18": 40,
       "2026-08-14": 27,
-      "2026-09-19": 1
+      "2026-09-19": 3
     }
   },
   {
