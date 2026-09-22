@@ -283,9 +283,9 @@
     "slug": "edge-router-via-vpn",
     "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "99.71%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.91%",
     "time": 254,
     "timeDay": 175,
@@ -299,7 +299,7 @@
       "2026-06-19": 131,
       "2026-06-18": 48,
       "2026-08-14": 33,
-      "2026-09-22": 4
+      "2026-09-22": 7
     }
   },
   {
@@ -308,11 +308,11 @@
     "icon": "https://github.com/M1XZG/uptime/blob/30609b3290444207169b106574a77770dd4394a6/assets/icons8-fritzbox-100.png",
     "slug": "fritzbox-via-vpn",
     "status": "down",
-    "uptime": "99.41%",
-    "uptimeDay": "99.74%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.41%",
+    "uptime": "99.40%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.40%",
     "time": 633,
     "timeDay": 492,
     "timeWeek": 514,
@@ -326,7 +326,7 @@
       "2026-07-12": 109,
       "2026-08-14": 33,
       "2026-08-20": 134,
-      "2026-09-22": 4
+      "2026-09-22": 7
     }
   },
   {
@@ -359,11 +359,11 @@
     "url": "$HELIOSADDR",
     "icon": "https://github.com/M1XZG/uptime/blob/30609b3290444207169b106574a77770dd4394a6/assets/icons8-windows-100.png",
     "slug": "helios-streaming-pc-via-vpn",
-    "status": "down",
+    "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.74%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.93%",
     "time": 89,
     "timeDay": 84,
@@ -376,7 +376,7 @@
       "2026-06-19": 130,
       "2026-06-18": 40,
       "2026-08-14": 28,
-      "2026-09-22": 1
+      "2026-09-22": 4
     }
   },
   {
@@ -384,14 +384,14 @@
     "url": "$NASADDR",
     "icon": "https://github.com/M1XZG/uptime/blob/20bc6239b2b5a3ca5a9fc7fc5a909f8a791e5580/assets/icons8-nas-100.png",
     "slug": "nas-via-vpn",
-    "status": "down",
+    "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.76%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.93%",
     "time": 293,
-    "timeDay": 335,
+    "timeDay": 336,
     "timeWeek": 335,
     "timeMonth": 336,
     "timeYear": 293,
@@ -400,7 +400,7 @@
       "2026-06-19": 130,
       "2026-06-18": 40,
       "2026-08-14": 27,
-      "2026-09-22": 1
+      "2026-09-22": 3
     }
   },
   {
