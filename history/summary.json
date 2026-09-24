@@ -280,16 +280,16 @@
     "url": "$EDGEROUTERADDR",
     "icon": "https://github.com/M1XZG/uptime/blob/30609b3290444207169b106574a77770dd4394a6/assets/icons8-asus-100.png",
     "slug": "edge-router-via-vpn",
-    "status": "down",
+    "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "98.98%",
+    "uptimeDay": "98.93%",
     "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.90%",
     "time": 254,
-    "timeDay": 254,
-    "timeWeek": 228,
-    "timeMonth": 259,
+    "timeDay": 216,
+    "timeWeek": 223,
+    "timeMonth": 257,
     "timeYear": 254,
     "dailyMinutesDown": {
       "2025-12-15": 59,
@@ -306,17 +306,17 @@
     "url": "$FRITZADDR",
     "icon": "https://github.com/M1XZG/uptime/blob/30609b3290444207169b106574a77770dd4394a6/assets/icons8-fritzbox-100.png",
     "slug": "fritzbox-via-vpn",
-    "status": "down",
+    "status": "up",
     "uptime": "99.41%",
-    "uptimeDay": "99.00%",
-    "uptimeWeek": "99.86%",
+    "uptimeDay": "98.95%",
+    "uptimeWeek": "99.85%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.41%",
-    "time": 632,
-    "timeDay": 565,
-    "timeWeek": 521,
-    "timeMonth": 654,
-    "timeYear": 632,
+    "time": 634,
+    "timeDay": 784,
+    "timeWeek": 575,
+    "timeMonth": 663,
+    "timeYear": 634,
     "dailyMinutesDown": {
       "2026-04-28": 140,
       "2026-05-15": 20,
@@ -325,7 +325,7 @@
       "2026-07-12": 109,
       "2026-08-14": 33,
       "2026-08-20": 134,
-      "2026-09-24": 14
+      "2026-09-24": 15
     }
   },
   {
@@ -335,9 +335,9 @@
     "slug": "docktopus-via-vpn",
     "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 100,
     "timeDay": 84,
@@ -350,8 +350,7 @@
       "2026-06-19": 131,
       "2026-06-18": 43,
       "2026-08-14": 22,
-      "2026-08-20": 129,
-      "2026-09-24": 11
+      "2026-08-20": 129
     }
   },
   {
@@ -360,11 +359,11 @@
     "icon": "https://github.com/M1XZG/uptime/blob/30609b3290444207169b106574a77770dd4394a6/assets/icons8-windows-100.png",
     "slug": "helios-streaming-pc-via-vpn",
     "status": "up",
-    "uptime": "99.92%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.92%",
+    "uptime": "99.93%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.93%",
     "time": 89,
     "timeDay": 84,
     "timeWeek": 83,
@@ -375,8 +374,7 @@
       "2026-04-28": 84,
       "2026-06-19": 130,
       "2026-06-18": 40,
-      "2026-08-14": 28,
-      "2026-09-24": 8
+      "2026-08-14": 28
     }
   },
   {
@@ -386,9 +384,9 @@
     "slug": "nas-via-vpn",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 294,
     "timeDay": 336,
@@ -399,8 +397,7 @@
       "2026-04-28": 84,
       "2026-06-19": 130,
       "2026-06-18": 40,
-      "2026-08-14": 27,
-      "2026-09-24": 8
+      "2026-08-14": 27
     }
   },
   {
@@ -410,9 +407,9 @@
     "slug": "tinkerbell-via-vpn",
     "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 88,
     "timeDay": 85,
@@ -424,8 +421,7 @@
       "2026-06-19": 130,
       "2026-06-18": 39,
       "2026-08-14": 24,
-      "2026-08-20": 127,
-      "2026-09-24": 6
+      "2026-08-20": 127
     }
   },
   {
@@ -435,9 +431,9 @@
     "slug": "infra01-via-vpn",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.78%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 85,
     "timeDay": 86,
@@ -448,8 +444,7 @@
       "2026-04-28": 79,
       "2026-06-19": 130,
       "2026-06-18": 36,
-      "2026-08-14": 21,
-      "2026-09-24": 3
+      "2026-08-14": 21
     }
   }
 ]
