@@ -72,17 +72,17 @@
     "url": "https://fa.letmeshoot.it",
     "icon": "https://icons.duckduckgo.com/ip3/fa.letmeshoot.it.ico",
     "slug": "flight-tracker-fa",
-    "status": "up",
+    "status": "down",
     "uptime": "98.64%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.68%",
-    "time": 1978,
-    "timeDay": 1182,
-    "timeWeek": 1047,
+    "time": 1980,
+    "timeDay": 1151,
+    "timeWeek": 1040,
     "timeMonth": 1118,
-    "timeYear": 1978,
+    "timeYear": 1980,
     "dailyMinutesDown": {
       "2025-10-09": 146,
       "2025-10-22": 68,
@@ -94,7 +94,8 @@
       "2026-04-28": 60,
       "2026-04-29": 355,
       "2026-06-19": 130,
-      "2026-06-18": 49
+      "2026-06-18": 49,
+      "2026-10-01": 1
     }
   },
   {
@@ -102,17 +103,17 @@
     "url": "https://ft.letmeshoot.it",
     "icon": "https://icons.duckduckgo.com/ip3/ft.letmeshoot.it.ico",
     "slug": "flight-tracker-ft",
-    "status": "up",
+    "status": "down",
     "uptime": "98.62%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.67%",
-    "time": 1148,
-    "timeDay": 240,
-    "timeWeek": 873,
+    "time": 1151,
+    "timeDay": 1686,
+    "timeWeek": 877,
     "timeMonth": 781,
-    "timeYear": 1148,
+    "timeYear": 1151,
     "dailyMinutesDown": {
       "2025-10-09": 146,
       "2025-10-22": 68,
@@ -125,7 +126,8 @@
       "2026-04-28": 60,
       "2026-04-29": 355,
       "2026-06-19": 131,
-      "2026-06-18": 49
+      "2026-06-18": 49,
+      "2026-10-01": 1
     }
   },
   {
