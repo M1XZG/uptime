@@ -133,23 +133,23 @@
     "url": "https://lore.wildwanderer-vr.com",
     "icon": "https://icons.duckduckgo.com/ip3/lore.wildwanderer-vr.com.ico",
     "slug": "wildys-lore",
-    "status": "down",
+    "status": "up",
     "uptime": "98.94%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.68%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "98.97%",
-    "time": 486,
-    "timeDay": 244,
-    "timeWeek": 183,
+    "time": 485,
+    "timeDay": 198,
+    "timeWeek": 179,
     "timeMonth": 170,
-    "timeYear": 486,
+    "timeYear": 485,
     "dailyMinutesDown": {
       "2025-10-22": 68,
       "2026-04-04": 725,
       "2026-04-03": 1440,
       "2026-04-02": 910,
-      "2026-10-08": 2
+      "2026-10-08": 5
     }
   },
   {
