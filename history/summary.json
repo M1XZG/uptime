@@ -4,21 +4,22 @@
     "url": "http://bigbastard.letmeshoot.it:8000",
     "icon": "https://github.com/M1XZG/uptime/blob/7e7dbfb2d11377a0138c761547051a748b193db9/assets/zoraxy.png",
     "slug": "zoraxy",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.71%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.98%",
-    "time": 502,
-    "timeDay": 92,
-    "timeWeek": 86,
+    "time": 500,
+    "timeDay": 85,
+    "timeWeek": 85,
     "timeMonth": 81,
-    "timeYear": 502,
+    "timeYear": 500,
     "dailyMinutesDown": {
       "2025-10-22": 46,
       "2026-02-25": 43,
-      "2026-10-07": 0
+      "2026-10-08": 0,
+      "2026-10-07": 4
     }
   },
   {
