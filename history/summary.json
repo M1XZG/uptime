@@ -72,17 +72,17 @@
     "url": "https://fa.letmeshoot.it",
     "icon": "https://icons.duckduckgo.com/ip3/fa.letmeshoot.it.ico",
     "slug": "flight-tracker-fa",
-    "status": "up",
+    "status": "down",
     "uptime": "98.69%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.72%",
-    "time": 1940,
-    "timeDay": 1267,
-    "timeWeek": 1141,
-    "timeMonth": 1101,
-    "timeYear": 1940,
+    "time": 1942,
+    "timeDay": 1270,
+    "timeWeek": 1142,
+    "timeMonth": 1130,
+    "timeYear": 1942,
     "dailyMinutesDown": {
       "2025-10-22": 68,
       "2025-12-11": 33,
@@ -93,7 +93,8 @@
       "2026-04-28": 60,
       "2026-04-29": 355,
       "2026-06-19": 130,
-      "2026-06-18": 49
+      "2026-06-18": 49,
+      "2026-10-13": 1
     }
   },
   {
@@ -101,17 +102,17 @@
     "url": "https://ft.letmeshoot.it",
     "icon": "https://icons.duckduckgo.com/ip3/ft.letmeshoot.it.ico",
     "slug": "flight-tracker-ft",
-    "status": "up",
-    "uptime": "98.67%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "98.68%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.72%",
-    "time": 1145,
-    "timeDay": 1198,
-    "timeWeek": 1121,
-    "timeMonth": 900,
-    "timeYear": 1145,
+    "time": 1148,
+    "timeDay": 1194,
+    "timeWeek": 1122,
+    "timeMonth": 932,
+    "timeYear": 1148,
     "dailyMinutesDown": {
       "2025-10-22": 68,
       "2025-12-11": 33,
@@ -123,7 +124,8 @@
       "2026-04-28": 60,
       "2026-04-29": 355,
       "2026-06-19": 131,
-      "2026-06-18": 49
+      "2026-06-18": 49,
+      "2026-10-13": 1
     }
   },
   {
@@ -208,9 +210,9 @@
     "url": "$PI42ADDR",
     "icon": "https://github.com/M1XZG/uptime/blob/30609b3290444207169b106574a77770dd4394a6/assets/icons8-raspberry-100.png",
     "slug": "pi4-2-http-vpn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.24%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.45%",
@@ -258,7 +260,8 @@
       "2026-04-28": 59,
       "2026-04-29": 354,
       "2026-06-19": 131,
-      "2026-06-18": 48
+      "2026-06-18": 48,
+      "2026-10-13": 0
     }
   },
   {
