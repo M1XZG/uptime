@@ -155,19 +155,19 @@
     "url": "https://www.uk-experience.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.uk-experience.com.ico",
     "slug": "blog",
-    "status": "down",
+    "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "90.94%",
-    "uptimeWeek": "98.71%",
-    "uptimeMonth": "99.70%",
+    "uptimeDay": "90.56%",
+    "uptimeWeek": "98.65%",
+    "uptimeMonth": "99.69%",
     "uptimeYear": "99.97%",
-    "time": 1149,
-    "timeDay": 498,
-    "timeWeek": 504,
-    "timeMonth": 580,
-    "timeYear": 1149,
+    "time": 1153,
+    "timeDay": 935,
+    "timeWeek": 702,
+    "timeMonth": 642,
+    "timeYear": 1153,
     "dailyMinutesDown": {
-      "2026-10-21": 131
+      "2026-10-21": 136
     }
   },
   {
