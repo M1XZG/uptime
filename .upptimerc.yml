@@ -15,7 +15,7 @@ sites:
   # Public endpoints
   - name: Zoraxy
     icon: https://github.com/M1XZG/uptime/blob/7e7dbfb2d11377a0138c761547051a748b193db9/assets/zoraxy.png
-    url: http://bigbastard.letmeshoot.it:8000
+    url: $BBZORADMIN
     type: globalping
     tags:
       - "type:proxy"
