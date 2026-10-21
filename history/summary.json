@@ -155,36 +155,40 @@
     "url": "https://www.uk-experience.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.uk-experience.com.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1151,
-    "timeDay": 517,
-    "timeWeek": 511,
-    "timeMonth": 584,
-    "timeYear": 1151,
-    "dailyMinutesDown": {}
+    "time": 1149,
+    "timeDay": 498,
+    "timeWeek": 504,
+    "timeMonth": 580,
+    "timeYear": 1149,
+    "dailyMinutesDown": {
+      "2026-10-21": 1
+    }
   },
   {
     "name": "Reggie Walks",
     "url": "https://www.reggiewalkswitney.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.reggiewalkswitney.co.uk.ico",
     "slug": "reggie-walks",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1416,
-    "timeDay": 826,
-    "timeWeek": 849,
-    "timeMonth": 873,
-    "timeYear": 1416,
-    "dailyMinutesDown": {}
+    "time": 1413,
+    "timeDay": 711,
+    "timeWeek": 801,
+    "timeMonth": 858,
+    "timeYear": 1413,
+    "dailyMinutesDown": {
+      "2026-10-21": 0
+    }
   },
   {
     "name": "FurHelp",
