@@ -26,7 +26,7 @@
     "icon": "https://github.com/M1XZG/uptime/blob/8165bb3f9d996e7ab7df3d81f117104594aa16c4/assets/icons8-dashboard-100.png",
     "slug": "dashboard",
     "status": "up",
-    "uptime": "98.92%",
+    "uptime": "98.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -51,19 +51,20 @@
     "url": "https://fb.letmeshoot.it/login",
     "icon": "https://github.com/M1XZG/uptime/blob/30609b3290444207169b106574a77770dd4394a6/assets/icons8-cloud-storage-100.png",
     "slug": "fileserver",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 381,
-    "timeDay": 151,
+    "time": 380,
+    "timeDay": 132,
     "timeWeek": 112,
-    "timeMonth": 152,
-    "timeYear": 381,
+    "timeMonth": 151,
+    "timeYear": 380,
     "dailyMinutesDown": {
-      "2026-02-25": 42
+      "2026-02-25": 42,
+      "2026-11-07": 0
     }
   },
   {
@@ -262,9 +263,9 @@
     "slug": "edge-router-via-vpn",
     "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "99.68%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 250,
     "timeDay": 213,
@@ -278,8 +279,7 @@
       "2026-06-19": 131,
       "2026-06-18": 48,
       "2026-08-14": 33,
-      "2026-09-24": 15,
-      "2026-11-07": 5
+      "2026-09-24": 15
     }
   },
   {
@@ -289,9 +289,9 @@
     "slug": "fritzbox-via-vpn",
     "status": "up",
     "uptime": "99.63%",
-    "uptimeDay": "99.70%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.63%",
     "time": 624,
     "timeDay": 758,
@@ -306,8 +306,7 @@
       "2026-07-12": 109,
       "2026-08-14": 33,
       "2026-08-20": 134,
-      "2026-09-24": 15,
-      "2026-11-07": 4
+      "2026-09-24": 15
     }
   },
   {
@@ -342,9 +341,9 @@
     "slug": "helios-streaming-pc-via-vpn",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.74%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 88,
     "timeDay": 84,
@@ -356,8 +355,7 @@
       "2026-04-28": 84,
       "2026-06-19": 130,
       "2026-06-18": 40,
-      "2026-08-14": 28,
-      "2026-11-07": 4
+      "2026-08-14": 28
     }
   },
   {
