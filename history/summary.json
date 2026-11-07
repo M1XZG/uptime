@@ -51,20 +51,20 @@
     "url": "https://fb.letmeshoot.it/login",
     "icon": "https://github.com/M1XZG/uptime/blob/30609b3290444207169b106574a77770dd4394a6/assets/icons8-cloud-storage-100.png",
     "slug": "fileserver",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
-    "time": 380,
-    "timeDay": 132,
-    "timeWeek": 112,
-    "timeMonth": 151,
-    "timeYear": 380,
+    "time": 379,
+    "timeDay": 98,
+    "timeWeek": 103,
+    "timeMonth": 148,
+    "timeYear": 379,
     "dailyMinutesDown": {
       "2026-02-25": 42,
-      "2026-11-07": 0
+      "2026-11-07": 5
     }
   },
   {
