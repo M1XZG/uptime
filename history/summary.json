@@ -71,17 +71,17 @@
     "url": "https://fa.letmeshoot.it",
     "icon": "https://icons.duckduckgo.com/ip3/fa.letmeshoot.it.ico",
     "slug": "flight-tracker-fa",
-    "status": "down",
+    "status": "up",
     "uptime": "98.81%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.69%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.76%",
-    "time": 1848,
-    "timeDay": 1236,
-    "timeWeek": 1112,
-    "timeMonth": 1084,
-    "timeYear": 1848,
+    "time": 1846,
+    "timeDay": 1206,
+    "timeWeek": 1108,
+    "timeMonth": 1071,
+    "timeYear": 1846,
     "dailyMinutesDown": {
       "2025-12-11": 33,
       "2025-12-25": 436,
@@ -92,7 +92,7 @@
       "2026-04-29": 355,
       "2026-06-19": 130,
       "2026-06-18": 49,
-      "2026-11-13": 1
+      "2026-11-13": 5
     }
   },
   {
@@ -100,17 +100,17 @@
     "url": "https://ft.letmeshoot.it",
     "icon": "https://icons.duckduckgo.com/ip3/ft.letmeshoot.it.ico",
     "slug": "flight-tracker-ft",
-    "status": "down",
+    "status": "up",
     "uptime": "98.80%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.71%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.76%",
-    "time": 1116,
-    "timeDay": 1175,
-    "timeWeek": 1112,
-    "timeMonth": 857,
-    "timeYear": 1116,
+    "time": 1114,
+    "timeDay": 1187,
+    "timeWeek": 1026,
+    "timeMonth": 848,
+    "timeYear": 1114,
     "dailyMinutesDown": {
       "2025-12-11": 33,
       "2025-12-24": 16,
@@ -122,7 +122,7 @@
       "2026-04-29": 355,
       "2026-06-19": 131,
       "2026-06-18": 49,
-      "2026-11-13": 1
+      "2026-11-13": 4
     }
   },
   {
@@ -218,8 +218,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.55%",
     "time": 512,
-    "timeDay": 591,
-    "timeWeek": 450,
+    "timeDay": 510,
+    "timeWeek": 444,
     "timeMonth": 472,
     "timeYear": 512,
     "dailyMinutesDown": {
