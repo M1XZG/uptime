@@ -25,10 +25,10 @@
     "url": "https://dash.rpmdp.com/freeboard/",
     "icon": "https://github.com/M1XZG/uptime/blob/8165bb3f9d996e7ab7df3d81f117104594aa16c4/assets/icons8-dashboard-100.png",
     "slug": "dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "98.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 581,
@@ -43,7 +43,8 @@
       "2026-05-15": 22,
       "2026-06-19": 130,
       "2026-06-18": 49,
-      "2026-08-20": 135
+      "2026-08-20": 135,
+      "2026-11-14": 2
     }
   },
   {
@@ -52,11 +53,11 @@
     "icon": "https://github.com/M1XZG/uptime/blob/30609b3290444207169b106574a77770dd4394a6/assets/icons8-cloud-storage-100.png",
     "slug": "fileserver",
     "status": "up",
-    "uptime": "99.90%",
-    "uptimeDay": "69.11%",
-    "uptimeWeek": "95.59%",
-    "uptimeMonth": "98.98%",
-    "uptimeYear": "99.90%",
+    "uptime": "99.89%",
+    "uptimeDay": "66.91%",
+    "uptimeWeek": "95.27%",
+    "uptimeMonth": "98.91%",
+    "uptimeYear": "99.89%",
     "time": 374,
     "timeDay": 180,
     "timeWeek": 101,
@@ -64,7 +65,7 @@
     "timeYear": 374,
     "dailyMinutesDown": {
       "2026-02-25": 42,
-      "2026-11-14": 445
+      "2026-11-14": 476
     }
   },
   {
@@ -74,9 +75,9 @@
     "slug": "flight-tracker-fa",
     "status": "up",
     "uptime": "98.82%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.76%",
     "time": 1842,
     "timeDay": 355,
@@ -92,8 +93,7 @@
       "2026-04-28": 60,
       "2026-04-29": 355,
       "2026-06-19": 130,
-      "2026-06-18": 49,
-      "2026-11-14": 9
+      "2026-06-18": 49
     }
   },
   {
@@ -176,9 +176,9 @@
     "slug": "reggie-walks",
     "status": "up",
     "uptime": "99.80%",
-    "uptimeDay": "99.02%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.67%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.70%",
     "uptimeYear": "99.97%",
     "time": 1375,
     "timeDay": 913,
@@ -186,8 +186,7 @@
     "timeMonth": 837,
     "timeYear": 1375,
     "dailyMinutesDown": {
-      "2026-10-21": 130,
-      "2026-11-14": 14
+      "2026-10-21": 130
     }
   },
   {
