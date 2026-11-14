@@ -27,9 +27,9 @@
     "slug": "dashboard",
     "status": "up",
     "uptime": "98.95%",
-    "uptimeDay": "99.74%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 579,
     "timeDay": 204,
@@ -43,8 +43,7 @@
       "2026-05-15": 22,
       "2026-06-19": 130,
       "2026-06-18": 49,
-      "2026-08-20": 135,
-      "2026-11-14": 4
+      "2026-08-20": 135
     }
   },
   {
@@ -54,9 +53,9 @@
     "slug": "fileserver",
     "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "66.32%",
-    "uptimeWeek": "95.19%",
-    "uptimeMonth": "98.89%",
+    "uptimeDay": "65.19%",
+    "uptimeWeek": "95.03%",
+    "uptimeMonth": "98.86%",
     "uptimeYear": "99.89%",
     "time": 374,
     "timeDay": 180,
@@ -65,7 +64,7 @@
     "timeYear": 374,
     "dailyMinutesDown": {
       "2026-02-25": 42,
-      "2026-11-14": 485
+      "2026-11-14": 501
     }
   },
   {
@@ -194,9 +193,9 @@
     "url": "https://furhelp.lgbt/",
     "icon": "https://avatars.githubusercontent.com/u/254028347?s=96&v=4",
     "slug": "fur-help",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -205,7 +204,9 @@
     "timeWeek": 181,
     "timeMonth": 130,
     "timeYear": 363,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-11-14": 0
+    }
   },
   {
     "name": "pi4-2 http [VPN]",
@@ -270,7 +271,7 @@
     "uptimeYear": "99.92%",
     "time": 249,
     "timeDay": 172,
-    "timeWeek": 195,
+    "timeWeek": 187,
     "timeMonth": 212,
     "timeYear": 249,
     "dailyMinutesDown": {
@@ -296,7 +297,7 @@
     "uptimeYear": "99.65%",
     "time": 623,
     "timeDay": 754,
-    "timeWeek": 621,
+    "timeWeek": 575,
     "timeMonth": 544,
     "timeYear": 623,
     "dailyMinutesDown": {
