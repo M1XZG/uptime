@@ -53,9 +53,9 @@
     "slug": "fileserver",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "87.45%",
-    "uptimeWeek": "98.21%",
-    "uptimeMonth": "99.59%",
+    "uptimeDay": "87.20%",
+    "uptimeWeek": "98.17%",
+    "uptimeMonth": "99.58%",
     "uptimeYear": "99.95%",
     "time": 374,
     "timeDay": 180,
@@ -64,7 +64,7 @@
     "timeYear": 374,
     "dailyMinutesDown": {
       "2026-02-25": 42,
-      "2026-11-14": 181
+      "2026-11-14": 184
     }
   },
   {
@@ -129,23 +129,23 @@
     "url": "https://lore.wildwanderer-vr.com",
     "icon": "https://icons.duckduckgo.com/ip3/lore.wildwanderer-vr.com.ico",
     "slug": "wildys-lore",
-    "status": "down",
+    "status": "up",
     "uptime": "99.08%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.55%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.13%",
-    "time": 436,
-    "timeDay": 69,
-    "timeWeek": 143,
-    "timeMonth": 143,
-    "timeYear": 436,
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.52%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.12%",
+    "time": 435,
+    "timeDay": 75,
+    "timeWeek": 137,
+    "timeMonth": 142,
+    "timeYear": 435,
     "dailyMinutesDown": {
       "2026-04-04": 725,
       "2026-04-03": 1440,
       "2026-04-02": 910,
       "2026-11-07": 45,
-      "2026-11-14": 0
+      "2026-11-14": 3
     }
   },
   {
@@ -154,10 +154,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.uk-experience.com.ico",
     "slug": "blog",
     "status": "up",
-    "uptime": "99.76%",
-    "uptimeDay": "98.57%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.64%",
+    "uptime": "99.75%",
+    "uptimeDay": "98.32%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.63%",
     "uptimeYear": "99.97%",
     "time": 1113,
     "timeDay": 476,
@@ -166,7 +166,7 @@
     "timeYear": 1113,
     "dailyMinutesDown": {
       "2026-10-21": 136,
-      "2026-11-14": 21
+      "2026-11-14": 24
     }
   },
   {
