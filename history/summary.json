@@ -53,9 +53,9 @@
     "slug": "fileserver",
     "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "60.43%",
-    "uptimeWeek": "94.35%",
-    "uptimeMonth": "98.70%",
+    "uptimeDay": "59.90%",
+    "uptimeWeek": "94.27%",
+    "uptimeMonth": "98.68%",
     "uptimeYear": "99.87%",
     "time": 374,
     "timeDay": 180,
@@ -64,7 +64,7 @@
     "timeYear": 374,
     "dailyMinutesDown": {
       "2026-02-25": 42,
-      "2026-11-14": 570
+      "2026-11-14": 577
     }
   },
   {
@@ -102,9 +102,9 @@
     "slug": "flight-tracker-ft",
     "status": "up",
     "uptime": "98.80%",
-    "uptimeDay": "99.77%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.76%",
     "time": 1112,
     "timeDay": 142,
@@ -121,8 +121,7 @@
       "2026-04-28": 60,
       "2026-04-29": 355,
       "2026-06-19": 131,
-      "2026-06-18": 49,
-      "2026-11-14": 3
+      "2026-06-18": 49
     }
   },
   {
