@@ -53,9 +53,9 @@
     "slug": "fileserver",
     "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "74.27%",
-    "uptimeWeek": "96.32%",
-    "uptimeMonth": "99.15%",
+    "uptimeDay": "73.71%",
+    "uptimeWeek": "96.24%",
+    "uptimeMonth": "99.14%",
     "uptimeYear": "99.91%",
     "time": 374,
     "timeDay": 180,
@@ -64,7 +64,7 @@
     "timeYear": 374,
     "dailyMinutesDown": {
       "2026-02-25": 42,
-      "2026-11-14": 371
+      "2026-11-14": 379
     }
   },
   {
@@ -152,20 +152,20 @@
     "url": "https://www.uk-experience.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.uk-experience.com.ico",
     "slug": "blog",
-    "status": "down",
-    "uptime": "99.72%",
-    "uptimeDay": "85.39%",
-    "uptimeWeek": "97.91%",
-    "uptimeMonth": "99.21%",
+    "status": "up",
+    "uptime": "99.71%",
+    "uptimeDay": "84.86%",
+    "uptimeWeek": "97.84%",
+    "uptimeMonth": "99.19%",
     "uptimeYear": "99.93%",
-    "time": 1113,
-    "timeDay": 476,
-    "timeWeek": 509,
-    "timeMonth": 563,
-    "timeYear": 1113,
+    "time": 1111,
+    "timeDay": 473,
+    "timeWeek": 504,
+    "timeMonth": 561,
+    "timeYear": 1111,
     "dailyMinutesDown": {
       "2026-10-21": 136,
-      "2026-11-14": 210
+      "2026-11-14": 218
     }
   },
   {
