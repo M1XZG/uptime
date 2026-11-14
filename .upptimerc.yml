@@ -2,6 +2,25 @@
 owner: m1xzg # Your GitHub organization or username, where this repository lives
 repo: uptime # The name of this repository
 runner: "[self-hosted]"
+secrets:
+  - BBZORADMIN
+  - DOCKTOPUSADDR
+  - EDGEROUTERADDR
+  - FRITZADDR
+  - HELIOSADDR
+  - INFRA01ADDR
+  - NASADDR
+  - NOTIFICATION_DISCORD_WEBHOOK_URL
+  - NOTIFICATION_EMAIL
+  - NOTIFICATION_EMAIL_FROM
+  - NOTIFICATION_EMAIL_SMTP
+  - NOTIFICATION_EMAIL_SMTP_HOST
+  - NOTIFICATION_EMAIL_SMTP_PASSWORD
+  - NOTIFICATION_EMAIL_SMTP_PORT
+  - NOTIFICATION_EMAIL_SMTP_USERNAME
+  - NOTIFICATION_EMAIL_TO
+  - PI42ADDR
+  - TINKERBELLADDR
 workflowSchedule:
   graphs: "0 0 * * *"
   responseTime: "0 23 * * *"
