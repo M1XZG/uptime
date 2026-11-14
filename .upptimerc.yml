@@ -26,12 +26,15 @@ sites:
       - "service:management"
       - "scope:zerotier"
 
-  # Public endpoints
+  # Public endpoints checked from the self-hosted runner.
+  # Globalping was disabled after repeated provider-internal timeouts and API errors.
   - name: Dashboard
     icon: https://github.com/M1XZG/uptime/blob/8165bb3f9d996e7ab7df3d81f117104594aa16c4/assets/icons8-dashboard-100.png
     url: https://dash.rpmdp.com/freeboard/
-    type: globalping
-    globalpingTimeout: 30
+    type: local
+    connectTimeout: 5
+    requestTimeout: 20
+    maxRetries: 1
     tags:
       - "type:web"
       - "scope:public"
@@ -39,48 +42,60 @@ sites:
   - name: Fileserver
     icon: https://github.com/M1XZG/uptime/blob/30609b3290444207169b106574a77770dd4394a6/assets/icons8-cloud-storage-100.png
     url: https://fb.letmeshoot.it/login
-    type: globalping
-    globalpingTimeout: 30
+    type: local
+    connectTimeout: 5
+    requestTimeout: 20
+    maxRetries: 1
     tags:
       - "type:storage"
       - "scope:public"
 
   - name: Flight Tracker (FA)
     url: https://fa.letmeshoot.it
-    type: globalping
-    globalpingTimeout: 30
+    type: local
+    connectTimeout: 5
+    requestTimeout: 20
+    maxRetries: 1
     tags:
       - "type:web"
       - "scope:public"
 
   - name: Flight Tracker (FT)
     url: https://ft.letmeshoot.it
-    type: globalping
-    globalpingTimeout: 30
+    type: local
+    connectTimeout: 5
+    requestTimeout: 20
+    maxRetries: 1
     tags:
       - "type:web"
       - "scope:public"
 
   - name: Wildys Lore
     url: https://lore.wildwanderer-vr.com
-    type: globalping
-    globalpingTimeout: 30
+    type: local
+    connectTimeout: 5
+    requestTimeout: 20
+    maxRetries: 1
     tags:
       - "type:web"
       - "scope:public"
 
   - name: Blog
     url: https://www.uk-experience.com
-    type: globalping
-    globalpingTimeout: 30
+    type: local
+    connectTimeout: 5
+    requestTimeout: 20
+    maxRetries: 1
     tags:
       - "type:web"
       - "scope:public"
 
   - name: Reggie Walks
     url: https://www.reggiewalkswitney.co.uk
-    type: globalping
-    globalpingTimeout: 30
+    type: local
+    connectTimeout: 5
+    requestTimeout: 20
+    maxRetries: 1
     tags:
       - "type:web"
       - "scope:public"
@@ -88,8 +103,10 @@ sites:
   - name: FurHelp
     icon: https://avatars.githubusercontent.com/u/254028347?s=96&v=4
     url: https://furhelp.lgbt/
-    type: globalping
-    globalpingTimeout: 30
+    type: local
+    connectTimeout: 5
+    requestTimeout: 20
+    maxRetries: 1
     tags:
       - "type:web"
       - "scope:public"
