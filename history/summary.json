@@ -128,23 +128,23 @@
     "url": "https://lore.wildwanderer-vr.com",
     "icon": "https://icons.duckduckgo.com/ip3/lore.wildwanderer-vr.com.ico",
     "slug": "wildys-lore",
-    "status": "down",
+    "status": "up",
     "uptime": "99.08%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.54%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.53%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.12%",
-    "time": 438,
-    "timeDay": 50,
-    "timeWeek": 149,
-    "timeMonth": 145,
-    "timeYear": 438,
+    "time": 436,
+    "timeDay": 69,
+    "timeWeek": 143,
+    "timeMonth": 143,
+    "timeYear": 436,
     "dailyMinutesDown": {
       "2026-04-04": 725,
       "2026-04-03": 1440,
       "2026-04-02": 910,
       "2026-11-07": 45,
-      "2026-11-14": 2
+      "2026-11-14": 3
     }
   },
   {
@@ -152,20 +152,20 @@
     "url": "https://www.uk-experience.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.uk-experience.com.ico",
     "slug": "blog",
-    "status": "down",
+    "status": "up",
     "uptime": "99.76%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.69%",
     "uptimeYear": "99.97%",
-    "time": 1115,
-    "timeDay": 474,
-    "timeWeek": 513,
-    "timeMonth": 566,
-    "timeYear": 1115,
+    "time": 1113,
+    "timeDay": 476,
+    "timeWeek": 509,
+    "timeMonth": 563,
+    "timeYear": 1113,
     "dailyMinutesDown": {
       "2026-10-21": 136,
-      "2026-11-14": 0
+      "2026-11-14": 2
     }
   },
   {
