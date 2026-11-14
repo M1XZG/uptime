@@ -25,10 +25,10 @@
     "url": "https://dash.rpmdp.com/freeboard/",
     "icon": "https://github.com/M1XZG/uptime/blob/8165bb3f9d996e7ab7df3d81f117104594aa16c4/assets/icons8-dashboard-100.png",
     "slug": "dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "98.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 581,
@@ -43,7 +43,8 @@
       "2026-05-15": 22,
       "2026-06-19": 130,
       "2026-06-18": 49,
-      "2026-08-20": 135
+      "2026-08-20": 135,
+      "2026-11-14": 2
     }
   },
   {
@@ -130,10 +131,10 @@
     "slug": "wildys-lore",
     "status": "up",
     "uptime": "99.08%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.53%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.12%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.13%",
     "time": 436,
     "timeDay": 69,
     "timeWeek": 143,
@@ -143,8 +144,7 @@
       "2026-04-04": 725,
       "2026-04-03": 1440,
       "2026-04-02": 910,
-      "2026-11-07": 45,
-      "2026-11-14": 3
+      "2026-11-07": 45
     }
   },
   {
@@ -154,8 +154,8 @@
     "slug": "blog",
     "status": "up",
     "uptime": "99.76%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.69%",
     "uptimeYear": "99.97%",
     "time": 1113,
@@ -164,8 +164,7 @@
     "timeMonth": 563,
     "timeYear": 1113,
     "dailyMinutesDown": {
-      "2026-10-21": 136,
-      "2026-11-14": 2
+      "2026-10-21": 136
     }
   },
   {
@@ -173,9 +172,9 @@
     "url": "https://www.reggiewalkswitney.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.reggiewalkswitney.co.uk.ico",
     "slug": "reggie-walks",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.70%",
     "uptimeYear": "99.97%",
@@ -185,7 +184,8 @@
     "timeMonth": 831,
     "timeYear": 1377,
     "dailyMinutesDown": {
-      "2026-10-21": 130
+      "2026-10-21": 130,
+      "2026-11-14": 0
     }
   },
   {
